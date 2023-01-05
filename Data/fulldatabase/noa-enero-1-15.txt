@@ -1,0 +1,667 @@
+localizacion	titulo	descripcion	calif	precio	impuesto	noches	provincia	checkin	checkout
+Libertador General San Martín	Hosteria-Spa Posada del Sol		8,9	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Posada Don Juan		8,9	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 89.197	+ $ 18.731 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Huacalera	Hotel Huacalera		8,5	Precio $ 610.176	+ $ 128.137 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostel Waira	2 camas en habitación compartida	7,9	Precio $ 79.244	+ $ 16.641 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostal Antigua Tilcara	2 camas en habitación compartida	9,2	Precio $ 191.770	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Villa del Cielo		8,9	Precio $ 425.595	+ $ 89.375 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 89.197	+ $ 18.731 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tierra Andina Hostel	2 camas en habitación compartida	8,1	Precio original $ 118.337. Precio actual $ 94.670.	+ $ 19.881 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Patio Chikan		7,3	Precio $ 189.833	+ $ 39.865 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,5	Precio original $ 321.247. Precio actual $ 289.121.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alas del Alma		8,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	San Silvestre - casa con patio y parrilla	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 100m²	8,3	Precio $ 240.989	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 461.691	+ $ 96.955 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Hostal Niña Coya		8,9	Precio $ 229.278	+ $ 48.148 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Farolito Hostel		7,9	Precio $ 258.863	+ $ 54.361 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 279.572. Precio actual $ 223.657.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	CASA ATELIER		8,7	Precio $ 293.378	+ $ 61.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hotel El Jardin		8,2	Precio $ 142.991	+ $ 30.028 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Posada Don Juan		8,9	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	La Casa de Fede		6,8	Precio $ 155.071	+ $ 32.565 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostería el Sol Naciente		7,5	Precio $ 179.971	+ $ 37.794 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Gustavito Servicio de Alojamiento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	8,0	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Casona Inkill Huasi II	Casa o chalet entero, 3 dormitorios, 1 baño, 100m²	NA	Precio $ 500.838	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	La casa del pintor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 390m²	5,5	Precio original $ 554.706. Precio actual $ 424.350.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	Hosteria Maimará		9,2	Precio original $ 517.725. Precio actual $ 414.180.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Huacalera	Hotel Huacalera		8,5	Precio $ 610.176	+ $ 128.137 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Del Amauta Hosteria		8,0	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	samaywasi		7,7	Precio $ 355.012	+ $ 74.552 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Hostería Aguas Coloradas		8,1	Precio $ 640.993	+ $ 134.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Casita de Purmamarca	Villa entera, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,3	Precio $ 540.653	+ $ 113.537 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Patio Chikan		7,3	Precio $ 189.833	+ $ 39.865 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,5	Precio original $ 321.247. Precio actual $ 289.121.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alas del Alma		8,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	San Silvestre - casa con patio y parrilla	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 100m²	8,3	Precio $ 240.989	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 461.691	+ $ 96.955 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Hostal Niña Coya		8,9	Precio $ 229.278	+ $ 48.148 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Farolito Hostel		7,9	Precio $ 258.863	+ $ 54.361 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 279.572. Precio actual $ 223.657.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	CASA ATELIER		8,7	Precio $ 293.378	+ $ 61.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hotel El Jardin		8,2	Precio $ 142.991	+ $ 30.028 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Posada Don Juan		8,9	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	La Casa de Fede		6,8	Precio $ 155.071	+ $ 32.565 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostería el Sol Naciente		7,5	Precio $ 179.971	+ $ 37.794 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Gustavito Servicio de Alojamiento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	8,0	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Casona Inkill Huasi II	Casa o chalet entero, 3 dormitorios, 1 baño, 100m²	NA	Precio $ 500.838	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	La casa del pintor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 390m²	5,5	Precio original $ 554.706. Precio actual $ 424.350.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	Hosteria Maimará		9,2	Precio original $ 517.725. Precio actual $ 414.180.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Del Amauta Hosteria		8,0	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	samaywasi		7,7	Precio $ 355.012	+ $ 74.552 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Hostería Aguas Coloradas		8,1	Precio $ 640.993	+ $ 134.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Purmamarca	Casita de Purmamarca	Villa entera, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,3	Precio $ 540.653	+ $ 113.537 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	Hosteria Maimará		9,2	Precio original $ 517.725. Precio actual $ 414.180.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	La casa del pintor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 390m²	5,5	Precio original $ 554.706. Precio actual $ 424.350.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,5	Precio original $ 321.247. Precio actual $ 289.121.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostel Waira	2 camas en habitación compartida	7,9	Precio $ 79.244	+ $ 16.641 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostal Antigua Tilcara	2 camas en habitación compartida	9,2	Precio $ 191.770	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Villa del Cielo		8,9	Precio $ 425.595	+ $ 89.375 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alas del Alma		8,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 89.197	+ $ 18.731 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tierra Andina Hostel	2 camas en habitación compartida	8,1	Precio original $ 118.337. Precio actual $ 94.670.	+ $ 19.881 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Patio Chikan		7,3	Precio $ 189.833	+ $ 39.865 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	San Silvestre - casa con patio y parrilla	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 100m²	8,3	Precio $ 240.989	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Posada Don Juan		8,9	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 461.691	+ $ 96.955 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Farolito Hostel		7,9	Precio $ 258.863	+ $ 54.361 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 279.572. Precio actual $ 223.657.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	CASA ATELIER		8,7	Precio $ 293.378	+ $ 61.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hotel El Jardin		8,2	Precio $ 142.991	+ $ 30.028 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	La Casa de Fede		6,8	Precio $ 155.071	+ $ 32.565 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostería el Sol Naciente		7,5	Precio $ 179.971	+ $ 37.794 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Gustavito Servicio de Alojamiento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	8,0	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Casona Inkill Huasi II	Casa o chalet entero, 3 dormitorios, 1 baño, 100m²	NA	Precio $ 500.838	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Hostal Niña Coya		8,9	Precio $ 229.278	+ $ 48.148 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	Hosteria Maimará		9,2	Precio original $ 517.725. Precio actual $ 414.180.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Maimará	La casa del pintor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 390m²	5,5	Precio original $ 554.706. Precio actual $ 424.350.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,5	Precio original $ 321.247. Precio actual $ 289.121.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostel Waira	2 camas en habitación compartida	7,9	Precio $ 79.244	+ $ 16.641 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hostal Antigua Tilcara	2 camas en habitación compartida	9,2	Precio $ 191.770	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Villa del Cielo		8,9	Precio $ 425.595	+ $ 89.375 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alas del Alma		8,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 89.197	+ $ 18.731 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tierra Andina Hostel	2 camas en habitación compartida	8,1	Precio original $ 118.337. Precio actual $ 94.670.	+ $ 19.881 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Patio Chikan		7,3	Precio $ 189.833	+ $ 39.865 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	San Silvestre - casa con patio y parrilla	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 100m²	8,3	Precio $ 240.989	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Posada Don Juan		8,9	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 461.691	+ $ 96.955 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	El Farolito Hostel		7,9	Precio $ 258.863	+ $ 54.361 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 279.572. Precio actual $ 223.657.	Incluye impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	CASA ATELIER		8,7	Precio $ 293.378	+ $ 61.609 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Hotel El Jardin		8,2	Precio $ 142.991	+ $ 30.028 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Tilcara	La Casa de Fede		6,8	Precio $ 155.071	+ $ 32.565 de impuestos y cargos	14 noches, 2 adultos	Jujuy	2023-1-1	2023-1-15
+Salta	VIRGILIO TEDIN		NA	Precio $ 82.442	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Paseo de los Poetas Premium	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,6	Precio $ 193.083	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto zona Centro	Apartamento entero, 1 dormitorio, 1 baño, 40m²	NA	Precio $ 121.542	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel de la Linda		8,4	Precio original $ 124.747. Precio actual $ 109.777.	+ $ 23.053 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hermoso depto en pleno centro	Apartamento entero, 1 dormitorio, 1 baño	9,8	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Estación Balcarce	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 29m²	9,3	Precio original $ 139.117. Precio actual $ 106.424.	+ $ 22.349 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Posada Del Sol		7,9	Precio $ 144.224	+ $ 30.287 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Taruca Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,1	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Gran Hotel Presidente		8,0	Precio $ 234.332	+ $ 49.210 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Salta		8,8	Precio original $ 332.823. Precio actual $ 261.504.	+ $ 54.916 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tradición de Salta		8,5	Precio original $ 226.813. Precio actual $ 147.428.	+ $ 30.960 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Selina Salta		8,6	Precio $ 166.412	+ $ 34.946 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	en lo de tomi	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,2	Precio $ 109.841	+ $ 25.004 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Almería		8,6	Precio $ 266.259	+ $ 55.914 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	TERRA VILLAGE	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	8,7	Precio original $ 221.882. Precio actual $ 199.694.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Ayres De Salta Hotel		8,6	Precio $ 313.101	+ $ 65.751 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alquiler Temporario Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,1	Precio $ 84.527	+ $ 18.631 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto. Tribuno	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,6	Precio $ 136.211	+ $ 28.604 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Pachá		8,2	Precio $ 169.839	+ $ 35.666 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Samka		7,3	Precio $ 160.310	+ $ 33.665 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Chawasi Departamentos	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 30m²	9,4	Precio $ 234.209	+ $ 49.184 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Luxor Hotel Salta		7,9	Precio original $ 293.378. Precio actual $ 291.652.	+ $ 61.247 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Premium con vista al cerro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 43m²	9,8	Precio $ 87.265	+ $ 18.326 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MG Design Hotel Boutique		9,7	Precio $ 357.477	+ $ 75.070 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Rutas Hotel		7,5	Precio $ 106.891	+ $ 22.447 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Portezuelo Hotel		8,4	Precio $ 276.613	+ $ 58.089 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Studio Altos de Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	9,5	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Mirador San Francisco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,9	Precio $ 172.575	+ $ 36.980 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tradición de Salta		8,5	Precio original $ 226.813. Precio actual $ 147.428.	+ $ 30.960 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hermoso depto en pleno centro	Apartamento entero, 1 dormitorio, 1 baño	9,8	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Colonial Salta		8,5	Precio original $ 314.531. Precio actual $ 251.625.	+ $ 52.841 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Solar De La Plaza		9,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Lo de Chavela		10	Precio $ 78.891	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Marilian		7,4	Precio original $ 268.724. Precio actual $ 188.107.	+ $ 39.502 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Urquiza Suites Salta	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 16m²	8,3	Precio $ 207.460	+ $ 43.567 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Estación Balcarce	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 29m²	9,3	Precio original $ 139.117. Precio actual $ 106.424.	+ $ 22.349 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apart Hotel B.C.N.		7,2	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel San Francisco		8,5	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Posada El Prado		8,7	Precio $ 244.071	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alejandro 1º Hotel		9,1	Precio $ 495.537	+ $ 104.063 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Cara Oculta de Salta, bed and breakfast		10	Precio $ 157.167	+ $ 33.005 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Ojos de Mar	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	8,8	Precio $ 158.487	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Augusta	Apartamento entero, 1 dormitorio, 1 baño, 26m²	9,0	Precio $ 135.841	+ $ 28.527 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Delvino Boutique Hotel		8,4	Precio $ 292.342	+ $ 61.392 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Isella		7,4	Precio $ 109.888	+ $ 23.076 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Carol 7	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,5	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Wilson Hotel		8,2	Precio $ 234.209	+ $ 49.184 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Estacion Guemes	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 54m²	9,7	Precio original $ 180.218. Precio actual $ 153.185.	+ $ 32.169 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Aires verdes de Capital	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,4	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa De Luz	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 121.507	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Paz y tranquilidad - Departamento con hermosa vista	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 166.412	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	salta centro		8,9	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Dinastia Boutique		6,5	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Samka		7,3	Precio $ 160.310	+ $ 33.665 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Chawasi Departamentos	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 30m²	9,4	Precio $ 234.209	+ $ 49.184 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hermoso depto en pleno centro	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 155.318	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alquiler Temporario Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,1	Precio $ 84.527	+ $ 18.631 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Luxor Hotel Salta		7,9	Precio original $ 293.378. Precio actual $ 291.652.	+ $ 61.247 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Juramento 420	Apartamento entero, 1 dormitorio, 1 baño	10	Precio original $ 184.902. Precio actual $ 147.922.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MG Design Hotel Boutique		9,7	Precio $ 357.477	+ $ 75.070 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Pachá		8,2	Precio $ 169.839	+ $ 35.666 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Rutas Hotel		7,5	Precio $ 106.891	+ $ 22.447 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto. Tribuno	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,6	Precio $ 136.211	+ $ 28.604 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Ankara Suites	Apartamento privado, 1 dormitorio, 1 baño, 1 cocina, 42m²	9,1	Precio original $ 306.198. Precio actual $ 275.578.	+ $ 57.871 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Portezuelo Hotel		8,4	Precio $ 276.613	+ $ 58.089 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Céntrico y Acogedor!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,5	Precio original $ 146.442. Precio actual $ 117.154.	+ $ 4.402 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto Tres Cerritos	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,6	Precio $ 93.684	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Trotamundos hostel Salta		8,5	Precio $ 191.534	+ $ 40.222 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Studio Altos de Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	9,5	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel inty raimi		7,1	Precio $ 158.663	+ $ 33.319 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Colonial Salta		8,5	Precio original $ 314.531. Precio actual $ 251.625.	+ $ 52.841 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	PUNTO NORTE - Departamentos con encanto - O'higgins	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,8	Precio $ 138.764	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Solar De La Plaza		9,1	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Alvarado Suites		8,6	Precio $ 188.600	+ $ 39.606 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto Tres Cerritos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	9,5	Precio $ 125.733	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alquiler Temporal Salta Capital	Apartamento entero, 1 dormitorio, 1 baño, 40m²	NA	Precio $ 133.129	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal del Milagro		6,7	Precio $ 96.149	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Salta Hills 2	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 34m²	9,6	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tym	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,3	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamentos Ibazeta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,6	Precio original $ 166.412. Precio actual $ 157.167.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Marilian II		6,8	Precio $ 99.847	+ $ 20.968 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Posada del Marques Salta		8,3	Precio $ 210.936	+ $ 44.297 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	depto salta dean funes	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,0	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	TERRA VILLAGE	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	8,7	Precio original $ 221.882. Precio actual $ 199.694.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Las Tres Marías		8,2	Precio $ 112.174	+ $ 23.557 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Cerro de la Luna	Apartamento entero, 2 dormitorios, 2 salas de estar, 1 baño, 1 cocina	9,3	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Pachá Anexo		8,2	Precio $ 222.622	+ $ 46.751 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Salta Hills	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 34m²	9,4	Precio $ 132.020	+ $ 27.724 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	SPAZIO ARONA HOTEL BOUTIQUE		8,5	Precio $ 382.624	+ $ 80.351 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alquiler Temporario Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,1	Precio $ 84.527	+ $ 18.631 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	APART LA VIÑA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 18m²	9,2	Precio $ 119.896	+ $ 25.178 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 47m²	9,8	Precio $ 138.764	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Dinastia Boutique		6,5	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hermoso depto en pleno centro	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 155.318	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apart Hotel Marilian	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	8,3	Precio original $ 184.902. Precio actual $ 129.431.	+ $ 27.181 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Céntrico y Acogedor!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,5	Precio original $ 146.442. Precio actual $ 117.154.	+ $ 4.402 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Plaza Paseo de los Poetas		8,1	Precio $ 207.090	+ $ 43.198 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto Tres Cerritos	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,6	Precio $ 93.684	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Trotamundos hostel Salta		8,5	Precio $ 191.534	+ $ 40.222 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Sheraton Salta Hotel		8,1	Precio $ 762.300	+ $ 160.083 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apartamentos del Cerro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,5	Precio $ 218.008	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel inty raimi		7,1	Precio $ 158.663	+ $ 33.319 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	PUNTO NORTE - Departamentos con encanto - O'higgins	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,8	Precio $ 138.764	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Alvarado Suites		8,6	Precio $ 188.600	+ $ 39.606 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Salta Hills 2	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 34m²	9,6	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tym	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,3	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal del Milagro		6,7	Precio $ 96.149	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Salta Hills 2	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 34m²	9,6	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tym	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,3	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto MITRE PEÑAS	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,6	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto. Tribuno	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,6	Precio $ 136.211	+ $ 28.604 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Eco Plaza Hotel		7,3	Precio $ 135.348	+ $ 28.423 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal Tierra del Sol		7,8	Precio $ 168.631	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cerro del sol, habitaciones privadas		7,6	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	T y H Espacios		9,7	Precio $ 110.941	+ $ 23.298 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Alto Mitre	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 48m²	10	Precio $ 198.990	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Chawasi Departamentos	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 30m²	9,4	Precio $ 234.209	+ $ 49.184 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apart Hotel DEL LIBERTADOR	Estudio entero, 1 baño, 30m²	8,4	Precio original $ 123.268. Precio actual $ 98.614.	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Petit Deluxe Salta		7,7	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,7	Precio $ 170.110	+ $ 35.723 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Zuviria 629		9,5	Precio $ 227.651	+ $ 47.807 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Finca La Secundina		8,8	Precio $ 320.497	+ $ 67.304 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Santa Fe Suites Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,4	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Balcarce	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	10	Precio $ 147.922	+ $ 1.409 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Aires Verdes Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,8	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente con TERRAZA PRIVADA!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	10	Precio original $ 221.882. Precio actual $ 199.694.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Moderno departamento con garage en centro de Salta	Apartamento entero, 2 dormitorios, 2 baños, 60m²	10	Precio $ 178.122	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO MITRE	Apartamento entero, 1 dormitorio, 1 baño, 46m²	10	Precio $ 127.829	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dean Funes Suites 606	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,9	Precio $ 234.561	+ $ 49.258 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Brizo Salta		8,6	Precio $ 576.894	+ $ 121.148 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Petit Salta Hotel		7,6	Precio original $ 177.506. Precio actual $ 142.005.	+ $ 29.821 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento en el corazón de Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,1	Precio $ 117.105	+ $ 24.592 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tu Lugar en Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,0	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto Santa Marta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,2	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO CON EXCELENTE UBICACION Y TERRAZA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 46m²	NA	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	EXCLUSIVA CASA en barrio privado a ESTRENAR!	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina	9,2	Precio $ 712.489	+ $ 149.623 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MONOAMBIENTE II para 3 personas en SALTA La Linda!	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,3	Precio $ 155.318	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Premium con vista al cerro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 43m²	9,8	Precio $ 87.265	+ $ 18.326 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Duplex Los Membrillos Tres Cerritos	Casa o chalet entero, 2 dormitorios, 2 baños, 70m²	NA	Precio original $ 213.007. Precio actual $ 191.706.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cono de Arita	Estudio entero, 1 baño, 1 cocina, 27m²	8,7	Precio $ 207.795	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Giova Apart Salta		7,6	Precio $ 166.190	+ $ 34.900 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente en Torre Piazza	Apartamento entero, 1 dormitorio, 1 baño, 39m²	NA	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Torre Piazza 1j	Apartamento entero, 1 dormitorio, 1 baño, 47m²	10	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Studio Altos de Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	9,5	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Vicente López 975 Dpto 202	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio original $ 178.122. Precio actual $ 160.298.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Parador Balcarce	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	9,7	Precio $ 128.199	+ $ 26.922 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Lo de Catalina	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	9,5	Precio $ 178.122	+ $ 37.406 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Alegre	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	9,3	Precio $ 117.351	+ $ 24.644 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Chawasi Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 18m²	8,6	Precio original $ 151.443. Precio actual $ 128.727.	+ $ 27.033 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Brisas	Apartamento entero, 2 dormitorios, 1 baño, 65m²	NA	Precio $ 108.969	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Leguizamon Apart Premium	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,2	Precio $ 267.668	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa del Arte		9,3	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apartamento Güemes	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	7,1	Precio $ 145.949	+ $ 30.649 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente céntrico Salta capital	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,5	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Bambú Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	8,1	Precio $ 150.281	+ $ 31.559 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Duplex Shopping Portal Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	6,3	Precio $ 169.740	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Ghala Salta		7,9	Precio original $ 321.729. Precio actual $ 273.470.	+ $ 57.429 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apartamento Loft Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 135.595	+ $ 28.475 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento en el corazón de Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,1	Precio $ 117.105	+ $ 24.592 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tu Lugar en Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,0	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Terminal	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 42m²	10	Precio $ 177.506	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Habitación Amplia Doble Centrica con baño privado	Apartamento entero, 1 dormitorio, 1 baño	9,3	Precio $ 104.778	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO CENTRO de SALTA	Apartamento entero, 2 dormitorios, 1 baño	9,0	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Residencia Alberdi	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 178.122	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa De Luz	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 121.507	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto Salta Centro Gorriti	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 49m²	8,0	Precio $ 153.469	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Pachá Anexo		8,2	Precio $ 222.622	+ $ 46.751 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamentos Temporarios Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 32m²	9,0	Precio $ 170.110	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MONOAMBIENTE para 3 en Salta La Linda	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,5	Precio $ 155.318	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Filomena	Apartamento entero, 2 dormitorios, 1 baño, 90m²	8,8	Precio $ 201.173	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Paz y tranquilidad - Departamento con hermosa vista	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 166.412	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Gral. Güemes	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 41m²	10	Precio $ 165.655	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Balcon de Belgrano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	NA	Precio $ 125.733	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apartamento en salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,5	Precio $ 152.236	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto. Ameghino 540	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 121.750	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento El Altillo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,8	Precio $ 114.507	+ $ 24.046 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tucumán 751	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños	8,0	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Temponorte Salta I	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	7,3	Precio $ 257.542	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Guest House Salta		9,0	Precio $ 103.545	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente premium	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,9	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cabaña al pie de la montaña con increíble vista	Casa o chalet entero, 1 dormitorio, 1 baño	NA	Precio $ 178.122	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento céntrico para 2 TODO EQUIPADO!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 34m²	7,0	Precio $ 177.506	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	SPAZIO ARONA HOTEL BOUTIQUE		8,5	Precio $ 382.624	+ $ 80.351 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto para 4 personas Centro Salta capital	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 58m²	9,3	Precio $ 175.657	+ $ 36.888 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Arteaga1169		8,7	Precio $ 103.545	+ $ 21.744 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Reyes Catolicos Planta Baja	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 53m²	NA	Precio $ 117.598	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MONOAMBIENTE súper práctico para 2!	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,5	Precio $ 177.506	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento El Altillo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,8	Precio $ 114.507	+ $ 24.046 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tucumán 751	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños	8,0	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Temponorte Salta I	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	7,3	Precio $ 257.542	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Guest House Salta		9,0	Precio $ 103.545	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Augusta	Apartamento entero, 1 dormitorio, 1 baño, 26m²	9,0	Precio $ 135.841	+ $ 28.527 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Refugio del Inca		7,8	Precio $ 187.367	+ $ 39.347 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente premium	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,9	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cabaña al pie de la montaña con increíble vista	Casa o chalet entero, 1 dormitorio, 1 baño	NA	Precio $ 178.122	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento céntrico para 2 TODO EQUIPADO!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 34m²	7,0	Precio $ 177.506	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto para 4 personas Centro Salta capital	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 58m²	9,3	Precio $ 175.657	+ $ 36.888 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Carol 7	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,5	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Arteaga1169		8,7	Precio $ 103.545	+ $ 21.744 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Reyes Catolicos Planta Baja	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 53m²	NA	Precio $ 117.598	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	MONOAMBIENTE súper práctico para 2!	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,5	Precio $ 177.506	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	- Puna - Depto para 4- Nuevo y comodo a 5 min del centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,1	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Carol 6	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,1	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Anamar	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 68m²	9,6	Precio $ 147.922	+ $ 48.321 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Apartamento Boutique	Apartamento entero, 1 dormitorio, 1 baño, 52m²	9,2	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dpto Balcarce Salta	Apartamento entero, 2 dormitorios, 1 baño, 75m²	10	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Portal de los Cerros		8,3	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	HOTEL BOUTIQUE DANNO QUEVEDO		NA	Precio $ 94.300	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	LOS ANDES		8,7	Precio $ 62.867	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento centrico salta	Apartamento entero, 2 dormitorios, 2 baños, 64m²	NA	Precio $ 244.071	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	SUMAQ WASICHA SALTA	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 66m²	9,7	Precio $ 112.702	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monumento 20	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 18m²	9,0	Precio $ 151.398	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Nonna Departamento/ Habitaciones Turistas Salta	Apartamento entero, 3 dormitorios, 3 baños, 116m²	NA	Precio $ 242.049	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente Navajas	Apartamento entero, 1 dormitorio, 1 baño, 35m²	NA	Precio $ 102.312	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Alq temporario en Barrio Tres Cerritos, con cercanía a la Virgen del Cerro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	9,0	Precio $ 128.199	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tierras del Norte	Chalet de montaña entero, 2 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 110m²	9,6	Precio original $ 382.050. Precio actual $ 343.845.	+ $ 72.208 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Tucumán	Apartamento entero, 1 dormitorio, 2 baños	NA	Precio $ 132.020	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	LUJOSO DEPARTAMENTO EN EL CORAZON DE SALTA , UNICO!	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños, 1 cocina	NA	Precio $ 320.620	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa De Luz	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 121.507	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Brillo Norteño	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	8,8	Precio $ 308.645	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	IRMAZUL II	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 179.158	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Los andes		NA	Precio $ 102.460	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento salta capital	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños	NA	Precio original $ 187.022. Precio actual $ 149.617.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Tampu Huasi	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 53m²	NA	Precio $ 175.657	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Paz y tranquilidad - Departamento con hermosa vista	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 166.412	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cálido apartamento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 60m²	8,1	Precio $ 144.400	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	C&P	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	10	Precio $ 147.922	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Rincon del Cerro		8,8	Precio $ 339.603	+ $ 71.317 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	TU DESCANSO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 84m²	8,7	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Aniceto y Pueyrredon	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 88m²	NA	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hotel Buenos Aires		6,0	Precio $ 137.518	+ $ 28.879 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Belgrano	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 152.236	+ $ 31.970 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Carol 2	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal Vampayá		6,9	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	ARENALES 742/403-404	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 137.789	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Samay Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 47m²	NA	Precio $ 146.442	+ $ 30.753 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La casa de la Abuela		8,4	Precio $ 100.587	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	LIA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	8,1	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Altos de Salta	Apartamento entero, 1 dormitorio, 1 baño, 40m²	NA	Precio $ 113.160	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento a 30 metros del Paseo Balcarce.	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 40m²	NA	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento amoblado para dos personas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 201.173	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	King Park II	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	9,6	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	BuenosAires212	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,5	Precio $ 187.367	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Caseros Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 70m²	NA	Precio $ 377.200	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamentos 325 Salta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,0	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	salta centro		8,9	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO CENTRICO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 44m²	NA	Precio $ 157.167	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dean Funes Suites 606	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,9	Precio $ 234.561	+ $ 49.258 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Centro Salta	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,9	Precio $ 249.026	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Los Eucaliptos	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	5,0	Precio $ 168.525	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Gral Paz y Caseros Calido y Luminoso	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	NA	Precio $ 308.170	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Nubes Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,4	Precio original $ 158.135. Precio actual $ 154.187.	+ $ 34.140 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Tu Lugar en Salta	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,0	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Belgrano y Cornejo	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 80m²	NA	Precio $ 311.692	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Naturaleza y tranquilidad	Villa entera, 3 dormitorios, 3 baños, 1 cocina, 200m²	9,7	Precio $ 862.876	+ $ 181.204 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal Amalaya		6,8	Precio $ 138.060	+ $ 28.993 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	V&C	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 1.000m²	NA	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Como en Casa Salta Capital	Apartamento entero, 3 dormitorios, 2 baños, 1 cocina	6,5	Precio $ 277.353	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	KING PARK I	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	8,8	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	departamento centrico	Apartamento entero, 2 dormitorios, 2 baños, 80m²	9,0	Precio $ 493.072	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Haus Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	10	Precio $ 442.285	+ $ 92.880 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Monoambiente amoblado Salta exc ubicación!	Apartamento entero, 1 dormitorio, 1 baño	7,5	Precio $ 251.467	+ $ 52.808 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Duplex 2 Hab 5 personas a estrenar	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	10	Precio $ 268.231	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento Céntrico II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 42m²	NA	Precio $ 159.262	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Depto Leguizamón	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 70m²	10	Precio $ 174.303	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa super cómoda en inmejorable ubicación.	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	10	Precio $ 228.933	+ $ 2.641 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento a 30 metros del Paseo Balcarce.	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 40m²	NA	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento amoblado para dos personas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 201.173	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Gral Paz	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	10	Precio $ 267.196	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cabañas La Heredera	Apartamento entero, 2 dormitorios, 1 baño	9,0	Precio $ 302.820	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Caste	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 301.760	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Habitación privada, en casa al pie del cerro San Bernardo		10	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Aires verdes de Capital	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,4	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO DEAN FUNES	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio original $ 195.922. Precio actual $ 156.737.	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa particular Flavio		1,0	Precio $ 94.916	+ $ 19.932 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dean Funes	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,0	Precio $ 295.843	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento PARA 6 personas EN SALTA! Amplio y luminoso!	Apartamento entero, 4 dormitorios, 3 baños, 1 cocina	8,5	Precio $ 499.235	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Colonial en Macrocentro	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	10	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Nubes Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,4	Precio original $ 158.135. Precio actual $ 154.187.	+ $ 34.140 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	San lorenzoT&G	Villa entera, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	8,0	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal Alto Ayre Salta		6,2	Precio $ 142.991	+ $ 29.737 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Zona Tres Cerritos Virgen Del Cerro	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 150m²	NA	Precio $ 259.849	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	HAUS APARTAMENTOS	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cabaña Benicio	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio original $ 261.078. Precio actual $ 208.862.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Montaña	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 300m²	9,3	Precio $ 1.035.451	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Gracia		9,0	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	CASA HORTENSIA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	8,7	Precio $ 493.072	+ $ 103.545 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa del Peregrino		6,8	Precio $ 207.090	+ $ 43.489 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa amplia y luminosa	Casa o chalet entero, 3 dormitorios, 3 baños, 280m²	NA	Precio original $ 394.457. Precio actual $ 315.566.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa de Huéspedes La Aguada	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	NA	Precio $ 358.340	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	El balcón de G.	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 398.155	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Los lapachos Casa 8 personas	Casa o chalet entero, 4 dormitorios, 1 sala de estar, 1 baño, 80m²	NA	Precio $ 345.150	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Ferienhaus Hostel Salta	2 camas en habitación compartida	8,4	Precio $ 84.562	+ $ 17.758 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento a 30 metros del Paseo Balcarce.	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 40m²	NA	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento amoblado para dos personas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 201.173	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Andino BnB	2 camas en habitación compartida	8,6	Precio $ 88.753	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	LEAD Pods Hostel	2 habitaciones compartidas	8,8	Precio original $ 98.121. Precio actual $ 78.497.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Caste	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 301.760	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Habitación privada, en casa al pie del cerro San Bernardo		10	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Aires verdes de Capital	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,4	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	DEPARTAMENTO DEAN FUNES	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio original $ 195.922. Precio actual $ 156.737.	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa particular Flavio		1,0	Precio $ 94.916	+ $ 19.932 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Dean Funes	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,0	Precio $ 295.843	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento PARA 6 personas EN SALTA! Amplio y luminoso!	Apartamento entero, 4 dormitorios, 3 baños, 1 cocina	8,5	Precio $ 499.235	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Colonial en Macrocentro	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	10	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Nubes Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,4	Precio original $ 158.135. Precio actual $ 154.187.	+ $ 34.140 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	San lorenzoT&G	Villa entera, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	8,0	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Hostal Alto Ayre Salta		6,2	Precio $ 142.991	+ $ 29.737 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa Zona Tres Cerritos Virgen Del Cerro	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 150m²	NA	Precio $ 259.849	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	HAUS APARTAMENTOS	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Cabaña Benicio	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio original $ 261.078. Precio actual $ 208.862.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Montaña	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 300m²	9,3	Precio $ 1.035.451	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	La Gracia		9,0	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	CASA HORTENSIA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	8,7	Precio $ 493.072	+ $ 103.545 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa del Peregrino		6,8	Precio $ 207.090	+ $ 43.489 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa amplia y luminosa	Casa o chalet entero, 3 dormitorios, 3 baños, 280m²	NA	Precio original $ 394.457. Precio actual $ 315.566.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Casa de Huéspedes La Aguada	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	NA	Precio $ 358.340	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	El balcón de G.	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 398.155	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Los lapachos Casa 8 personas	Casa o chalet entero, 4 dormitorios, 1 sala de estar, 1 baño, 80m²	NA	Precio $ 345.150	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Ferienhaus Hostel Salta	2 camas en habitación compartida	8,4	Precio $ 84.562	+ $ 17.758 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento a 30 metros del Paseo Balcarce.	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 40m²	NA	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Salta	Departamento amoblado para dos personas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 201.173	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Grace Cafayate		9,0	Precio $ 707.206	+ $ 148.513 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamentos en los Valles Calchaquíes	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 80m²	9,0	Precio original $ 532.518. Precio actual $ 271.584.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Villa Vicuña Wine & Boutique Hotel		8,9	Precio $ 481.978	+ $ 101.215 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	La Mungana	Casa o chalet entero, 2 dormitorios, 1 baño, 25m²	NA	Precio $ 122.602	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamentos Blazu Cafayate Dos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Eco - Dúplex	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 251.995	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Mirador del Valle		7,5	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Piattelli Wine Resort		9,8	Precio $ 877.668	+ $ 184.310 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Benjamin		8,1	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Nono Huasi Departamentos	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,9	Precio original $ 197.229. Precio actual $ 177.506.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Piedra del Inca	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	8,7	Precio $ 494.551	+ $ 103.856 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Cafayate los toneles		8,1	Precio $ 239.140	+ $ 50.219 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Portal del Valle		8,6	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Alto Del Valle Cafayate		8,5	Precio $ 292.321	+ $ 61.387 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Apart Hotel Don Benito	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	HOTEL REAL CAFAYATE		6,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hotel Emperador		6,9	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Altos Valles del Sol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,0	Precio $ 184.902	+ $ 41.471 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Lo de Vichenzo	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	NA	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Apart Hotel Ñusta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	8,2	Precio $ 305.187	+ $ 64.089 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	cabañas Yamasu Huasi	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 53m²	8,9	Precio $ 616.340	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Cabañas Pulaki Cafayate	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	5,0	Precio $ 369.656	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hermosa Casa en los Valles Calchaquies	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 710.023	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamento en Cafayate	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 515.260	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Casa Valdez	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños	NA	Precio $ 628.667	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Casa Valdez	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños	NA	Precio $ 628.667	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamentos en los Valles Calchaquíes	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 80m²	9,0	Precio original $ 532.518. Precio actual $ 271.584.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Villa Vicuña Wine & Boutique Hotel		8,9	Precio $ 481.978	+ $ 101.215 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	La Mungana	Casa o chalet entero, 2 dormitorios, 1 baño, 25m²	NA	Precio $ 122.602	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamentos Blazu Cafayate Dos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Eco - Dúplex	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 251.995	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Mirador del Valle		7,5	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Piattelli Wine Resort		9,8	Precio $ 877.668	+ $ 184.310 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Benjamin		8,1	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Nono Huasi Departamentos	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,9	Precio original $ 197.229. Precio actual $ 177.506.	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Piedra del Inca	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	8,7	Precio $ 494.551	+ $ 103.856 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Cafayate los toneles		8,1	Precio $ 239.140	+ $ 50.219 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hostal Portal del Valle		8,6	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Alto Del Valle Cafayate		8,5	Precio $ 292.321	+ $ 61.387 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Apart Hotel Don Benito	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	HOTEL REAL CAFAYATE		6,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hotel Emperador		6,9	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Altos Valles del Sol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,0	Precio $ 184.902	+ $ 41.471 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Lo de Vichenzo	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	NA	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Apart Hotel Ñusta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	8,2	Precio $ 305.187	+ $ 64.089 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	cabañas Yamasu Huasi	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 53m²	8,9	Precio $ 616.340	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Cabañas Pulaki Cafayate	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	5,0	Precio $ 369.656	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Hermosa Casa en los Valles Calchaquies	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 710.023	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Departamento en Cafayate	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 515.260	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cafayate	Casa Valdez	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños	NA	Precio $ 628.667	Incluye impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+Cachi	Fincachica	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,9	Precio $ 213.747	+ $ 44.887 de impuestos y cargos	14 noches, 2 adultos	Salta	2023-1-1	2023-1-15
+San Miguel de Tucumán	LG Golden Suites		8,3	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Bicentenario Suites & Spa		8,7	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Edificio Celedonio Gutiérrez 651	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,5	Precio $ 135.595	+ $ 23.298 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Garden		6,8	Precio original $ 110.941. Precio actual $ 88.753.	+ $ 18.638 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Portal del Norte		8,3	Precio $ 77.560	+ $ 16.288 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Francia		8,3	Precio $ 105.197	+ $ 22.091 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Carlos V by DOT Urban		7,6	Precio $ 132.661	+ $ 27.859 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Garden Plaza		8,1	Precio $ 153.426	+ $ 32.220 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Metropol		7,9	Precio $ 160.322	+ $ 33.668 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Le Park		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Lorenzo Suites		6,8	Precio $ 162.714	+ $ 34.170 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Shallor Cryss	Apartamento entero, 1 dormitorio, 1 baño	8,7	Precio $ 108.476	+ $ 22.780 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento 2 ambientes céntrico en Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 106.873	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Sheraton Tucumán Hotel		8,4	Precio $ 312.480	+ $ 65.621 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	The Point Casa Edificio Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 190.819	+ $ 40.072 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hilton Garden Inn Tucuman		8,8	Precio $ 276.360	+ $ 58.036 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Laprida	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 52m²	9,4	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Garden Park Hotel		7,9	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Shallor Cryss Polonia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 152.852	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 130.277	+ $ 26.988 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 197.229. Precio actual $ 177.506.	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Amérian Tucuman Apart & Suites		8,0	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Plano Vertical	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,8	Precio original $ 162.608. Precio actual $ 145.491.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Céntrico San Miguel de Tucuman	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	TORRES DEL TUCUMAN I	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 100.587	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Microcentro 2 Dormitorios	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 110m²	10	Precio original $ 188.600. Precio actual $ 160.310.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	835 Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Barrio Norte	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 104.778	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Suipacha		5,6	Precio $ 73.961	+ $ 15.532 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	El segundo c	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 83.822	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Dpto. Barrio Norte	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 75.440	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Virgen del Valle Apart Tucumán	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 86m²	9,2	Precio $ 155.219	+ $ 18.411 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	PR Apart - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	9,3	Precio $ 266.259	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	B and B Marcos Paz Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 75m²	9,9	Precio $ 114.991	+ $ 24.148 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	El Remanso	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,7	Precio $ 147.922	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Wanderlust	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,5	Precio $ 166.236	+ $ 34.909 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Barrio Sur SMT	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	7,0	Precio $ 117.154	+ $ 24.602 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Alojamiento con historia y calidez	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 600m²	10	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Dpto planta baja La Mendoza	Apartamento entero, 1 dormitorio, 1 baño	9,6	Precio $ 163.770	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tú Hostel	2 camas en habitación compartida	6,5	Precio $ 59.169	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	A la Gurda	2 camas en habitación compartida	8,6	Precio $ 64.099	+ $ 13.461 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Shallor Cryss Polonia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 152.852	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 130.277	+ $ 26.988 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 197.229. Precio actual $ 177.506.	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Amérian Tucuman Apart & Suites		8,0	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Plano Vertical	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,8	Precio original $ 162.608. Precio actual $ 145.491.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Céntrico San Miguel de Tucuman	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Hotel Tafí		8,3	Precio original $ 252.573. Precio actual $ 189.429.	+ $ 39.780 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Hotel Colonial Tafi del Valle by DOT Tradition		8,5	Precio $ 219.121	+ $ 46.015 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	LOS MENIRES II		6,5	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	HOSTERIA BUENAVISTA		6,0	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Alojamiento Alondra		6,0	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Estancia Las Tacanas		7,9	Precio $ 218.360	+ $ 45.856 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Cabañas Jacy	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 90m²	9,1	Precio $ 266.259	+ $ 82.540 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Cabañas La Suyana	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 238.647	+ $ 50.116 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Casa de Verano en Tafi del Valle	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 150m²	7,0	Precio $ 320.497	+ $ 67.304 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Tu Tiempo Departamentos	Apartamento entero, 1 dormitorio, 1 baño, 36m²	NA	Precio $ 272.422	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Cabaña Doña Inés - Tafí del Valle	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 25m²	9,7	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Al Paraíso	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio $ 266.259	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Cabañas Arroyo Morales	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 120m²	9,7	Precio $ 591.686	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí del Valle	Cabañas Tafi del Valle	Casa o chalet entero, 3 dormitorios, 2 baños, 120m²	8,8	Precio $ 591.686	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+El Mollar	Hostería El Remanso		8,6	Precio $ 174.720	+ $ 36.691 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Duplex premium, con pileta, excelente ubicacion I	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 50m²	10	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Cana Cacum	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 18m²	7,5	Precio $ 130.664	+ $ 29.200 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Howard Johnson Hotel Yerba Buena		8,6	Precio $ 320.497	+ $ 67.304 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Casa AMAIA	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio original $ 188.600. Precio actual $ 150.880.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Departamentos La Rinconada	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 37m²	8,4	Precio $ 139.786	+ $ 29.355 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Rincón Colombiano	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,1	Precio $ 121.296	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	PuntoPeru	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 46m²	NA	Precio $ 148.883	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Temporario yerba buena country MP	Casa o chalet entero, 4 dormitorios, 3 baños, 230m²	NA	Precio $ 264.040	+ $ 55.448 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	LyD	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 4 baños	NA	Precio $ 554.706	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	La casona	Villa entera, 1 dormitorio, 1 baño, 35m²	1,0	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Casa con Pileta en Yerba Buena Tucumán	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 408.633	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Casa Los Ceibos estilo Campo	Casa o chalet entero, 3 dormitorios, 2 baños	NA	Precio $ 295.843	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Dpto planta baja La Mendoza	Apartamento entero, 1 dormitorio, 1 baño	9,6	Precio $ 163.770	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Pablo	Casa Albaluz2	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	10	Precio $ 167.644	+ $ 54.611 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Wanderlust	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,5	Precio $ 166.236	+ $ 34.909 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Javier	La Prometida	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 24m²	10	Precio original $ 251.467. Precio actual $ 213.747.	+ $ 21.375 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Plano Vertical	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,8	Precio original $ 162.608. Precio actual $ 145.491.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	LG Golden Suites		8,3	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Shallor Cryss	Apartamento entero, 1 dormitorio, 1 baño	8,7	Precio $ 108.476	+ $ 22.780 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hilton Garden Inn Tucuman		8,8	Precio $ 276.360	+ $ 58.036 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Shallor Cryss Polonia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 152.852	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Suipacha		5,6	Precio $ 73.961	+ $ 15.532 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Virgen del Valle Apart Tucumán	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 86m²	9,2	Precio $ 155.219	+ $ 18.411 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	El Remanso	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,7	Precio $ 147.922	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Bicentenario Suites & Spa		8,7	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Garden		6,8	Precio original $ 110.941. Precio actual $ 88.753.	+ $ 18.638 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Portal del Norte		8,3	Precio $ 77.560	+ $ 16.288 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Francia		8,3	Precio $ 105.197	+ $ 22.091 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Carlos V by DOT Urban		7,6	Precio $ 132.661	+ $ 27.859 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Garden Plaza		8,1	Precio $ 153.426	+ $ 32.220 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Metropol		7,9	Precio $ 160.322	+ $ 33.668 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Le Park		7,9	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Lorenzo Suites		6,8	Precio $ 162.714	+ $ 34.170 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Tafí Viejo	Hostería Atahualpa Yupanqui	Suite privada	9,1	Precio $ 283.516	+ $ 59.538 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tú Hostel	2 camas en habitación compartida	6,5	Precio $ 59.169	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento 2 ambientes céntrico en Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 106.873	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	The Point Casa Edificio Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 190.819	+ $ 40.072 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Laprida	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 52m²	9,4	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 130.277	+ $ 26.988 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 197.229. Precio actual $ 177.506.	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Amérian Tucuman Apart & Suites		8,0	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	A la Gurda	2 camas en habitación compartida	8,6	Precio $ 64.099	+ $ 13.461 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Céntrico San Miguel de Tucuman	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	TORRES DEL TUCUMAN I	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 100.587	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Microcentro 2 Dormitorios	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 110m²	10	Precio original $ 188.600. Precio actual $ 160.310.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	835 Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	El segundo c	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 83.822	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Dpto. Barrio Norte	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 75.440	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	PR Apart - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	9,3	Precio $ 266.259	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Barrio Sur SMT	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	7,0	Precio $ 117.154	+ $ 24.602 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Alojamiento con historia y calidez	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 600m²	10	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Edificio Celedonio Gutiérrez 651	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,5	Precio $ 135.595	+ $ 23.298 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Duplex premium, con pileta, excelente ubicacion I	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 50m²	10	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Sheraton Tucumán Hotel		8,4	Precio $ 312.480	+ $ 65.621 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Garden Park Hotel		7,9	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Barrio Norte	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 104.778	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	B and B Marcos Paz Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 75m²	9,9	Precio $ 114.991	+ $ 24.148 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Racó	Casas de Raco	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	7,4	Precio $ 242.295	+ $ 50.512 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Yerba Buena	Cana Cacum	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 18m²	7,5	Precio $ 130.664	+ $ 29.200 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Racó	Casa de Campo en Raco	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 80m²	8,0	Precio $ 147.922	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Laprida	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 52m²	9,4	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 130.277	+ $ 26.988 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 197.229. Precio actual $ 177.506.	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Amérian Tucuman Apart & Suites		8,0	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	A la Gurda	2 camas en habitación compartida	8,6	Precio $ 64.099	+ $ 13.461 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Céntrico San Miguel de Tucuman	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,3	Precio $ 160.248	+ $ 33.652 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	TORRES DEL TUCUMAN I	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 100.587	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Departamento Microcentro 2 Dormitorios	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 110m²	10	Precio original $ 188.600. Precio actual $ 160.310.	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	835 Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	El segundo c	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 83.822	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+San Miguel de Tucumán	Dpto. Barrio Norte	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 75.440	Incluye impuestos y cargos	14 noches, 2 adultos	Tucuman	2023-1-1	2023-1-15
+Frías	Hotel Llota Queens en Frias		5,7	Precio $ 110.941	+ $ 23.298 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Hotel Libertador		8,1	Precio $ 133.129	+ $ 27.957 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Hilton Garden Inn Santiago Del Estero		9,5	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	NH Santiago del Estero		8,1	Precio $ 183.187	+ $ 38.469 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	TU REFUGIO - Alquiler Temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,7	Precio $ 86.288	+ $ 18.120 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Comodo y sencillo departamento	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 142.498	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Dpto santiago del Estero	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	10	Precio $ 169.740	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	CASA/DEPARTAMENTO PLANTA BAJA AMOBLADO PARA 4 PERSONAS	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	10	Precio $ 160.248	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	San Antonio	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 12m²	8,4	Precio $ 142.103	+ $ 1.786 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Departamento Belgrano	Apartamento entero, 3 dormitorios, 2 baños, 1 cocina, 10m²	9,0	Precio $ 266.259	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Finca El Ceibo		5,5	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Escapada a la madre de ciudades	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	9,6	Precio $ 113.160	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Hermoso monoambiente a estrenar pleno centro Santiago del Estero Dpto Azul	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	9,6	Precio $ 156.726	+ $ 35.554 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Duplex en complejo residencial con estacionamiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina	9,3	Precio $ 152.852	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Casa de campo miana	Casa o chalet entero, 1 dormitorio, 1 baño, 77m²	NA	Precio $ 244.071	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Estudio Centro!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	NA	Precio $ 423.302	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Reserva Natural RG		6,0	Precio $ 387.061	+ $ 81.283 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Casa Connor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 400m²	NA	Precio $ 603.520	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Finca con pileta vip , santiago del Estero	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 200m²	9,5	Precio $ 887.529	+ $ 186.381 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Santiago del Estero	Casa de amigos	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 492.455	+ $ 103.416 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Chumillo	Los Patos	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 15m²	8,6	Precio original $ 112.174. Precio actual $ 94.226.	+ $ 29.210 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+La Banda	La Casita	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	9,2	Precio $ 124.673	+ $ 26.181 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+La Banda	DEPARTAMENTO CATEGORÍA AMOBLADO PARA 4 PERSONAS	Apartamento entero, 2 dormitorios, 2 baños, 140m²	NA	Precio $ 895.862	+ $ 188.131 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+La Banda	Monoambiente nuevo	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 28m²	8,6	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Maco	CASA DE ADOBE	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 65.998	+ $ 6.600 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+La Banda	Casa Quinta en hermoso entorno natural	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 502.933	+ $ 105.616 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Hotel La Fontana		7,9	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Hotel TOTEM Boutique		1,0	Precio $ 149.999	+ $ 31.500 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Alto Rio Hondo		7,0	Precio $ 116.224	+ $ 24.407 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Hotel Mar Del Plata		7,4	Precio $ 142.991	+ $ 30.028 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Hotel Platino Termas All Inclusive		9,0	Precio $ 496.474	+ $ 104.260 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Apart Ma & Cris II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	9,1	Precio $ 276.120	+ $ 57.985 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Apart Ma & Cris	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	8,9	Precio $ 133.129	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Hotel Siglo Sexto		6,4	Precio $ 184.902	+ $ 38.829 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Cabañas del Dique	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,0	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	La vida es bella		8,5	Precio $ 95.409	+ $ 23.734 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Kusi Warma	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	NA	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Un Lugar Nuevo Y Confortable	Apartamento entero, 1 dormitorio, 1 baño, 23m²	8,2	Precio $ 108.476	+ $ 22.780 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	La Moreno	Casa o chalet entero, 5 dormitorios, 1 sala de estar, 5 baños, 1 cocina, 900m²	10	Precio original $ 448.695. Precio actual $ 381.391.	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Departamentos a estrenar	Apartamento entero, 2 dormitorios, 1 cocina, 40m²	8,2	Precio $ 278.050	+ $ 58.391 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Anexo Apart Ma y Cris II. Nuevo sector. 1°piso	Apartamento entero, 1 dormitorio, 1 baño, 35m²	NA	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Termas de Río Hondo	Cabañas Ensueño del Lago	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,2	Precio $ 228.222	+ $ 47.927 de impuestos y cargos	14 noches, 2 adultos	Santiago Del Estero	2023-1-1	2023-1-15
+Tinogasta	Hotel Sante		8,4	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Santa María	HOTEL CAASAMA		8,5	Precio $ 129.431	+ $ 27.181 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Santa María	Departamento Triangulo	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 49m²	9,0	Precio $ 108.634	+ $ 8.356 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Santa María	Apartamentos Quintana	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,1	Precio $ 106.010	+ $ 22.262 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Santa María	Posada los arboles		NA	Precio $ 141.462	+ $ 43.853 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Amaicha del Valle	La Enramada		NA	Precio $ 139.761	+ $ 29.350 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15
+Amaicha del Valle	Camping agreste El Algarrobo de Quilmes	Tienda	10	Precio $ 32.050	+ $ 6.730 de impuestos y cargos	14 noches, 2 adultos	Catamarca	2023-1-1	2023-1-15

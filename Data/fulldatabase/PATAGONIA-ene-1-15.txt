@@ -1,0 +1,574 @@
+localizacion	titulo	descripcion	calif	precio	impuesto	noches	provincia	checkin	checkout
+Santa Rosa	Unit Santa Rosa		8,7	Precio $ 300.470	+ $ 63.099 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Torre Garibaldi	Apartamento entero, 1 dormitorio, 1 baño	7,2	Precio $ 139.428	+ $ 29.280 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Hotel Apart El Faro	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 20m²	6,8	Precio $ 177.790	+ $ 37.336 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Hotel Rucalen		7,7	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Luisito	Apartamento entero, 1 dormitorio, 1 baño	8,4	Precio $ 125.935	Incluye impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Unit Santa Rosa		8,7	Precio $ 300.470	+ $ 63.099 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Torre Garibaldi	Apartamento entero, 1 dormitorio, 1 baño	7,2	Precio $ 139.428	+ $ 29.280 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Hotel Rucalen		7,7	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Hotel Apart El Faro	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 20m²	6,8	Precio $ 177.790	+ $ 37.336 de impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+Santa Rosa	Luisito	Apartamento entero, 1 dormitorio, 1 baño	8,4	Precio $ 125.935	Incluye impuestos y cargos	14 noches, 2 adultos	La Pampa	2023-1-1	2023-1-15
+San Martín de los Andes	Del Viejo Esquiador		8,5	Precio $ 432.696	+ $ 90.866 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Loi Suites Chapelco Hotel		8,5	Precio original $ 853.392. Precio actual $ 682.714.	+ $ 143.370 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hosteria La Chira		9,4	Precio $ 575.348	+ $ 120.823 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	DEPARTAMENTO RAMAYON	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 110m²	NA	Precio $ 440.771	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Caballería de los Andes - Andarlibre	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,2	Precio original $ 295.632. Precio actual $ 266.069.	+ $ 2.646 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa Mora	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	9,2	Precio $ 393.325	+ $ 82.598 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hosteria Cumelen		6,4	Precio $ 292.789	+ $ 61.486 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Patagonia Plaza Hotel		7,9	Precio $ 714.247	+ $ 149.992 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hosteria Las Walkirias		8,4	Precio $ 666.713	+ $ 140.010 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Le Chatelet		8,4	Precio $ 538.753	+ $ 113.138 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas de Alquiler Temporario	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,0	Precio $ 398.616	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hostería El Arbol Duende		8,2	Precio $ 588.929	+ $ 123.675 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cálido Monoambiente con entrepiso, todo equipado, 3PAX (17V1)	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	10	Precio $ 324.961	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Lo de Marcelo	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 397.170	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Plaza Mayor		8,4	Precio $ 380.816	+ $ 79.971 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Apart Hotel Robles del Sur		8,0	Precio $ 465.450	+ $ 97.745 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Aluen Villegas - Andarlibre	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	8,8	Precio original $ 347.945. Precio actual $ 313.150.	+ $ 7.937 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hermoso Eco Lodge		9,9	Precio $ 987.722	+ $ 207.422 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hermoso departamento 3 ambientes con amplio balcón a media cuadra de calle principal (V409)	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 52m²	9,0	Precio $ 375.334	+ $ 78.820 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hosteria Las Lucarnas		9,2	Precio $ 469.168	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Apart Torres Del Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,7	Precio original $ 797.586. Precio actual $ 701.875.	+ $ 147.394 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Nepenpiren	Casa o chalet entero, 4 dormitorios, 1 baño, 1 cocina, 170m²	10	Precio original $ 1.234.653. Precio actual $ 987.722.	+ $ 207.422 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas Chapelco		8,9	Precio $ 630.463	+ $ 132.397 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hostería La Posta Del Cazador		8,7	Precio $ 777.831	+ $ 163.345 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa Flora		NA	Precio $ 777.831	+ $ 163.345 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas Las Marías	Bungalow entero, 2 dormitorios, 2 baños, 1 cocina, 60m²	9,2	Precio $ 839.169	+ $ 176.225 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas Trabunche		9,3	Precio $ 495.343	+ $ 104.022 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Apart Manantial del Valle	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	7,6	Precio $ 592.633	+ $ 124.453 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Inigualable Casa en el Corazón de SM Andes 8 Pax	Chalet de montaña entero, 3 dormitorios, 3 baños, 1 cocina, 150m²	9,0	Precio $ 760.546	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa Mora	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	9,2	Precio $ 393.325	+ $ 82.598 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Departamentos Tres de Caballería	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 543.247	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas Nonthue	Bungalow entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 82m²	9,1	Precio $ 541.723	+ $ 113.762 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	AIKEN 9 SOL	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 50m²	NA	Precio $ 516.085	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hermoso Monoambiente a Estrenar con patio propio.	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	NA	Precio original $ 456.822. Precio actual $ 365.457.	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Lago 5	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 370.396	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas de Alquiler Temporario	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,0	Precio $ 398.616	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	El jardin de San Martin - Andarlibre	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,5	Precio original $ 300.098. Precio actual $ 270.089.	+ $ 10.583 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	El Comienzo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	10	Precio $ 395.089	+ $ 82.969 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Calderon 7 - Andarlibre	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,0	Precio original $ 558.606. Precio actual $ 502.745.	+ $ 9.701 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Mountain Loft Las Pendientes	Apartamento entero, 1 dormitorio, 1 baño, 35m²	7,0	Precio $ 456.822	+ $ 117.442 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Apart Hotel Agua Escondida	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,8	Precio $ 814.871	+ $ 171.123 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Departamentos Mirador del Maipú	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,2	Precio $ 553.124	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Huella Blanca	Bungalow entero, 1 dormitorio, 1 baño, 48m²	9,2	Precio $ 370.396	+ $ 77.783 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Umain4	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	NA	Precio original $ 666.713. Precio actual $ 566.706.	+ $ 119.008 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Huilko	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 87m²	10	Precio $ 869.677	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Sol	Casa o chalet entero, 3 dormitorios, 1 baño, 270m²	NA	Precio $ 1.086.494	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Moderno departamento 5/6 , San Martín de los Andes	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños, 1 cocina	9,6	Precio $ 631.437	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	La Esquina	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 57m²	7,8	Precio $ 567.940	+ $ 119.267 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	PATAGONIA RANCH HAUS	Chalet de montaña entero, 4 dormitorios, 3 baños, 1 cocina, 450m²	NA	Precio $ 666.713	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cuesta de los Andes	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 86m²	9,2	Precio $ 562.261	+ $ 118.075 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hostería Encanto del Lolog		9,1	Precio $ 419.782	+ $ 88.154 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa de Montaña	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 150m²	NA	Precio $ 591.152	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Las Pendientes - Las Julias 2	Bungalow entero, 3 dormitorios, 3 baños, 1 cocina, 150m²	NA	Precio $ 1.358.340	+ $ 14.992 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Las Pendientes - Las Julias 1	Bungalow entero, 3 dormitorios, 3 baños, 1 cocina, 150m²	NA	Precio $ 1.306.090	+ $ 14.992 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa Chimehuin 3 dormitorios 8 pax - AlquilaMiCasa	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 110m²	NA	Precio $ 973.647	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Ruca ar	Chalet de montaña entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	10	Precio original $ 845.095. Precio actual $ 659.174.	+ $ 138.427 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cálido Monoambiente con entrepiso, todo equipado, 3PAX (17V1)	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	10	Precio $ 324.961	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabañas Antilhue	Chalet de montaña entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	6,0	Precio $ 645.081	+ $ 135.467 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Rotui Exclusive Apartment	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 75m²	10	Precio original $ 1.975.445. Precio actual $ 1.560.601.	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cabaña Aires del Bosque - Zona Centro	Casa o chalet entero, 3 dormitorios, 2 baños	NA	Precio $ 864.257	+ $ 181.494 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Soldi 3 - Andarlibre	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio original $ 611.696. Precio actual $ 550.526.	+ $ 12.347 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Las Pendientes - Las Julias 3	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio $ 731.408	+ $ 16.756 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Lo de Marcelo	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 397.170	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	aroma de hogar	Casa o chalet entero, 4 dormitorios, 1 baño, 1 cocina, 120m²	10	Precio $ 1.333.425	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Paraiso Aparts	Apartamento entero, 2 dormitorios, 3 baños, 1 cocina, 80m²	NA	Precio $ 1.391.729	+ $ 292.263 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Rincón de la Patagonia	Casa o chalet entero, 3 dormitorios, 4 baños, 125m²	NA	Precio $ 3.778.038	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Complejo y Hosteria Hua Hum	2 habitaciones compartidas	NA	Precio $ 123.465	+ $ 25.928 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Apart Hotel Agua Escondida	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,8	Precio $ 814.871	+ $ 171.123 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Departamentos Mirador del Maipú	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,2	Precio $ 553.124	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Huella Blanca	Bungalow entero, 1 dormitorio, 1 baño, 48m²	9,2	Precio $ 370.396	+ $ 77.783 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Umain4	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	NA	Precio original $ 666.713. Precio actual $ 566.706.	+ $ 119.008 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Huilko	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 87m²	10	Precio $ 869.677	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Sol	Casa o chalet entero, 3 dormitorios, 1 baño, 270m²	NA	Precio $ 1.086.494	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Moderno departamento 5/6 , San Martín de los Andes	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños, 1 cocina	9,6	Precio $ 631.437	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	La Esquina	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 57m²	7,8	Precio $ 567.940	+ $ 119.267 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	PATAGONIA RANCH HAUS	Chalet de montaña entero, 4 dormitorios, 3 baños, 1 cocina, 450m²	NA	Precio $ 666.713	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Cuesta de los Andes	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 86m²	9,2	Precio $ 562.261	+ $ 118.075 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Hostería Encanto del Lolog		9,1	Precio $ 419.782	+ $ 88.154 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+San Martín de los Andes	Casa de Montaña	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 150m²	NA	Precio $ 591.152	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Del Caballero Castillo Hotel		6,9	Precio $ 323.832	+ $ 68.005 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Sol Arrayan Hotel & Spa		8,3	Precio $ 772.540	+ $ 162.233 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	ATT Sombra Verde	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 518.554	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Barrio Las Balsas, Villa La Angostura	Ruca Kuyen Golf & Resort		8,7	Precio original $ 1.060.962. Precio actual $ 689.626.	+ $ 144.821 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Puerto Manzano, Villa La Angostura	Aldea Bonita		8,5	Precio original $ 925.990. Precio actual $ 722.272.	+ $ 151.677 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Ona Apart Hotel & Spa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,7	Precio $ 577.818	+ $ 121.342 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Correntoso, Villa La Angostura	Correntoso Lake & River Hotel		9,3	Precio original $ 5.366.526. Precio actual $ 4.293.221.	+ $ 901.576 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Hosteria Posta de los Colonos		7,4	Precio $ 439.536	+ $ 92.303 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	De la Plaza Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,4	Precio $ 515.725	+ $ 108.302 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Las Aguas Río Bonito	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 180m²	9,1	Precio $ 1.170.451	+ $ 245.795 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	AWKA Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	9,8	Precio $ 1.011.181	+ $ 212.348 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Cabañas Akermann	Bungalow entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 66m²	9,4	Precio $ 1.061.801	+ $ 222.978 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	The Peak House	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 864.257	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Villa La Angostura	Cabañas la Villa del Montañes	Bungalow entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	8,0	Precio $ 864.257	+ $ 181.494 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Isla Victoria	Las Morillas Huemul	Apartamento entero, 2 dormitorios, 2 baños, 100m²	NA	Precio $ 987.722	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	SMA FLATS	Estudio entero, 1 baño, 1 cocina, 35m²	8,2	Precio original $ 333.356. Precio actual $ 296.317.	+ $ 62.227 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hotel El Cortijo		7,7	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Cyan Soho Neuquén Hotel		8,6	Precio $ 391.561	+ $ 82.228 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hilton Garden Inn Neuquen		8,6	Precio $ 413.319	+ $ 86.797 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	El Prado		8,1	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	LELOIR Suites & Meetings	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,0	Precio $ 222.238	+ $ 46.670 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Apartamento Studio Neuquen	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio original $ 232.115. Precio actual $ 220.509.	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Huemul		8,0	Precio original $ 266.685. Precio actual $ 228.587.	+ $ 48.003 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Apart Hotel Rivadavia 815	Apartamento privado, 1 dormitorio, 1 baño, 30m²	8,6	Precio $ 220.879	+ $ 46.385 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Loi Flats Edificio Talero	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 51m²	9,7	Precio $ 232.427	+ $ 48.810 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hotel NEU 354		8,1	Precio $ 259.746	+ $ 54.547 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Comfort Patagonia Inn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 63m²	9,6	Precio original $ 407.435. Precio actual $ 351.876.	+ $ 73.894 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hotel Comahue Business		8,2	Precio $ 418.018	+ $ 87.784 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Leloir Flats	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,8	Precio original $ 398.616. Precio actual $ 338.824.	+ $ 71.153 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hotel Del Comahue		7,9	Precio $ 470.050	+ $ 98.710 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Live Inn Neuquen	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 58m²	9,4	Precio $ 277.797	+ $ 58.337 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Apart centrico 2 dorm balcon con parrilla opcion cochera	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 80m²	10	Precio original $ 419.076. Precio actual $ 325.737.	+ $ 68.405 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Excelente Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	10	Precio $ 160.011	+ $ 33.602 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Casa check in Dpto 2 a 4 pers	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 232.291	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Departamento BEQUEM- Pleno centro con cochera	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 77m²	9,8	Precio original $ 370.396. Precio actual $ 317.482.	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	SanPier - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,0	Precio $ 276.562	+ $ 58.078 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	RINCON DE LAS 5 PERLAS	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 1.000m²	NA	Precio original $ 404.028. Precio actual $ 323.222.	+ $ 67.877 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Bernardino Hostel Boutique	2 camas en habitación compartida	9,1	Precio $ 168.012	Incluye impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	HOSTEL NEUQUEN	2 camas en habitación compartida	6,3	Precio $ 111.119	+ $ 23.335 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Neuquén	Hostel Punto Patagonico	2 camas en habitación compartida	8,0	Precio $ 138.281	+ $ 29.039 de impuestos y cargos	14 noches, 2 adultos	Neuquen	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Refugio Knapp		8,6	Precio original $ 497.992. Precio actual $ 298.795.	+ $ 62.747 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Flamingo		8,4	Precio original $ 271.624. Precio actual $ 217.299.	+ $ 45.633 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Plaza Bariloche		7,1	Precio original $ 450.394. Precio actual $ 309.854.	+ $ 65.069 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Cabañas km7 Bariloche	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	NA	Precio $ 314.836	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Mitre suites Bariloche	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	8,8	Precio original $ 440.030. Precio actual $ 311.133.	+ $ 65.338 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamentos Catedral en el centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 222.238	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Panamericano Bariloche		8,0	Precio $ 556.169	+ $ 116.795 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Residencial Sissus		8,5	Precio $ 224.583	+ $ 47.163 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Loft Catedral by Base 41		8,2	Precio original $ 289.464. Precio actual $ 173.679.	+ $ 36.473 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Estancia Del Carmen Mountain Resort	Bungalow entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,2	Precio $ 383.656	+ $ 80.568 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Posadas Aurelio	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	10	Precio $ 493.861	+ $ 103.711 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	NH Bariloche Edelweiss		8,2	Precio $ 587.924	+ $ 123.464 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Ruca Cheli Village Ski Hotel		8,1	Precio original $ 293.847. Precio actual $ 249.770.	+ $ 52.452 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Tierra Gaucha		7,7	Precio original $ 549.391. Precio actual $ 388.462.	+ $ 81.577 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Tres Reyes		8,2	Precio original $ 560.651. Precio actual $ 448.521.	+ $ 94.189 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Espectacular casa en el bosque	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 200m²	NA	Precio $ 1.259.346	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Premier Bariloche		7,4	Precio original $ 439.492. Precio actual $ 263.695.	+ $ 55.376 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Village Catedral Hotel & Spa By Nobile		7,1	Precio $ 384.718	+ $ 80.791 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hampton By Hilton Bariloche		8,6	Precio $ 540.072	+ $ 113.415 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Mara Bariloche	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	8,7	Precio $ 261.253	+ $ 54.863 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Soft Bariloche Hotel		7,7	Precio $ 291.378	+ $ 61.189 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hosteria Santa Rita		7,8	Precio original $ 539.191. Precio actual $ 356.398.	+ $ 74.844 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Llao Llao, San Carlos de Bariloche	Hotel Tunquelén		7,9	Precio original $ 800.055. Precio actual $ 640.044.	+ $ 134.409 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Huinid Pioneros Hotel		8,2	Precio $ 565.912	+ $ 118.842 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Orillas del Gutierrez	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,6	Precio $ 600.055	+ $ 126.012 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Bariloche By Tierra Gaucha		7,4	Precio original $ 480.040. Precio actual $ 339.410.	+ $ 71.276 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Tierra Gaucha 2		7,8	Precio original $ 471.470. Precio actual $ 324.356.	+ $ 68.115 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	HOTEL CONCEPT BARILOCHE		8,0	Precio original $ 526.659. Precio actual $ 345.893.	+ $ 72.638 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Los Robles Apart & Spa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,5	Precio $ 542.006	+ $ 113.821 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Posadas Aurelio	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	10	Precio $ 493.861	+ $ 103.711 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Italia Inn Hostel		7,9	Precio $ 449.412	+ $ 94.376 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Huella Andina		7,6	Precio $ 258.275	+ $ 54.238 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Aguila Mora Suites & Spa	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	8,6	Precio original $ 1.335.730. Precio actual $ 935.011.	+ $ 196.352 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Llao Llao, San Carlos de Bariloche	Hotel Tunquelén		7,9	Precio $ 800.055	+ $ 168.012 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	La Cascada Casa Patagónica by DON		8,7	Precio $ 809.130	+ $ 169.917 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Village Catedral Hotel & Spa By Nobile		7,1	Precio $ 384.718	+ $ 80.791 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Kospi Boutique Guesthouse		8,3	Precio original $ 329.233. Precio actual $ 246.925.	+ $ 51.854 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Refugio Knapp		8,6	Precio original $ 497.992. Precio actual $ 298.795.	+ $ 62.747 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Playa Bonita, San Carlos de Bariloche	Apart Del Lago		7,6	Precio original $ 674.120. Precio actual $ 471.884.	+ $ 99.096 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Alun Nehuen		8,5	Precio $ 246.437	+ $ 51.752 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Cabañas El estribo sur Bariloche	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	NA	Precio $ 444.475	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Kenton Palace Bariloche	Suite privada	7,0	Precio original $ 867.578. Precio actual $ 607.305.	+ $ 127.534 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Llao Llao, San Carlos de Bariloche	Le Bouquet Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 65m²	8,5	Precio $ 582.756	+ $ 122.379 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	medio pelo super centrico	Apartamento entero, 1 dormitorio, 1 baño, 10m²	7,6	Precio $ 244.461	+ $ 51.337 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	View Hotel BRC		8,9	Precio $ 336.002	+ $ 70.560 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Fazenda Carioca		8,0	Precio $ 558.359	+ $ 117.255 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Nido del Cóndor Hotel & Spa		8,6	Precio original $ 1.427.948. Precio actual $ 1.070.961.	+ $ 224.902 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hotel Bariloche Flat		6,5	Precio $ 357.284	+ $ 75.030 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	NBH Nativo Boutique Hotel		8,3	Precio original $ 779.345. Precio actual $ 678.029.	+ $ 142.386 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hostería Carelhue		9,5	Precio $ 358.049	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Sol del Nahuel - Hotel & Spa	Suite privada	8,4	Precio $ 1.269.929	+ $ 266.685 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Boutique Hotel & Spa Bosque del Nahuel	Suite privada	8,9	Precio $ 677.824	+ $ 142.343 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	LAS LILAS HOSTERIA		8,1	Precio $ 300.021	+ $ 63.004 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Marcopolo Inn Hostel Bariloche		7,7	Precio $ 225.719	+ $ 47.401 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Mara Bariloche	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	8,7	Precio $ 261.253	+ $ 54.863 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Residencial Panoramico Bariloche		7,7	Precio $ 234.584	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Village Condo By Nobile	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 77m²	8,4	Precio $ 675.602	+ $ 141.876 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Amplio y moderno departamento familiar céntrico con vista al lago hasta 6 pax	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 93m²	9,3	Precio $ 734.618	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hostería Suiza - Ex Casita Suiza		8,2	Precio $ 299.095	+ $ 62.810 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Cabañas Los Coihues	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 100m²	7,3	Precio $ 398.793	+ $ 86.392 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Orillas del Gutierrez	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,6	Precio $ 600.055	+ $ 126.012 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Las Gaviotas	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 75m²	8,1	Precio $ 777.258	+ $ 163.224 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Cabañas Buena Vista Rosi	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño	7,4	Precio $ 304.959	+ $ 64.041 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Complejo El Arroyo Bustillo 10700	Chalet de montaña entero, 2 dormitorios, 2 baños, 75m²	9,8	Precio $ 617.326	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Huinid Cabañas Bustillo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 75m²	8,4	Precio original $ 1.017.530. Precio actual $ 915.777.	+ $ 192.313 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Apart Costa Azul	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	6,6	Precio $ 562.850	+ $ 118.198 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Centro Ivi	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	7,9	Precio $ 351.188	+ $ 73.750 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Belgrano Center SCB	Apartamento entero, 1 dormitorio, 1 baño, 36m²	9,0	Precio $ 345.703	+ $ 72.598 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Hosteria El Condado by Nordic		8,9	Precio original $ 597.572. Precio actual $ 418.300.	+ $ 87.843 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	La Justina Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	NA	Precio $ 444.475	+ $ 93.340 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Apart Altos Del Nahuel	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 55m²	8,1	Precio $ 671.651	+ $ 141.047 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hostel Arrayan		7,5	Precio $ 444.475	+ $ 93.340 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hosteria El Aljibe		NA	Precio $ 293.354	+ $ 61.604 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	La Fontana Cabañas		7,4	Precio $ 324.361	+ $ 68.116 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Bahia Paraiso Luxury Suites Boutique Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,0	Precio $ 560.532	+ $ 117.712 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	La Fontana Cabañas		7,4	Precio $ 324.361	+ $ 68.116 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Bahia Paraiso Luxury Suites Boutique Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,0	Precio $ 560.532	+ $ 117.712 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Cabaña Rosi Ladera Cerro Otto 1 y 2	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño	7,2	Precio $ 222.855	+ $ 46.800 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Departamento Laguna Blanca	Apartamento entero, 1 dormitorio, 1 baño	9,2	Precio $ 361.577	+ $ 75.931 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Orillas del Gutierrez	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,6	Precio $ 600.055	+ $ 126.012 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	La casa sobre Roca	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 150m²	9,7	Precio $ 408.028	+ $ 85.686 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Apartamento Bariloche Center	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 24m²	9,2	Precio original $ 472.696. Precio actual $ 422.251.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Arcangeles	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños	9,4	Precio $ 834.747	+ $ 175.297 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Puente Austral	Bungalow entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	8,9	Precio $ 666.713	+ $ 140.010 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Lejano Nahuel	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	7,6	Precio $ 622.265	+ $ 130.676 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Los Robles Apart & Spa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,5	Precio $ 542.006	+ $ 113.821 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	VF CATEDRAL	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 48m²	7,5	Precio $ 394.595	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Casa Campo B&B		10	Precio $ 488.923	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Tacuarí	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,9	Precio $ 361.577	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Apart Hotel Bungalows El Viejo Cipres	Bungalow entero, 2 dormitorios, 1 sala de estar, 2 baños, 68m²	9,1	Precio $ 563.002	+ $ 118.230 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Centro Ivi	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	7,9	Precio $ 351.188	+ $ 73.750 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	De las Rosas Bariloche	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 28m²	8,1	Precio $ 382.742	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Turistico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	7,6	Precio $ 864.257	+ $ 181.494 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Posada del Angel		8,6	Precio $ 283.970	+ $ 64.572 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Casa céntrica para 3 personas	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	NA	Precio $ 322.244	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Mont Blanc Bungalows	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,4	Precio original $ 340.764. Precio actual $ 306.688.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Alma	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio $ 366.470	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Los Amancay	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	9,6	Precio $ 387.152	+ $ 81.302 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Lujoso departamento, entorno y vistas increíbles	Apartamento entero, 2 dormitorios, 2 baños, 126m²	NA	Precio $ 1.135.881	+ $ 238.535 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	la casa de Nelly	Casa o chalet entero, 4 dormitorios, 2 baños, 150m²	NA	Precio $ 881.013	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Bahia Paraiso Luxury Suites Boutique Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,0	Precio $ 560.532	+ $ 117.712 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Casa en el Bosque en Bariloche	Chalet de montaña entero, 3 dormitorios, 3 baños, 200m²	NA	Precio $ 1.219.837	+ $ 256.166 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Patagonia Oeste	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 28m²	NA	Precio $ 351.876	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Tres Deseos	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 54m²	8,0	Precio $ 475.341	+ $ 99.822 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	medio pelo super centrico	Apartamento entero, 1 dormitorio, 1 baño, 10m²	7,6	Precio $ 244.461	+ $ 51.337 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Principessa en pleno centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	NA	Precio $ 513.863	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	ALTOS DE QUINCHAHUALA - CASA BARRIO PRIVADO	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 4 baños	NA	Precio $ 1.234.653	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Destinar Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 84m²	NA	Precio $ 470.872	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	BAM Depto STUDIO CENTRO DE LA CIUDAD VISTA LAGO	Apartamento entero, 1 baño, 1 cocina, 27m²	NA	Precio $ 555.594	+ $ 116.675 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Las Marias, Bariloche	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 100m²	NA	Precio $ 598.189	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Loft Catedral by Base 41		8,2	Precio original $ 289.464. Precio actual $ 173.679.	+ $ 36.473 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Casa Fischer del Lago	Casa o chalet entero, 3 dormitorios, 2 salas de estar, 1 baño, 1 cocina, 120m²	8,6	Precio $ 765.485	+ $ 160.752 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hermoso duplex en la ladera del Cerro Otto.	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 100m²	NA	Precio $ 617.326	+ $ 21.165 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cerro Catedral, San Carlos de Bariloche	Schuss Cerro Catedral ARG41	Chalet de montaña entero, 4 dormitorios, 2 salas de estar, 3 baños, 1 cocina, 150m²	9,0	Precio $ 15.867.758	+ $ 3.339.284 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hermoso departamento céntrico	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 12m²	NA	Precio $ 753.138	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Rayen Mapu	Bungalow entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 85m²	9,3	Precio original $ 1.358.118. Precio actual $ 1.018.589.	+ $ 213.904 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Alaska Patagonia Hostel	2 camas en habitación compartida	10	Precio $ 155.721	+ $ 32.702 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Tierra Gaucha 1	2 camas en habitación compartida	8,0	Precio original $ 373.803. Precio actual $ 257.104.	+ $ 53.992 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Hostel Inn Bariloche	2 camas en habitación compartida	8,0	Precio $ 186.235	+ $ 39.109 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Casa céntrica para 3 personas	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	NA	Precio $ 322.244	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Mont Blanc Bungalows	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,4	Precio original $ 340.764. Precio actual $ 306.688.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Departamento Alma	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio $ 366.470	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Gutiérrez, San Carlos de Bariloche	Los Amancay	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	9,6	Precio $ 387.152	+ $ 81.302 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	Lujoso departamento, entorno y vistas increíbles	Apartamento entero, 2 dormitorios, 2 baños, 126m²	NA	Precio $ 1.135.881	+ $ 238.535 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+San Carlos de Bariloche	la casa de Nelly	Casa o chalet entero, 4 dormitorios, 2 baños, 150m²	NA	Precio $ 881.013	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	La Casona De Odile	2 camas en habitación compartida	9,1	Precio $ 141.809	+ $ 29.780 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Cumbres Hotel		8,5	Precio $ 515.789	+ $ 108.316 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	El Pueblito EcoHostel	2 camas en habitación compartida	8,3	Precio original $ 157.422. Precio actual $ 133.808.	+ $ 28.100 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	La Casa del Arbol - Hostel El Bolsón	Cama en habitación compartida, Cama en habitación compartida	8,0	Precio $ 176.599	+ $ 37.086 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Departamentos La Gringa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,1	Precio $ 293.847	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Ankatu Hostel	Cama en habitación compartida, 20m², Cama en habitación compartida	6,9	Precio $ 144.631	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Cabañas El Bolsón	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 419.782	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	DEPARTAMENTO EL BOLSÓN SUR	Apartamento entero, 2 dormitorios, 2 baños, 45m²	NA	Precio $ 358.914	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	CABAÑAS AILIN-CO	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	9,4	Precio $ 1.234.653	+ $ 259.277 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Complejo La Cordillera Cabañas El Bolsòn	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	8,3	Precio $ 377.804	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Departamento céntrico 1	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,7	Precio original $ 372.160. Precio actual $ 297.728.	+ $ 62.523 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	La posada de Icha	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 55m²	8,5	Precio $ 416.784	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	Origenes Ecolodge de Montaña		NA	Precio $ 493.861	+ $ 103.711 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Bolsón	mirando al cerro	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 12m²	9,0	Precio $ 461.760	+ $ 96.970 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Golondrinas	Cabaña El Maitén, sobre bosque.	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 10.000m²	NA	Precio $ 355.580	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Puelo	Complejo Turistico Paralelo 42	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 387.755	+ $ 81.429 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Hoyo	Los Saucos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,8	Precio $ 345.505	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Puelo	Cabaña alpina holandesa	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 68m²	NA	Precio $ 370.396	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Puelo	La Estacion Hostel	2 camas en habitación compartida	8,3	Precio $ 98.772	+ $ 20.742 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Puelo	Casa koi	Villa entera, 2 dormitorios, 1 baño, 1 cocina, 30m²	NA	Precio $ 312.219	+ $ 65.566 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Hoyo	Hostel Chacra La Templanza	2 camas en habitación compartida	9,0	Precio $ 108.649	+ $ 22.816 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Lago Puelo	Huala Hosteria		9,5	Precio $ 282.206	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+El Hoyo	Cabaña Don Ramon - Puerto Patriada	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 570.039	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Las Grutas	Complejo Los Troncos -Adults Only	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 45m²	9,4	Precio $ 468.286	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Las Grutas	Apart Eva Luna Departamentos y Habitaciones con baño privado		7,6	Precio $ 296.317	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Viedma	Marea Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio original $ 184.704. Precio actual $ 166.234.	+ $ 1.764 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Viedma	Hermosa casa para 6 personas	Casa o chalet entero, 3 dormitorios, 2 baños, 130m²	NA	Precio $ 266.685	+ $ 1.764 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Viedma	Departamentos Saavedra	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,4	Precio $ 205.861	+ $ 43.231 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Carmen de Patagones	Bahía Delfin	Casa o chalet entero, 2 dormitorios, 1 baño, 70m²	NA	Precio $ 104.945	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cipolletti	Nandó Apart Hotel		8,4	Precio $ 221.708	+ $ 46.559 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cipolletti	Hotel y Casino del Río - Cipolletti		9,2	Precio $ 317.556	+ $ 66.687 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cipolletti	Monoambiente Home&Office	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 53m²	9,4	Precio original $ 234.584. Precio actual $ 167.913.	+ $ 1.764 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cipolletti	Monoambiente H&O	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,3	Precio original $ 234.584. Precio actual $ 167.913.	+ $ 1.764 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Cipolletti	Ruffus's Apple	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 55m²	7,7	Precio $ 311.133	+ $ 118.527 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Excelente Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	10	Precio $ 160.011	+ $ 33.602 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	LELOIR Suites & Meetings	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,0	Precio $ 222.238	+ $ 46.670 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel El Cortijo		7,7	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Cyan Soho Neuquén Hotel		8,6	Precio $ 391.561	+ $ 82.228 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hilton Garden Inn Neuquen		8,6	Precio $ 413.319	+ $ 86.797 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	El Prado		8,1	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Huemul		8,0	Precio original $ 266.685. Precio actual $ 228.587.	+ $ 48.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Apart Hotel Rivadavia 815	Apartamento privado, 1 dormitorio, 1 baño, 30m²	8,6	Precio $ 220.879	+ $ 46.385 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Bernardino Hostel Boutique	2 camas en habitación compartida	9,1	Precio $ 168.012	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Loi Flats Edificio Talero	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 51m²	9,7	Precio $ 232.427	+ $ 48.810 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel NEU 354		8,1	Precio $ 259.746	+ $ 54.547 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Comfort Patagonia Inn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 63m²	9,6	Precio original $ 407.435. Precio actual $ 351.876.	+ $ 73.894 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Leloir Flats	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,8	Precio $ 338.824	+ $ 71.153 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Live Inn Neuquen	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 58m²	9,4	Precio $ 277.797	+ $ 58.337 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Casa check in Dpto 2 a 4 pers	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 232.291	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Departamento BEQUEM- Pleno centro con cochera	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 77m²	9,8	Precio original $ 370.396. Precio actual $ 317.482.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hostel Punto Patagonico	2 camas en habitación compartida	8,0	Precio $ 138.281	+ $ 29.039 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel Comahue Business		8,2	Precio $ 418.018	+ $ 87.784 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel Del Comahue		7,9	Precio $ 470.050	+ $ 98.710 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Apart centrico 2 dorm balcon con parrilla opcion cochera	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 80m²	10	Precio original $ 419.076. Precio actual $ 325.737.	+ $ 68.405 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel Del Comahue		7,9	Precio $ 470.050	+ $ 98.710 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Apartamento Studio Neuquen	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	NA	Precio original $ 232.115. Precio actual $ 220.509.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	SMA FLATS	Estudio entero, 1 baño, 1 cocina, 35m²	8,2	Precio original $ 333.356. Precio actual $ 296.317.	+ $ 62.227 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	HOSTEL NEUQUEN	2 camas en habitación compartida	6,3	Precio $ 111.119	+ $ 23.335 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	RINCON DE LAS 5 PERLAS	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 1.000m²	NA	Precio original $ 404.028. Precio actual $ 323.222.	+ $ 67.877 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Allen	SanPier - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,9	Precio $ 200.225	+ $ 42.047 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	LELOIR Suites & Meetings	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,0	Precio $ 222.238	+ $ 46.670 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel El Cortijo		7,7	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Cyan Soho Neuquén Hotel		8,6	Precio $ 391.561	+ $ 82.228 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hilton Garden Inn Neuquen		8,6	Precio $ 413.319	+ $ 86.797 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	El Prado		8,1	Precio $ 200.014	+ $ 42.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Huemul		8,0	Precio original $ 266.685. Precio actual $ 228.587.	+ $ 48.003 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Apart Hotel Rivadavia 815	Apartamento privado, 1 dormitorio, 1 baño, 30m²	8,6	Precio $ 220.879	+ $ 46.385 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Bernardino Hostel Boutique	2 camas en habitación compartida	9,1	Precio $ 168.012	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Loi Flats Edificio Talero	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 51m²	9,7	Precio $ 232.427	+ $ 48.810 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel NEU 354		8,1	Precio $ 259.746	+ $ 54.547 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Comfort Patagonia Inn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 63m²	9,6	Precio original $ 407.435. Precio actual $ 351.876.	+ $ 73.894 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Leloir Flats	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,8	Precio $ 338.824	+ $ 71.153 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Live Inn Neuquen	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 58m²	9,4	Precio $ 277.797	+ $ 58.337 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Casa check in Dpto 2 a 4 pers	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,3	Precio $ 232.291	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Departamento BEQUEM- Pleno centro con cochera	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 77m²	9,8	Precio original $ 370.396. Precio actual $ 317.482.	Incluye impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hostel Punto Patagonico	2 camas en habitación compartida	8,0	Precio $ 138.281	+ $ 29.039 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel Comahue Business		8,2	Precio $ 418.018	+ $ 87.784 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Hotel Del Comahue		7,9	Precio $ 470.050	+ $ 98.710 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Neuquén	Apart centrico 2 dorm balcon con parrilla opcion cochera	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 80m²	10	Precio original $ 419.076. Precio actual $ 325.737.	+ $ 68.405 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Playas Doradas	Complejo La Celeste	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 90m²	8,2	Precio $ 404.966	+ $ 85.043 de impuestos y cargos	14 noches, 2 adultos	Rio Negro	2023-1-1	2023-1-15
+Puerto Pirámides	The Paradise		7,7	Precio $ 554.712	+ $ 116.489 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Patagonia Apart Hotel		8,0	Precio $ 240.581	+ $ 50.522 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Tolosa		8,8	Precio $ 341.293	+ $ 71.672 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Península Valdés		8,7	Precio $ 434.598	+ $ 91.266 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Gran Madryn		7,9	Precio original $ 365.284. Precio actual $ 263.919.	+ $ 55.423 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Casa Waina		NA	Precio original $ 192.253. Precio actual $ 182.640.	+ $ 38.354 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Australis Yene Hue		7,4	Precio $ 346.888	+ $ 72.846 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Rumel Quimey Quipan		7,1	Precio $ 173.292	+ $ 36.391 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Territorio		8,5	Precio $ 431.635	+ $ 90.643 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	CQ MITRE	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 65m²	9,4	Precio $ 285.847	+ $ 60.028 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Vida, hotel de playa		8,0	Precio $ 233.349	+ $ 49.003 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Epic temporario Madryn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	9,4	Precio $ 411.845	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Piren		8,7	Precio $ 364.298	+ $ 76.503 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	El Gualicho Hostel		8,6	Precio $ 224.991	+ $ 47.248 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Posada del Sol	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,2	Precio $ 282.912	+ $ 59.411 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Proyecto 44	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 50m²	7,9	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto 9 de julio	Apartamento entero, 2 dormitorios, 1 baño, 70m²	9,7	Precio $ 469.168	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Horizonte Sur - Puerto Madryn	Apartamento entero, 1 dormitorio, 1 baño, 42m²	9,3	Precio $ 219.063	+ $ 46.003 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Chepatagonia Hostel		9,4	Precio $ 253.986	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Patagonien Alquiler Temporario	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 110m²	9,1	Precio $ 555.594	+ $ 116.675 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Rincon Gales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	9,0	Precio $ 259.277	+ $ 54.448 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto Apeleg	Apartamento entero, 2 dormitorios, 2 baños, 65m²	9,2	Precio $ 456.822	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Gales Madryn	Apartamento entero, 1 dormitorio, 1 cocina	9,2	Precio $ 321.010	+ $ 67.412 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Temporarios Madryn	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 72m²	8,5	Precio $ 508.677	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	LINEA RECTA SUR - Mara	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 82m²	NA	Precio $ 398.793	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Mimí	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	NA	Precio $ 325.948	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Dormís Acá	2 camas en habitación compartida	9,2	Precio $ 142.514	+ $ 29.928 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	El Caminante Hostel	Habitación compartida	7,5	Precio $ 56.004	+ $ 11.761 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Departamento Tunquelen	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	NA	Precio original $ 376.994. Precio actual $ 358.141.	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Esquel Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 39m²	8,9	Precio $ 396.839	+ $ 83.336 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	La Elegida con quincho y cochera	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	8,3	Precio $ 255.617	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Casa eqs	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 130m²	9,0	Precio $ 321.010	+ $ 67.412 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Patagonia Apart	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,4	Precio $ 654.366	+ $ 137.417 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trevelin	Hosteria y Cabañas Casa de Piedra		9,6	Precio $ 400.028	+ $ 84.006 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trevelin	Los Lupinos	Apartamento entero, 3 dormitorios, 1 baño, 50m²	9,7	Precio $ 222.238	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Austral Express		8,3	Precio $ 222.262	+ $ 46.675 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Lucania Palazzo Hotel		8,8	Precio $ 400.883	+ $ 84.185 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Moderno Depto con Vista al Mar	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 201.495	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Austral Plaza Hotel		8,2	Precio $ 390.965	+ $ 82.103 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Rada Tilly	Rada Tilly Apart Hotel		7,1	Precio $ 185.198	+ $ 57.411 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Rayentray Hotel		7,9	Precio $ 151.333	+ $ 31.780 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel City		5,8	Precio $ 111.119	+ $ 23.335 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel Provincia		6,3	Precio $ 135.565	+ $ 28.469 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel Galicia		8,1	Precio $ 146.998	+ $ 30.870 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Estancia TATAY	Casa o chalet entero, 3 dormitorios, 1 baño	8,5	Precio $ 511.146	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Playa Unión	Casa de Mar	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 55m²	NA	Precio original $ 296.317. Precio actual $ 266.685.	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Rayentray Hotel		7,9	Precio $ 151.333	+ $ 31.780 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Península Valdés		8,7	Precio $ 434.598	+ $ 91.266 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Lucania Palazzo Hotel		8,8	Precio $ 400.883	+ $ 84.185 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Austral Express		8,3	Precio $ 222.262	+ $ 46.675 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Corcovado	Nuevos Vientos	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,2	Precio $ 444.475	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Cholila	Piuke Mapu Patagonia Hostel		8,6	Precio $ 117.292	+ $ 24.631 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Gran Madryn		7,9	Precio original $ 365.284. Precio actual $ 263.919.	+ $ 55.423 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Pirámides	The Paradise		7,7	Precio $ 554.712	+ $ 116.489 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Austral Plaza Hotel		8,2	Precio $ 390.965	+ $ 82.103 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Patagonia Apart Hotel		8,0	Precio $ 240.581	+ $ 50.522 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel Galicia		8,1	Precio $ 146.998	+ $ 30.870 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel City		5,8	Precio $ 111.119	+ $ 23.335 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Río Pico	Hostería Lago Cinco		NA	Precio $ 395.089	+ $ 82.969 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Territorio		8,5	Precio $ 431.635	+ $ 90.643 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Huala Hosteria		9,5	Precio $ 282.206	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trevelin	Hosteria y Cabañas Casa de Piedra		9,6	Precio $ 400.028	+ $ 84.006 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Tolosa		8,8	Precio $ 341.293	+ $ 71.672 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Hotel Provincia		6,3	Precio $ 135.565	+ $ 28.469 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	El Caminante Hostel	Habitación compartida	7,5	Precio $ 56.004	+ $ 11.761 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Cabaña Don Ramon - Puerto Patriada	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 570.039	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	La Elegida con quincho y cochera	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	8,3	Precio $ 255.617	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trevelin	Los Lupinos	Apartamento entero, 3 dormitorios, 1 baño, 50m²	9,7	Precio $ 222.238	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Moderno Depto con Vista al Mar	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 201.495	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	El Gualicho Hostel		8,6	Precio $ 224.991	+ $ 47.248 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Casa Waina		NA	Precio original $ 192.253. Precio actual $ 182.640.	+ $ 38.354 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	CQ MITRE	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 65m²	9,4	Precio $ 285.847	+ $ 60.028 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Casa Waina		NA	Precio original $ 192.253. Precio actual $ 182.640.	+ $ 38.354 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Río Pico	Hostería Lago Cinco		NA	Precio $ 395.089	+ $ 82.969 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Casa koi	Villa entera, 2 dormitorios, 1 baño, 1 cocina, 30m²	NA	Precio $ 312.219	+ $ 65.566 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Patagonien Alquiler Temporario	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 110m²	9,1	Precio $ 555.594	+ $ 116.675 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Posada del Sol	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,2	Precio $ 282.912	+ $ 59.411 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Gales Madryn	Apartamento entero, 1 dormitorio, 1 cocina	9,2	Precio $ 321.010	+ $ 67.412 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Cabaña Don Ramon - Puerto Patriada	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 570.039	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Hotel Piren		8,7	Precio $ 364.298	+ $ 76.503 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	La Elegida con quincho y cochera	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	8,3	Precio $ 255.617	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Corcovado	Nuevos Vientos	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,2	Precio $ 444.475	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Complejo Turistico Paralelo 42	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 387.755	+ $ 81.429 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Proyecto 44	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 50m²	7,9	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Esquel Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 39m²	8,9	Precio $ 396.839	+ $ 83.336 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Cabaña alpina holandesa	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 68m²	NA	Precio $ 370.396	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Epic temporario Madryn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	9,4	Precio $ 411.845	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Casa eqs	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 130m²	9,0	Precio $ 321.010	+ $ 67.412 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Departamento Tunquelen	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	NA	Precio original $ 376.994. Precio actual $ 358.141.	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Patagonia Apart	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,4	Precio $ 654.366	+ $ 137.417 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Moderno Depto con Vista al Mar	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 201.495	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+La Aldea	Cabaña en zona de tulipanes	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	10	Precio $ 338.986	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	LINEA RECTA SUR - Mara	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 82m²	NA	Precio $ 398.793	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Los Saucos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,8	Precio $ 345.505	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Quinta Marbarr	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 83.956	+ $ 8.396 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto 9 de julio	Apartamento entero, 2 dormitorios, 1 baño, 70m²	9,7	Precio $ 469.168	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto Apeleg	Apartamento entero, 2 dormitorios, 2 baños, 65m²	9,2	Precio $ 456.822	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Rincon Gales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	9,0	Precio $ 259.277	+ $ 54.448 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Temporarios Madryn	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 72m²	8,5	Precio $ 508.677	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Golondrinas	Cabaña El Maitén, sobre bosque.	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 10.000m²	NA	Precio $ 355.580	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto Apeleg	Apartamento entero, 2 dormitorios, 2 baños, 65m²	9,2	Precio $ 456.822	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Complejo Turistico Paralelo 42	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 387.755	+ $ 81.429 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	La Elegida con quincho y cochera	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	8,3	Precio $ 255.617	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Trelew	Estancia TATAY	Casa o chalet entero, 3 dormitorios, 1 baño	8,5	Precio $ 511.146	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Rincon Gales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	9,0	Precio $ 259.277	+ $ 54.448 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Dormís Acá	2 camas en habitación compartida	9,2	Precio $ 142.514	+ $ 29.928 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	La Estacion Hostel	2 camas en habitación compartida	8,3	Precio $ 98.772	+ $ 20.742 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Hostel Chacra La Templanza	2 camas en habitación compartida	9,0	Precio $ 108.649	+ $ 22.816 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Corcovado	Nuevos Vientos	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,2	Precio $ 444.475	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Complejo Turistico Paralelo 42	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 387.755	+ $ 81.429 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Proyecto 44	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 50m²	7,9	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Esquel Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 39m²	8,9	Precio $ 396.839	+ $ 83.336 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Cabaña alpina holandesa	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 68m²	NA	Precio $ 370.396	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Epic temporario Madryn	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	9,4	Precio $ 411.845	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Casa eqs	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 130m²	9,0	Precio $ 321.010	+ $ 67.412 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Departamento Tunquelen	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	NA	Precio original $ 376.994. Precio actual $ 358.141.	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Esquel	Patagonia Apart	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,4	Precio $ 654.366	+ $ 137.417 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Comodoro Rivadavia	Moderno Depto con Vista al Mar	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 201.495	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+La Aldea	Cabaña en zona de tulipanes	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	10	Precio $ 338.986	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	LINEA RECTA SUR - Mara	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 82m²	NA	Precio $ 398.793	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Los Saucos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,8	Precio $ 345.505	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Quinta Marbarr	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 83.956	+ $ 8.396 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto 9 de julio	Apartamento entero, 2 dormitorios, 1 baño, 70m²	9,7	Precio $ 469.168	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Dpto Apeleg	Apartamento entero, 2 dormitorios, 2 baños, 65m²	9,2	Precio $ 456.822	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Puerto Madryn	Rincon Gales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	9,0	Precio $ 259.277	+ $ 54.448 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Cabaña Don Ramon - Puerto Patriada	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 570.039	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Hostel Chacra La Templanza	2 camas en habitación compartida	9,0	Precio $ 108.649	+ $ 22.816 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Los Saucos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,8	Precio $ 345.505	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Complejo Turistico Paralelo 42	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 387.755	+ $ 81.429 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	La Estacion Hostel	2 camas en habitación compartida	8,3	Precio $ 98.772	+ $ 20.742 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Cabaña alpina holandesa	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 68m²	NA	Precio $ 370.396	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Huala Hosteria		9,5	Precio $ 282.206	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Lago Puelo	Casa koi	Villa entera, 2 dormitorios, 1 baño, 1 cocina, 30m²	NA	Precio $ 312.219	+ $ 65.566 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+Golondrinas	Cabaña El Maitén, sobre bosque.	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 10.000m²	NA	Precio $ 355.580	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	DEPARTAMENTO EL BOLSÓN SUR	Apartamento entero, 2 dormitorios, 2 baños, 45m²	NA	Precio $ 358.914	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Origenes Ecolodge de Montaña		NA	Precio $ 493.861	+ $ 103.711 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Cabañas El Bolsón	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 419.782	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Cumbres Hotel		8,5	Precio $ 515.789	+ $ 108.316 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	La Casa del Arbol - Hostel El Bolsón	Cama en habitación compartida, Cama en habitación compartida	8,0	Precio $ 176.599	+ $ 37.086 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Ankatu Hostel	Cama en habitación compartida, 20m², Cama en habitación compartida	6,9	Precio $ 144.631	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Departamento céntrico 1	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,7	Precio original $ 372.160. Precio actual $ 297.728.	+ $ 62.523 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Departamentos La Gringa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,1	Precio $ 293.847	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	Complejo La Cordillera Cabañas El Bolsòn	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	8,3	Precio $ 377.804	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	La posada de Icha	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 55m²	8,5	Precio $ 416.784	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	El Pueblito EcoHostel	2 camas en habitación compartida	8,3	Precio original $ 157.422. Precio actual $ 133.808.	+ $ 28.100 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	La Casona De Odile	2 camas en habitación compartida	9,1	Precio $ 141.809	+ $ 29.780 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Bolsón	CABAÑAS AILIN-CO	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	9,4	Precio $ 1.234.653	+ $ 259.277 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Cabaña Don Ramon - Puerto Patriada	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 570.039	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Hostel Chacra La Templanza	2 camas en habitación compartida	9,0	Precio $ 108.649	+ $ 22.816 de impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Hoyo	Los Saucos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,8	Precio $ 345.505	Incluye impuestos y cargos	14 noches, 2 adultos	Chubut	2023-1-1	2023-1-15
+El Calafate	America Del Sur Calafate Hostel		9,1	Precio $ 542.894	+ $ 114.008 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Cabañas Huenco	Apartamento entero, 1 dormitorio, 1 baño, 40m²	NA	Precio $ 192.359	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Los Dos Pinos		7,7	Precio $ 135.812	+ $ 28.520 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Bahia Rooms	Estudio entero, 1 baño	NA	Precio $ 271.624	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel Buenos Aires		7,9	Precio $ 254.859	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Del Glaciar Libertador Hotel		8,4	Precio $ 278.104	+ $ 58.402 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	El Bodegón	Habitación compartida	6,5	Precio $ 138.281	+ $ 29.039 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Titan Hostel y Cabañas Del Titan		9,6	Precio $ 200.841	+ $ 42.177 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Rochester Calafate		8,1	Precio original $ 869.300. Precio actual $ 608.509.	+ $ 127.787 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Bla Guest House		8,0	Precio $ 333.504	+ $ 70.036 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Apart Azul Calafate	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 53m²	10	Precio $ 234.584	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel de Las Manos		6,5	Precio $ 135.812	+ $ 28.520 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hotel Koi Mahik		8,7	Precio $ 296.317	+ $ 62.227 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Meulen Hosteria y Apart		7,8	Precio $ 439.713	+ $ 92.340 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Apart Hotel Libertador	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,6	Precio original $ 847.677. Precio actual $ 601.851.	+ $ 126.389 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel Aves del Lago	2 camas en habitación compartida	7,5	Precio $ 98.772	+ $ 20.742 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	AONIKENK HOSTEL	Cama en habitación compartida, 20m², Cama en habitación compartida	8,7	Precio $ 108.649	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel Inn Calafate	2 camas en habitación compartida	7,7	Precio $ 106.646	+ $ 22.396 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel Yatel	2 camas en habitación compartida	7,8	Precio $ 102.229	+ $ 21.468 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Red House Hostel	2 camas en habitación compartida	8,8	Precio $ 180.118	+ $ 37.825 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Edelweiss Hostel	2 camas en habitación compartida	9,4	Precio $ 172.851	+ $ 36.299 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Calafate	Hostel I Keu Ken	2 camas en habitación compartida	8,1	Precio $ 175.419	+ $ 36.838 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+El Chaltén	Refugio de Glaciares		9,3	Precio $ 1.851.979	+ $ 388.916 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Hotel Liporaci		6,7	Precio $ 107.785	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Hotel Patagonia		8,9	Precio $ 211.916	+ $ 44.502 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	VientoSur	Apartamento entero, 1 dormitorio, 1 baño, 30m²	1,0	Precio $ 90.080	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Hotel Paris		7,0	Precio $ 81.635	+ $ 17.143 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Cielo Sureño	Apartamento entero, 1 dormitorio, 1 baño	9,0	Precio $ 170.012	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Maipu Alquiler Por Dia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,0	Precio $ 172.851	+ $ 36.299 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Amerian Río Gallegos Apart & Suites	Suite privada	8,8	Precio $ 361.506	+ $ 75.916 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Hotel Alonso		6,0	Precio $ 177.790	+ $ 37.336 de impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Río Gallegos	Resiliencia	Apartamento entero, 2 dormitorios, 1 baño, 50m²	NA	Precio original $ 167.913. Precio actual $ 134.330.	Incluye impuestos y cargos	14 noches, 2 adultos	Santa Cruz	2023-1-1	2023-1-15
+Ushuaia	Arisa	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño	NA	Precio original $ 100.748. Precio actual $ 80.598.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	MIL810 Ushuaia Hotel		8,4	Precio original $ 666.713. Precio actual $ 366.692.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Turek Bahía Suites	Estudio entero, 1 baño, 1 cocina, 37m²	8,3	Precio $ 398.052	+ $ 4.409 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Camping La Encantada	Parcela	8,4	Precio $ 49.386	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Riviera Fueguina Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	8,3	Precio original $ 1.231.125. Precio actual $ 479.222.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Hotel Tierra del Fuego		8,8	Precio original $ 926.522. Precio actual $ 741.219.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Ushuaia Host	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 240.017	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Lennox Ushuaia		8,4	Precio $ 1.034.815	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Wyndham Garden Ushuaia Hotel del Glaciar		7,9	Precio $ 1.058.168	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Descanso de Luz	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 64m²	NA	Precio $ 167.913	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	FLOR AUSTRAL		9,0	Precio $ 427.807	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Casa Dali	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,0	Precio original $ 694.492. Precio actual $ 333.356.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Posada del Pinguino		7,9	Precio $ 481.515	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Turek Bahía Apartamentos	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	8,7	Precio original $ 694.492. Precio actual $ 347.246.	+ $ 7.055 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Ushuaia de las Nieves B&B		7,9	Precio $ 246.931	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Gente del Sur Cinco Hermanos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 54m²	9,3	Precio $ 632.760	+ $ 54.148 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Departamento Ussina	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio original $ 209.891. Precio actual $ 167.913.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Edificio Maras	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,6	Precio original $ 333.356. Precio actual $ 266.685.	+ $ 7.055 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Tu lugar en el fin del mundo	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 345.703	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Departamento Centro Ushuaia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,2	Precio $ 472.255	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Magallanes Home	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	7,2	Precio $ 642.019	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Gente del Sur Mara II	Estudio entero, 1 baño, 1 cocina, 30m²	10	Precio $ 336.443	+ $ 30.443 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	AMUNDSEN 8-D	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 419.782	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Cabaña Ribera del Pipo	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 57m²	NA	Precio $ 468.611	+ $ 8.819 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Beagle Apartment & Spa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 34m²	NA	Precio $ 493.861	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Loft fueguino	Apartamento entero, 1 dormitorio, 1 baño	10	Precio $ 333.356	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Departamento luminoso súper lindo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 283.353	+ $ 59.504 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Choconcito Apart Hotel	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños	7,3	Precio $ 444.475	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Casa Congreso	Casa o chalet entero, 3 dormitorios, 1 baño, 100m²	NA	Precio $ 456.822	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Riviera Fueguina Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	8,3	Precio original $ 1.231.125. Precio actual $ 479.222.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Cabañas Bahía de los Renos	Villa entera, 2 dormitorios, 1 baño	NA	Precio $ 638.069	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Ushuaia Apartamentos	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 75m²	NA	Precio $ 525.027	+ $ 1.764 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	MONTE OLIVIA II	Casa o chalet entero, 3 dormitorios, 1 cocina	9,0	Precio $ 740.792	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	DEPARTAMENTO EJECUTIVO 1B	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 333.356	+ $ 70.005 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Gente del Sur Godoy II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 43m²	NA	Precio $ 462.995	+ $ 40.567 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Descanso de Luz	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 64m²	NA	Precio $ 167.913	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	THE SOUTH HOUSE	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 160m²	NA	Precio $ 1.111.188	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Hostería Boutique Fuegos del Sur		NA	Precio $ 2.247.615	+ $ 471.999 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	LA CASA DEL MONO		7,6	Precio $ 370.396	+ $ 77.783 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Ushuaia de las Nieves B&B		7,9	Precio $ 246.931	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Gente del Sur Cinco Hermanos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 54m²	9,3	Precio $ 632.760	+ $ 54.148 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Departamento Ussina	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio original $ 209.891. Precio actual $ 167.913.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Edificio Maras	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,6	Precio original $ 333.356. Precio actual $ 266.685.	+ $ 7.055 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Tu lugar en el fin del mundo	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 345.703	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Departamento Centro Ushuaia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,2	Precio $ 472.255	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Magallanes Home	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	7,2	Precio $ 642.019	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Gente del Sur Mara II	Estudio entero, 1 baño, 1 cocina, 30m²	10	Precio $ 336.443	+ $ 30.443 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	AMUNDSEN 8-D	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 419.782	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Cabaña Ribera del Pipo	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 57m²	NA	Precio $ 468.611	+ $ 8.819 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Beagle Apartment & Spa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 34m²	NA	Precio $ 493.861	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Río Grande	ecohoteltdf		7,9	Precio $ 98.772	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Río Grande	Status Hotel		8,7	Precio original $ 259.277. Precio actual $ 233.349.	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Río Grande	Select Inn		8,6	Precio $ 204.952	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Río Grande	Departamentos Amoblados en Río Grande	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	7,6	Precio $ 148.158	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Río Grande	Casa Amplia y Equipada en Rio Grande	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 200m²	10	Precio $ 404.966	Incluye impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Puerto Williams	Hotel Forjadores del Cabo de Hornos	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 15m²	8,5	Precio $ 293.354	+ $ 55.737 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15
+Ushuaia	Hostería Boutique Fuegos del Sur		NA	Precio $ 2.247.615	+ $ 471.999 de impuestos y cargos	14 noches, 2 adultos	Tierra Del Fuego	2023-1-1	2023-1-15

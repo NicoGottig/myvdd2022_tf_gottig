@@ -1,0 +1,677 @@
+localizacion	titulo	descripcion	calif	precio	impuesto	noches	provincia	checkin	checkout
+Asunción	Terrazas Vista Verde		8,4	Precio original $ 169.927. Precio actual $ 144.428.	+ $ 14.443 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Resort Yacht Y Golf Club Paraguayo		8,3	Precio $ 277.036	+ $ 27.704 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Gaucho House HABITACION EN DUPLEX		9,9	Precio $ 47.898	+ $ 9.580 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Casa el lambare	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 3 baños, 250m²	NA	Precio $ 129.326	+ $ 12.933 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamentos - Alquileres Asunción	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,0	Precio $ 81.005	+ $ 8.100 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	SOCRA Félix Bogado	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 120m²	7,4	Precio $ 140.652	+ $ 14.065 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Villa Elisa	Agradable casa con piscina-Comfortable pool house	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 20m²	NA	Precio $ 481.802	+ $ 96.360 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento entero	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,0	Precio $ 84.527	+ $ 8.453 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Pequeño departamento	Apartamento entero, 1 dormitorio, 1 baño, 15m²	NA	Precio $ 70.439	+ $ 7.044 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Apartamentos Victoria	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,5	Precio original $ 103.728. Precio actual $ 68.576.	+ $ 6.858 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Fernando de la Mora	Nueva Alborada Lodging House		9,6	Precio $ 129.607	+ $ 12.961 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Pieza con aire y baño en asunción centro	Apartamento entero, 1 dormitorio, 1 baño, 90m²	NA	Precio $ 155.670	+ $ 15.567 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	SOCRA Centro	Apartamento entero, 1 dormitorio, 1 baño, 24m²	8,0	Precio $ 107.067	+ $ 10.707 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Costera	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	9,7	Precio $ 156.571	+ $ 15.657 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Fortaleza II	Apartamento entero, 1 dormitorio, 1 baño, 80m²	NA	Precio $ 95.797	+ $ 4.790 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Fortaleza II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	7,0	Precio $ 95.797	+ $ 9.580 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Posada de la Luna	2 camas en habitación compartida	9,2	Precio $ 56.351	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Nomada Hostel		8,8	Precio $ 84.527	+ $ 8.453 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Nobile Suites Excelsior Asuncion		8,0	Precio original $ 238.929. Precio actual $ 191.143.	+ $ 19.114 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	TOTO´S HOUSE	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 70.439	+ $ 8.277 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	N4A2 - New, Nice, for Long and Short Stay	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 64m²	10	Precio $ 117.950	+ $ 18.839 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	N1A1 - New, Nice, for Long and Short Stay	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 64m²	7,8	Precio $ 116.805	+ $ 18.724 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	N2A2 - New, Nice, for Long and Short Stay	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 64m²	1,0	Precio $ 117.950	+ $ 18.839 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Amalfi		8,8	Precio $ 140.878	+ $ 14.088 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Ross Char Hotel		9,5	Precio $ 158.135	+ $ 15.814 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Premier Hill Suites Hotel		6,9	Precio original $ 172.570. Precio actual $ 112.170.	+ $ 11.217 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Dorada		NA	Precio $ 84.527	+ $ 9.333 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Crowne Plaza Asunción, an IHG Hotel		7,9	Precio $ 152.571	+ $ 15.257 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Golden Room		NA	Precio $ 61.986	+ $ 12.714 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Villa Floreal Hotel Boutique		9,0	Precio original $ 281.755. Precio actual $ 197.229.	+ $ 19.723 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Cecilia		8,4	Precio $ 157.880	+ $ 15.788 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento equipado en Asunción	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 90m²	9,0	Precio $ 114.111	+ $ 11.411 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Edificio Columbia	Apartamento entero, 2 dormitorios, 2 baños, 100m²	NA	Precio $ 140.878	+ $ 14.088 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Isla Francia		8,6	Precio $ 47.898	+ $ 4.614 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Gran Hotel Parana		7,0	Precio $ 117.774	+ $ 11.777 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Giuseppe Suites Hotel		8,9	Precio $ 92.979	+ $ 9.298 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Sabe Center	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,6	Precio original $ 135.243. Precio actual $ 128.480.	+ $ 12.848 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Guarani Asuncion		8,4	Precio $ 249.663	+ $ 24.966 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Violeta Roga	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,0	Precio $ 98.614	+ $ 12.503 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Taguato B & B		9,6	Precio $ 93.684	+ $ 9.192 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Gran Hotel del Paraguay		9,0	Precio $ 270.344	+ $ 27.034 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Palmas del Sol		7,8	Precio $ 91.479	+ $ 9.148 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Andares del Agua		8,7	Precio $ 211.316	+ $ 21.132 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Asuncion Internacional Downtown Hotel		7,3	Precio $ 154.965	+ $ 15.497 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Palmaroga Hotel		9,2	Precio $ 230.409	+ $ 23.041 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Asuncion Palace		8,8	Precio original $ 162.855. Precio actual $ 138.426.	+ $ 13.843 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Residencia Leones de Castilla		8,8	Precio $ 98.614	+ $ 9.861 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Pequeño estudio moderno en el nuevo centro de Asunción MA001	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,5	Precio original $ 102.665. Precio actual $ 102.488.	+ $ 23.984 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Confortable Loft en Villa Morra MA002	Apartamento privado, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 38m²	7,4	Precio original $ 106.363. Precio actual $ 88.401.	+ $ 22.523 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Apartment in Asunción	Apartamento entero, 2 dormitorios, 2 baños, 80m²	NA	Precio $ 101.770	+ $ 10.177 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Pequeño chic loft con balcón y terraza MA003	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 47m²	8,6	Precio $ 107.948	+ $ 24.495 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Asuncion Rent Suites Centro	Estudio entero, 1 baño, 1 cocina, 42m²	8,8	Precio $ 111.917	+ $ 11.192 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Circo Hostel	Habitación compartida	7,3	Precio $ 73.256	+ $ 7.326 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Calidad/precio. Alto Nivel. Zona Recoleta.Shopping	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 48m²	NA	Precio $ 169.053	+ $ 16.905 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Moderno dpto con vista a la bahía de Asunción	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	NA	Precio $ 97.713	+ $ 9.771 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Nemby	Acogedora casa de huéspedes con estacionamiento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 12m²	10	Precio $ 71.256	+ $ 14.251 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hub Hotel Asuncion		8,7	Precio $ 238.365	+ $ 23.836 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	La Mision Hotel Boutique		9,5	Precio $ 393.049	+ $ 39.305 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Joya Escondida en Villa Morra 1D001	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	NA	Precio $ 141.582	+ $ 33.159 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Boggiani		7,5	Precio original $ 132.425. Precio actual $ 119.182.	+ $ 11.918 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Pantanal Inn Hotel		7,9	Precio original $ 188.776. Precio actual $ 152.909.	+ $ 15.291 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Amplia casa en Asuncion	Casa o chalet entero, 4 dormitorios, 2 salas de estar, 4 baños	NA	Precio $ 901.617	+ $ 189.128 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Faro Norte Suites		8,6	Precio $ 183.141	+ $ 18.314 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	START Villa Morra Rent Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 60m²	9,0	Precio original $ 323.578. Precio actual $ 226.505.	+ $ 22.650 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Green House - POSADA		9,1	Precio $ 72.017	+ $ 7.202 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Five Hotel & Residences		8,3	Precio original $ 239.950. Precio actual $ 167.965.	+ $ 16.796 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	POSADA SHALOM		6,1	Precio $ 146.513	+ $ 14.651 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Posada del Cielo		8,3	Precio $ 183.141	+ $ 18.314 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Acogedor apartamento con balcón y parilla 1D002	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 64m²	8,2	Precio $ 134.714	+ $ 30.430 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	ApartHotel Maison Suisse		8,6	Precio original $ 136.510. Precio actual $ 109.208.	+ $ 10.921 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Encantador Apartamento en Villa Morra 1D004	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 64m²	8,5	Precio original $ 184.902. Precio actual $ 109.067.	+ $ 26.656 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Dimora 1750	Apartamento entero, 1 dormitorio, 1 baño	9,0	Precio $ 112.702	+ $ 11.270 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Nemby	Aparthotel Los Laureles	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 66m²	9,6	Precio $ 126.790	+ $ 25.358 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Villa Morra House	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	8,8	Precio $ 90.162	+ $ 9.016 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Exclusivo departamento 1 habitación	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 49m²	10	Precio $ 139.469	+ $ 19.230 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hermoso Departamento con Balcón y Dos Habitaciones	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	NA	Precio $ 167.644	+ $ 16.764 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Casa Sucre		9,0	Precio $ 197.229	+ $ 19.547 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Clorinda	Quincho Don Vicente	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 78m²	4,0	Precio $ 296.970	+ $ 29.697 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Factoria Hotel		9,3	Precio $ 1.705.916	+ $ 170.592 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Impresionante Acogedor Apartamento en Villa Morra 1D006	Apartamento entero, 2 salas de estar, 1 baño, 1 cocina, 45m²	7,5	Precio original $ 146.689. Precio actual $ 145.456.	+ $ 33.934 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Conveniente Dpto con Balcón y Parilla 1D005	Apartamento entero, 1 baño, 1 cocina, 64m²	3,0	Precio original $ 128.023. Precio actual $ 127.318.	+ $ 30.306 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Edificio Ambay Roga	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	10	Precio $ 98.614	+ $ 12.503 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	BauHouse		10	Precio original $ 104.778. Precio actual $ 89.061.	+ $ 8.906 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Nemby	Quinta Jardin	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 300m²	10	Precio $ 148.767	+ $ 29.753 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Lorenzo	Hotel del Sur		6,4	Precio $ 98.614	+ $ 9.861 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Dazzler by Wyndham Asuncion		8,4	Precio $ 257.542	+ $ 25.754 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	House in Barrio Herrera		NA	Precio $ 61.986	+ $ 6.199 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Dpto Moderno y Acogedor con Piscina y Terraza 1D016	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 89m²	9,0	Precio original $ 178.915. Precio actual $ 176.625.	+ $ 40.168 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	ibis Asuncion		8,8	Precio $ 152.231	+ $ 15.223 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento Zuatynky	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 90m²	9,5	Precio $ 91.599	+ $ 9.160 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hermoso y cómodo apartamento cerca del Sh del sol 1D010	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 51m²	8,0	Precio original $ 137.532. Precio actual $ 115.167.	+ $ 27.876 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Paseo La Galería Hotel & Suites		8,5	Precio $ 295.843	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Amplio y espacioso Dpto cerca del Paseo La Galería 1D013	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 84m²	8,0	Precio $ 134.890	+ $ 31.821 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Asunción Rent Suites Santa Teresa	Estudio entero, 1 baño, 1 cocina, 42m²	8,3	Precio $ 168.463	+ $ 16.846 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Maravilloso estudio en la ciudad, cerca del Sh del Sol MA005	Apartamento privado, 1 baño, 1 cocina, 42m²	10	Precio $ 117.105	+ $ 28.264 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Los Alpes Cipreses		8,7	Precio $ 163.418	+ $ 16.166 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Le Pelican		8,1	Precio $ 155.247	+ $ 15.525 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento Piso 1	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	8,2	Precio $ 84.527	+ $ 8.453 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Increíble Departamento en Asunción a estrenar	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina	NA	Precio $ 253.580	+ $ 25.358 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Las Lomas Casa Hotel		8,8	Precio $ 327.625	+ $ 32.763 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hospedaje	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 140m²	NA	Precio $ 227.517	+ $ 22.752 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento Santa Teresa	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 100m²	4,3	Precio $ 95.797	+ $ 9.580 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hospedaje Fernandito	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 95m²	NA	Precio $ 203.568	+ $ 20.357 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Portal del Sol		7,6	Precio $ 105.010	+ $ 10.501 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Madame Lynch Hotel Boutique		7,5	Precio $ 126.790	+ $ 12.679 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Danieri Asunción Hotel		7,8	Precio $ 177.506	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Fernando de la Mora	Agradable Duplex, cerca de todo	Casa o chalet entero, 1 dormitorio, 2 baños	NA	Precio $ 203.568	+ $ 20.357 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel 1945 Aeropuerto		7,9	Precio $ 157.783	+ $ 15.778 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Holiday Inn Express - Asuncion Aviadores, an IHG Hotel		9,2	Precio $ 206.034	+ $ 20.603 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Departamento amoblado tipo Duplex	Apartamento entero, 2 dormitorios, 3 baños, 1 cocina, 280m²	9,6	Precio $ 110.166	+ $ 11.017 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Esplendor by Wyndham Asuncion		8,6	Precio $ 234.561	+ $ 23.456 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Apartamento único en zona del Sh del Sol 1D012	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 57m²	NA	Precio $ 130.488	+ $ 30.940 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Paramanta Lifestyle Hotel		8,4	Precio $ 200.751	+ $ 20.075 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Hotel Westfalenhaus		8,6	Precio $ 223.150	+ $ 22.315 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Granados B&B		9,4	Precio original $ 143.695. Precio actual $ 114.956.	+ $ 11.496 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Apartamentos Don Gerardo	Estudio entero, 1 baño, 25m²	9,0	Precio original $ 126.790. Precio actual $ 104.249.	+ $ 10.425 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	SOCRA Trinidad	Chalet de montaña entero, 4 dormitorios, 1 sala de estar, 5 baños, 1 cocina, 260m²	6,0	Precio $ 394.457	+ $ 39.446 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Madre Natura	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 110m²	8,7	Precio original $ 169.053. Precio actual $ 154.965.	+ $ 18.842 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Tapu'a Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,1	Precio $ 221.629	+ $ 21.987 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Bourbon Asunción Convention Hotel		9,0	Precio $ 404.460	+ $ 40.446 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Lorenzo	Jardín de Luque		9,7	Precio original $ 50.716. Precio actual $ 43.109.	+ $ 8.622 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Date un Descanso de Paz y Tranquilidad	Apartamento entero, 1 dormitorio, 1 baño, 80m²	NA	Precio $ 107.771	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Las Salinas Hostal		8,8	Precio $ 78.891	+ $ 7.889 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Remember Py		8,5	Precio $ 109.885	+ $ 10.988 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Lorenzo	Hospedaje CNR	Apartamento entero, 1 dormitorio, 1 baño, 60m²	NA	Precio $ 64.663	+ $ 12.933 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Lorenzo	Casa Naranja	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,0	Precio $ 95.797	+ $ 19.159 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Posada Sion		NA	Precio $ 56.351	+ $ 5.635 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Asunción	Mama mía! a estrenar con pileta.	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 76m²	NA	Precio $ 114.956	+ $ 11.496 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+La Mercedes	A estrenar! Apartamento con pileta zona aeropuerto WIFI 200MG	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 67m²	9,6	Precio $ 119.746	+ $ 23.703 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Capiatá	Apartamento encantador para tu estadía.	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 81.427	+ $ 8.143 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	1 Casa equipada con un toque campestre	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 60m²	8,0	Precio $ 97.628	+ $ 9.763 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		9,4	Precio $ 47.898	+ $ 4.790 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Mangoty Apartamento	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,9	Precio $ 86.217	+ $ 8.622 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Sol de Luque Casa-hotel		8,4	Precio $ 140.878	+ $ 14.088 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	HERMOSO APARTAMENTO AMOBLADO DE UNA HABITACIÓN	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 121.155	+ $ 24.231 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	HERMOSO APARTAMENTO DE UNA HABITACION EN LA CIUDAD DE MARIANO ROQUE ALONSO. Servicios Incluidos.	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 121.155	+ $ 24.231 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	HERMOSO APARTAMENTO MONOAMBIENTE ZONA SHOPPING	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 115.520	+ $ 23.104 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Apartamento Monoambiente a 15 min del Aeropuerto zona Shopping Mariano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	NA	Precio $ 104.898	+ $ 20.980 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		NA	Precio $ 186.804	+ $ 9.340 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		8,5	Precio $ 141.300	+ $ 14.130 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		9,3	Precio $ 95.797	+ $ 9.580 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		NA	Precio $ 134.369	+ $ 13.437 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		NA	Precio $ 157.915	+ $ 15.792 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		10	Precio $ 79.032	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		10	Precio $ 41.925	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		NA	Precio $ 140.117	+ $ 14.012 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Hospedaje San Miguel		6,5	Precio $ 142.198	+ $ 14.220 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Zarate Isla	Tiny Houses en Asunción. Zona Aeropuerto-Rakiura	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,0	Precio $ 77.659	+ $ 15.532 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Hermoso Monoambiente, Edif Zetta Village Airport	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	NA	Precio $ 120.450	+ $ 24.090 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Hermoso Monoambiente, Edif. Zetta Village Airport	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	NA	Precio $ 120.450	+ $ 24.090 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Hermoso Monoambiente, Edif. Zetta Village Airport	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	NA	Precio $ 120.450	+ $ 24.090 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Hermoso Departamento completamente equipado	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	NA	Precio $ 114.956	+ $ 22.991 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	ED. AMARILLO II		NA	Precio $ 105.376	+ $ 21.075 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	La casa del Mango	Apartamento entero, 1 dormitorio, 1 baño, 20m²	9,0	Precio $ 33.811	+ $ 6.762 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Colonia Mariano Roque Alonso	Mainumby	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,0	Precio $ 99.629	+ $ 19.926 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+J. Saldivar	CrisAl Suite Posada	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,3	Precio $ 123.972	+ $ 24.794 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Luque	Increíble Resort en Surubi'i c balcón privado 2D010	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 42m²	NA	Precio $ 154.789	+ $ 29.030 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Vacaciones Aregua (Casa Pablo)	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,3	Precio $ 225.404	+ $ 20.491 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Planta baja	Apartamento entero, 1 dormitorio, 2 baños, 34m²	NA	Precio $ 119.746	+ $ 23.949 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	HOMELY STAY Bungalow IV with mit Pool Garden and Patio	Bungalow entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	NA	Precio $ 155.670	+ $ 11.270 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	HOMELY STAY - Bungalow III with Pool Garden Patio	Bungalow entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	NA	Precio $ 155.670	+ $ 11.270 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	HOMELY STAY - Bungalow II with Pool, Garden and Patio	Bungalow entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	NA	Precio $ 155.670	+ $ 11.270 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Homely Stay Bungalow I with Pool+Garden+Patio	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	NA	Precio $ 124.536	+ $ 35.825 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Areguá Haus im Colonialstil in der Nähe des Lago Ypacarai	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 16m²	NA	Precio $ 86.217	+ $ 17.243 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Hotel La Aparesida		7,8	Precio $ 109.039	+ $ 21.808 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	Olimpo Hotel & Suites		7,8	Precio $ 211.316	+ $ 21.132 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	Amplia casa para vos y tu familia	Apartamento entero, 3 dormitorios, 3 baños, 230m²	NA	Precio $ 153.275	+ $ 15.327 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Nueva Italia	Cabañas Alba	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 203.568	+ $ 40.714 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Ypacarai	Gardenia...tu experiencia con la naturaleza	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 96m²	10	Precio $ 197.229	+ $ 19.723 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	San Bernardino - La Casa del Cerro - Hotel Boutique	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	7,7	Precio $ 284.996	+ $ 30.261 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	San Bernardino - La Casa del Cerro - Hotel Boutique	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,5	Precio $ 335.289	+ $ 35.290 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Oasis-Dream		8,4	Precio $ 211.316	+ $ 22.893 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Posada del Sol	Casa o chalet entero, 7 dormitorios, 7 baños, 400m²	NA	Precio original $ 598.730. Precio actual $ 478.984.	+ $ 49.659 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Departamento en San Bernardino - Barrio Cerrado	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 366.282	+ $ 38.389 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Tava Cerro		8,9	Precio $ 395.592	+ $ 39.383 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Ypacarai	Ruta Del Sol		7,8	Precio $ 115.520	+ $ 11.552 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Altos	"""Nueva La Grappa"" Hotel & Posada"		7,5	Precio $ 105.658	+ $ 10.566 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Altos	Casa quinta Verde Cielo	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 100m²	NA	Precio $ 456.444	+ $ 45.644 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Caacupé	Alta Gracia Parque Hotel		8,9	Precio $ 329.654	+ $ 32.965 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Caacupé	Apart Hotel LA PONDEROSA		NA	Precio $ 27.489	+ $ 2.749 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Caacupé	Barrio San Francisco		9,5	Precio $ 63.226	+ $ 6.323 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Piribebuy	Sierras de Cordillera	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 159.248	+ $ 15.925 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Paraguarí	Posada San Miguel	Suite privada, 2 baños	7,9	Precio original $ 154.965. Precio actual $ 135.595.	+ $ 13.559 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Piribebuy	La Esperanza		8,9	Precio $ 122.564	+ $ 12.256 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Piribebuy	La Quinta		8,7	Precio $ 366.282	+ $ 36.628 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Piribebuy	El Paraje Camping		8,8	Precio $ 197.229	+ $ 19.723 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Escobar	Rancho Las Marías	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 36m²	5,5	Precio $ 184.691	+ $ 36.938 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Homely Stay Bungalow I with Pool+Garden+Patio	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	NA	Precio $ 124.536	+ $ 35.825 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Areguá Haus im Colonialstil in der Nähe des Lago Ypacarai	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 16m²	NA	Precio $ 86.217	+ $ 17.243 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Areguá	Hotel La Aparesida		7,8	Precio $ 109.039	+ $ 21.808 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	Olimpo Hotel & Suites		7,8	Precio $ 211.316	+ $ 21.132 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Itauguá	Amplia casa para vos y tu familia	Apartamento entero, 3 dormitorios, 3 baños, 230m²	NA	Precio $ 153.275	+ $ 15.327 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Nueva Italia	Cabañas Alba	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 203.568	+ $ 40.714 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Ypacarai	Gardenia...tu experiencia con la naturaleza	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 96m²	10	Precio $ 197.229	+ $ 19.723 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	San Bernardino - La Casa del Cerro - Hotel Boutique	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	7,7	Precio $ 284.996	+ $ 30.261 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	San Bernardino - La Casa del Cerro - Hotel Boutique	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,5	Precio $ 335.289	+ $ 35.290 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Oasis-Dream		8,4	Precio $ 211.316	+ $ 22.893 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Posada del Sol	Casa o chalet entero, 7 dormitorios, 7 baños, 400m²	NA	Precio original $ 598.730. Precio actual $ 478.984.	+ $ 49.659 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Departamento en San Bernardino - Barrio Cerrado	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 366.282	+ $ 38.389 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+San Bernardino	Tava Cerro		8,9	Precio $ 395.592	+ $ 39.383 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Hotel Regina		7,6	Precio $ 127.406	+ $ 26.755 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	La Plaza	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	8,7	Precio original $ 129.607. Precio actual $ 125.719.	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Hotel Residencial Costanera		8,0	Precio $ 104.813	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Departamento Temporario FORMOSA	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 24m²	8,7	Precio $ 157.783	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Las Americas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,5	Precio $ 102.700	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	ALFA SWEET APARTS		8,0	Precio $ 118.337	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Complejo Junin Dpto1	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	8,6	Precio $ 99.572	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Ayres del Rio		8,7	Precio $ 132.425	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Complejo La Pilar	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 100m²	8,8	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	TODO EL CENTRO A TUS PIES	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 28m²	8,8	Precio original $ 140.878. Precio actual $ 105.658.	+ $ 22.188 de impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Costado Norte	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	NA	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Aquiler Temporario la Cruz 2	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	5,8	Precio $ 92.979	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	WINTER Departamentos Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,7	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	Complejo Junin Dpto2	Apartamento entero, 1 dormitorio, 1 baño, 24m²	NA	Precio $ 96.360	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	B3 Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	8,4	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	City Apartments Formosa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,0	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Formosa	alquiler temporal DIARIO DE IRIGOYEN	Apartamento entero, 2 dormitorios, 1 baño, 54m²	NA	Precio $ 142.484	Incluye impuestos y cargos	16 noches, 2 adultos	Formosa	2023-1-15	2023-1-31
+Resistencia	Niyat Urban Hotel	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,9	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Gala Hotel y Convenciones		8,7	Precio $ 221.206	+ $ 46.453 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento temporario con cochera	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 54m²	9,5	Precio original $ 98.614. Precio actual $ 83.822.	+ $ 18.659 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Duvivier	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	10	Precio $ 73.285	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Amérian Hotel Casino Gala		8,4	Precio $ 279.417	+ $ 58.678 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Impecable Dpto en Pleno centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,0	Precio original $ 84.527. Precio actual $ 76.074.	+ $ 1.233 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Belgrano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,8	Precio $ 112.702	+ $ 1.409 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Hostel Cha	2 camas en habitación compartida	9,1	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Hermoso departamento de un dormitorio con estacionamiento mediano	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,2	Precio original $ 64.804. Precio actual $ 55.083.	+ $ 9.685 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Dpto ideal	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	8,6	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Torre Paris 51	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,5	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	La casa de los pájaros	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 376m²	8,3	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Torre PARIS 84	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 214.134	+ $ 44.968 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	DEPRTAMENTO DONOVAN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,8	Precio $ 107.067	+ $ 22.484 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Moderno departamento en edificio residencial	Apartamento entero, 1 dormitorio, 1 baño, 55m²	7,0	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Temporario	Apartamento entero, 1 dormitorio, 1 baño	8,4	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Frente a la Plaza	Apartamento entero, 1 dormitorio, 1 baño, 28m²	9,0	Precio $ 130.171	+ $ 2.113 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Mer	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	NA	Precio original $ 107.771. Precio actual $ 86.217.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	HERMOSA CASA MUY AMPLIA Y BIEN EQUIPADA ¨EL MANÁ¨	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 100m²	9,2	Precio $ 240.901	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Lo de Cynthia	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	7,8	Precio $ 90.162	+ $ 20.695 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Elegante depto 1 dormitorio en un edificio único en Resistencia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio $ 143.695	+ $ 30.176 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Casa Quinta Dorada	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 160m²	NA	Precio original $ 563.511. Precio actual $ 450.809.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	TEMPORARIOS CHACO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,6	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento a 1 cuadra de peatonal MARTIN , por el momento solo se acepta efectivo	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	NA	Precio original $ 253.580. Precio actual $ 240.901.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	TORRE GUAYASAMIN		8,8	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Monoambiente Moderno y Luminoso	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,0	Precio $ 214.134	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	La Alondra, Casa de huéspedes		8,6	Precio $ 655.081	+ $ 137.567 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Volver a Casa	Casa o chalet entero, 3 dormitorios, 2 baños	9,7	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Corrientes Plaza Hotel		6,9	Precio $ 237.999	+ $ 49.980 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento temporario con cochera	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 54m²	9,5	Precio original $ 98.614. Precio actual $ 83.822.	+ $ 18.659 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Pucara Apart - Habitaciones con baño privado	Apartamento entero, 1 dormitorio, 1 baño, 15m²	7,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Departamento Confortable en Corrientes Capital	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	POSADA MARTINEZ 2 (Depto Familiar)	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	6,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Monoambiente, a 8 cuadras del centro a 13 decostanera		8,2	Precio $ 139.469	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Placido Martinez	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	8,2	Precio $ 380.370	+ $ 79.878 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Duvivier	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	10	Precio $ 73.285	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	MALUCA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 59m²	9,5	Precio $ 507.160	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Monoambientes en zona céntrica	Apartamento entero, 1 dormitorio, 1 baño, 22m²	10	Precio $ 126.790	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Amplios Departamentos en Corrientes	Estudio entero, 1 baño, 1 cocina, 35m²	8,7	Precio $ 147.210	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Depto Céntrico II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,9	Precio $ 235.970	+ $ 49.554 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Hostel Ledesma		8,4	Precio original $ 126.790. Precio actual $ 107.771.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Pai Pajarito	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,5	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	deptos Rio Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 18m²	7,7	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Casa para 5 en Corrientes a 7 km Nueva Dirección LLAMAR	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,7	Precio $ 253.580	+ $ 55.013 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Habitación p 4 con baño privado a 7 km de ruta 12	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	6,0	Precio $ 151.443	+ $ 33.564 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Margarita Belén	El Descanso		NA	Precio $ 95.797	+ $ 29.697 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	"""Village"" amplia Casa boutique con patio, parrilla y 2 cocheras"	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 25m²	9,4	Precio $ 388.770	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	TEMPORARIOS CHACO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,6	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento a 1 cuadra de peatonal MARTIN , por el momento solo se acepta efectivo	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	NA	Precio original $ 253.580. Precio actual $ 240.901.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	TORRE GUAYASAMIN		8,8	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Aviá Terai	Hotel de Campo El Rebenque		9,0	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	HERMOSA CASA MUY AMPLIA Y BIEN EQUIPADA ¨EL MANÁ¨	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 100m²	9,2	Precio $ 240.901	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Margarita Belén	El Descanso		NA	Precio $ 95.797	+ $ 29.697 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Lo de Cynthia	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	7,8	Precio $ 90.162	+ $ 20.695 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Hostel Cha	2 camas en habitación compartida	9,1	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Dpto ideal	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	8,6	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Torre Paris 51	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,5	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Torre PARIS 84	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 214.134	+ $ 44.968 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Moderno departamento en edificio residencial	Apartamento entero, 1 dormitorio, 1 baño, 55m²	7,0	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Frente a la Plaza	Apartamento entero, 1 dormitorio, 1 baño, 28m²	9,0	Precio $ 130.171	+ $ 2.113 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Elegante depto 1 dormitorio en un edificio único en Resistencia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio $ 143.695	+ $ 30.176 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Niyat Urban Hotel	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,9	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento temporario con cochera	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 54m²	9,5	Precio original $ 98.614. Precio actual $ 83.822.	+ $ 18.659 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Amérian Hotel Casino Gala		8,4	Precio $ 279.417	+ $ 58.678 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Impecable Dpto en Pleno centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,0	Precio original $ 84.527. Precio actual $ 76.074.	+ $ 1.233 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Belgrano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,8	Precio $ 112.702	+ $ 1.409 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento a 1 cuadra de peatonal MARTIN , por el momento solo se acepta efectivo	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	NA	Precio original $ 253.580. Precio actual $ 240.901.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Gala Hotel y Convenciones		8,7	Precio $ 221.206	+ $ 46.453 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Duvivier	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	10	Precio $ 73.285	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Hermoso departamento de un dormitorio con estacionamiento mediano	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,2	Precio original $ 64.804. Precio actual $ 55.083.	+ $ 9.685 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	DEPRTAMENTO DONOVAN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,8	Precio $ 107.067	+ $ 22.484 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Departamento Temporario	Apartamento entero, 1 dormitorio, 1 baño	8,4	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	Mer	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	NA	Precio original $ 107.771. Precio actual $ 86.217.	Incluye impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	TEMPORARIOS CHACO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,6	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Resistencia	La casa de los pájaros	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 376m²	8,3	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Corrientes	Corrientes Plaza Hotel		6,9	Precio $ 237.999	+ $ 49.980 de impuestos y cargos	16 noches, 2 adultos	Chaco	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Arandu		9,6	Precio $ 450.809	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Aguapé Lodge		8,7	Precio original $ 800.185. Precio actual $ 680.157.	+ $ 142.833 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Hospedaje San Cayetano		8,7	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Concepción	El Transito Hotel Boutique		9,7	Precio $ 1.213.414	+ $ 254.817 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	EL PASO IBERA	Apartamento entero, 2 dormitorios, 2 baños	8,4	Precio $ 304.296	+ $ 63.902 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Posada de la Laguna		8,0	Precio $ 1.296.074	+ $ 272.176 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Hostería Jasy		8,8	Precio $ 418.407	+ $ 87.865 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Hospedaje Ibera		7,0	Precio $ 298.661	+ $ 62.719 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Mercedes	Ysati	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 244.282	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Laguna Iberá - Casa de Esteros		9,4	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Puerto Valle	Puerto Valle Hotel de Esteros		9,5	Precio $ 3.645.914	+ $ 765.642 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Posada Che Teindy		8,7	Precio $ 277.980	+ $ 58.376 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Uguay	Rincón del Socorro		9,4	Precio $ 1.972.287	+ $ 414.180 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Casimiro Casa de Campo - Guest's house	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	9,5	Precio $ 760.739	+ $ 159.755 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Cabaña Aguara	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 100m²	9,5	Precio $ 788.915	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Colonia Carlos Pellegrini	Cabaña Aguara	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 100m²	9,7	Precio $ 788.915	+ $ 165.672 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Monoambientes en zona céntrica	Apartamento entero, 1 dormitorio, 1 baño, 22m²	10	Precio $ 126.790	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Corrientes Plaza Hotel		6,9	Precio $ 237.999	+ $ 49.980 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Hostel Ledesma		8,4	Precio original $ 126.790. Precio actual $ 107.771.	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Pucara Apart - Habitaciones con baño privado	Apartamento entero, 1 dormitorio, 1 baño, 15m²	7,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	TORRE GUAYASAMIN		8,8	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Monoambiente Moderno y Luminoso	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,0	Precio $ 214.134	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Departamento Confortable en Corrientes Capital	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Pai Pajarito	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,5	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Amplios Departamentos en Corrientes	Estudio entero, 1 baño, 1 cocina, 35m²	8,7	Precio $ 147.210	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	La Alondra, Casa de huéspedes		8,6	Precio $ 655.081	+ $ 137.567 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	POSADA MARTINEZ 2 (Depto Familiar)	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	6,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	"""Village"" amplia Casa boutique con patio, parrilla y 2 cocheras"	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 25m²	9,4	Precio $ 388.770	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Monoambiente, a 8 cuadras del centro a 13 decostanera		8,2	Precio $ 139.469	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	deptos Rio Juramento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 18m²	7,7	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Placido Martinez	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	8,2	Precio $ 380.370	+ $ 79.878 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Depto Céntrico II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,9	Precio $ 235.970	+ $ 49.554 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	MALUCA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 59m²	9,5	Precio $ 507.160	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Casa para 5 en Corrientes a 7 km Nueva Dirección LLAMAR	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,7	Precio $ 253.580	+ $ 55.013 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Habitación p 4 con baño privado a 7 km de ruta 12	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	6,0	Precio $ 151.443	+ $ 33.564 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	CASA EN CORRIENTES 5 Personas a 7 km del corsódromo		NA	Precio $ 260.624	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	casa-quinta cerca de corrientes y santa ana	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	9,0	Precio $ 393.049	+ $ 82.540 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Volver a Casa	Casa o chalet entero, 3 dormitorios, 2 baños	9,7	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Casa en Corrientes para 5 personas	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 70m²	NA	Precio original $ 311.565. Precio actual $ 249.251.	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Hermoso departamento de un dormitorio con estacionamiento mediano	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,2	Precio original $ 64.804. Precio actual $ 55.083.	+ $ 9.685 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento temporario con cochera	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 54m²	9,5	Precio original $ 98.614. Precio actual $ 83.822.	+ $ 18.659 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento Duvivier	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	10	Precio $ 73.285	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Dpto ideal	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	8,6	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	HERMOSA CASA MUY AMPLIA Y BIEN EQUIPADA ¨EL MANÁ¨	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 100m²	9,2	Precio $ 240.901	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Santa Ana	Corrientes Habitación con baño, cerca de ruta 12, clubes de Rugby y Taraguí Rock		10	Precio $ 197.229	+ $ 43.179 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Monoambientes en zona céntrica	Apartamento entero, 1 dormitorio, 1 baño, 22m²	10	Precio $ 126.790	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Niyat Urban Hotel	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,9	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Amérian Hotel Casino Gala		8,4	Precio $ 279.417	+ $ 58.678 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Impecable Dpto en Pleno centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,0	Precio original $ 84.527. Precio actual $ 76.074.	+ $ 1.233 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Hostel Cha	2 camas en habitación compartida	9,1	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Frente a la Plaza	Apartamento entero, 1 dormitorio, 1 baño, 28m²	9,0	Precio $ 130.171	+ $ 2.113 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Corrientes	Pucara Apart - Habitaciones con baño privado	Apartamento entero, 1 dormitorio, 1 baño, 15m²	7,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Mer	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	NA	Precio original $ 107.771. Precio actual $ 86.217.	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	TEMPORARIOS CHACO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	7,6	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento a 1 cuadra de peatonal MARTIN , por el momento solo se acepta efectivo	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	NA	Precio original $ 253.580. Precio actual $ 240.901.	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento Belgrano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,8	Precio $ 112.702	+ $ 1.409 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Torre Paris 51	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,5	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	La casa de los pájaros	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 376m²	8,3	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Torre PARIS 84	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 214.134	+ $ 44.968 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	DEPRTAMENTO DONOVAN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,8	Precio $ 107.067	+ $ 22.484 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Moderno departamento en edificio residencial	Apartamento entero, 1 dormitorio, 1 baño, 55m²	7,0	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento Temporario	Apartamento entero, 1 dormitorio, 1 baño	8,4	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Lo de Cynthia	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	7,8	Precio $ 90.162	+ $ 20.695 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Elegante depto 1 dormitorio en un edificio único en Resistencia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio $ 143.695	+ $ 30.176 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Gala Hotel y Convenciones		8,7	Precio $ 221.206	+ $ 46.453 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Resistencia	Departamento temporario con cochera	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 54m²	9,5	Precio original $ 98.614. Precio actual $ 83.822.	+ $ 18.659 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Goya	Condado Hotel Casino Goya		8,8	Precio $ 239.041	+ $ 50.199 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Goya	Terencio	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 140.878	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Goya	Posada La Martina		NA	Precio original $ 253.580. Precio actual $ 228.222.	+ $ 47.927 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Goya	Departamento Satí	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,4	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Goya	Los Teros	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 51m²	8,3	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Santa Lucía	Hermoso departamento en complejo residencial- VIP	Apartamento entero, 1 dormitorio, 1 baño, 52m²	10	Precio $ 191.594	+ $ 19.159 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Esquina	La Mansa Riverside		8,8	Precio original $ 309.931. Precio actual $ 263.441.	+ $ 55.323 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Esquina	Posada Morotí		9,5	Precio $ 214.134	+ $ 42.827 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Esquina	Cabañas La Felisa	Casa o chalet entero, 2 dormitorios, 1 baño, 60m²	10	Precio $ 91.965	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Esquina	Esquina Apart Hotel		8,9	Precio $ 201.455	+ $ 47.588 de impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Esquina	Puerto Colla	Casa o chalet entero, 2 dormitorios, 2 baños	NA	Precio $ 111.970	Incluye impuestos y cargos	16 noches, 2 adultos	Corrientes	2023-1-15	2023-1-31
+Puerto Iguazú	Cataratas Jazz Hostel		8,1	Precio original $ 262.716. Precio actual $ 157.630.	+ $ 33.102 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Exe Hotel Cataratas		7,3	Precio $ 235.028	+ $ 49.356 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Entre Rios - Puerto Iguazú	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	8,7	Precio original $ 253.580. Precio actual $ 202.864.	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Saint George		8,6	Precio original $ 591.686. Precio actual $ 443.765.	+ $ 93.191 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Posada La Sorgente		7,5	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamiento Zaul	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 66.804	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Posada Iguazu Colibri		7,8	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mérit Iguazú Hotel		8,3	Precio $ 345.855	+ $ 72.629 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Posada Los Tajibos		7,5	Precio original $ 223.689. Precio actual $ 167.768.	+ $ 35.231 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hostel Krieger Hauss		NA	Precio $ 84.527	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mario Algarin	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,2	Precio $ 150.211	+ $ 31.544 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabañas Riberas del Paraná	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 160m²	8,9	Precio original $ 664.943. Precio actual $ 565.201.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Petit Hotel Caraguata		8,0	Precio $ 203.568	+ $ 42.749 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Ocio Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 33m²	9,6	Precio $ 324.019	+ $ 68.044 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Iguazú Urban Hotel Express		7,6	Precio $ 202.512	+ $ 42.527 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Litt Iguazu hostal		7,6	Precio original $ 112.702. Precio actual $ 95.797.	+ $ 20.646 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Petit Hotel Panambi		6,8	Precio $ 155.670	+ $ 32.691 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Mercure Iguazu Hotel Iru		8,8	Precio $ 748.413	+ $ 157.167 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La Familia Hotel		7,6	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Posada Iguazu Royal		6,9	Precio $ 151.179	+ $ 31.748 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel El Libertador		7,3	Precio original $ 281.192. Precio actual $ 239.013.	+ $ 50.193 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Samambaia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 95.797	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Naturalis Flats and Suites	Apartamento entero, 1 dormitorio, 1 baño, 42m²	8,6	Precio $ 179.619	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Iguazu Rey Hostal		7,3	Precio original $ 160.601. Precio actual $ 128.480.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Tierra Colorada		7,7	Precio original $ 197.229. Precio actual $ 138.060.	+ $ 28.993 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Beer Hotel Iguazú		6,9	Precio $ 315.200	+ $ 66.192 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Posada Los Tajibos		7,5	Precio original $ 248.543. Precio actual $ 161.553.	+ $ 33.926 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Palo Rosa Lodge		8,4	Precio original $ 229.014. Precio actual $ 216.291.	+ $ 45.421 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mango Garden	Apartamento entero, 1 dormitorio, 1 baño, 25m²	4,5	Precio $ 98.614	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Complejo Americano		8,0	Precio original $ 456.444. Precio actual $ 296.688.	+ $ 62.305 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Ingá Apart & Suites	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 24m²	9,3	Precio $ 346.700	+ $ 72.807 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Complejo San Rafael	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,0	Precio $ 320.919	+ $ 67.393 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Rivera del Iguazú	Apartamento entero, 1 dormitorio, 1 baño, 55m²	8,0	Precio $ 102.982	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Cataratas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	9,5	Precio original $ 211.316. Precio actual $ 190.185.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	La Cantera Lodge de Selva		8,5	Precio $ 597.321	+ $ 125.437 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Scenario Yguazu	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 42m²	8,2	Precio $ 114.111	+ $ 23.963 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	lo de nito	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 20m²	NA	Precio $ 113.998	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Gran Hotel Tourbillon & Lodge		8,0	Precio $ 356.843	+ $ 74.937 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Charaí Lodge	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 75m²	8,1	Precio $ 276.120	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Los Tangueros		8,8	Precio $ 220.121	+ $ 46.225 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Guaminí Misión		8,9	Precio $ 512.870	+ $ 107.703 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Village Cataratas		8,3	Precio $ 324.172	+ $ 68.076 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	El Guembe Suites		7,5	Precio $ 146.513	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Overo	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,9	Precio original $ 1.004.176. Precio actual $ 753.132.	+ $ 158.158 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel AATRAC Iguazú		8,1	Precio $ 164.827	+ $ 34.614 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Nicolas	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 15m²	9,0	Precio $ 216.952	+ $ 45.560 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Los Amigos		7,1	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	The Host Bed&Meeting		9,3	Precio $ 338.106	+ $ 71.002 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	El Uru Suite Hotel		7,8	Precio $ 155.670	+ $ 32.691 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Si Mi Capitán - Cabañas & Habitaciones		8,4	Precio original $ 259.215. Precio actual $ 181.450.	+ $ 38.105 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hospedaje Los Vencejos		8,6	Precio $ 163.418	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Loi Suites Iguazu Hotel	Estudio privado, 1 baño, 37m²	8,8	Precio original $ 1.468.227. Precio actual $ 1.027.759.	+ $ 215.829 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart San José ...	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,6	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hostel Park Iguazu		7,5	Precio $ 147.076	+ $ 39.339 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	ISONDU Suites & Breakfast		9,1	Precio $ 323.068	+ $ 67.844 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Reflejos de Luna Llena		8,9	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Residencial Arcoiris		8,7	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart clemencia		8,7	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Cabañas Luces De La Selva		7,2	Precio original $ 321.877. Precio actual $ 225.314.	+ $ 47.316 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Hotel AVY A	Apartamento entero, 2 dormitorios, 1 baño, 45m²	10	Precio $ 202.864	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Las Moras - Cabañas Boutique	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 45m²	9,2	Precio $ 269.358	+ $ 72.861 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	La Aldea De La Selva Lodge		8,2	Precio $ 434.453	+ $ 91.235 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Gran Meliá Iguazú		9,1	Precio original $ 2.722.241. Precio actual $ 2.177.792.	+ $ 457.336 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Iguassu Flower Garden		9,1	Precio $ 182.260	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Arapy Bed and Dream		9,5	Precio $ 254.108	+ $ 53.363 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Dpto para 4 personas -Puerto Iguazu	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,3	Precio $ 129.326	+ $ 27.158 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tres Fronteras		8,6	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Selva de Laurel		8,4	Precio $ 455.035	+ $ 95.557 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hospedaje Jose Gorgues		9,2	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Adhara Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,3	Precio $ 200.046	+ $ 42.010 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Panoramic Grand - Iguazú		8,7	Precio original $ 904.435. Precio actual $ 605.774.	+ $ 127.213 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Iguazu Hojas Verdes		7,9	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Iguazu apart hostel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	9,1	Precio $ 112.702	+ $ 23.367 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hosteria NAMAJU		8,5	Precio $ 132.425	+ $ 27.809 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	CABAÑAS SOLTAME CARNAVAL	Apartamento entero, 1 dormitorio, 1 baño, 30m²	7,6	Precio $ 253.580	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	CABAÑAS SOLTAME CARNAVAL	Apartamento entero, 1 dormitorio, 1 baño, 30m²	7,6	Precio $ 253.580	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mensú Grand Hotel		9,3	Precio original $ 180.323. Precio actual $ 162.291.	+ $ 34.081 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cataratas Jazz Hostel		8,1	Precio original $ 262.716. Precio actual $ 157.630.	+ $ 33.102 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Jardin De Iguazu		8,9	Precio $ 476.730	+ $ 100.113 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tucán Alojamiento		NA	Precio original $ 168.602. Precio actual $ 109.592.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casa Timbo: un abrazo al descanso	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 60m²	9,7	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart de Fronteras	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	7,3	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cayetana	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,3	Precio $ 188.776	+ $ 39.643 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Grand Crucero Hotel		8,0	Precio original $ 453.619. Precio actual $ 408.256.	+ $ 85.734 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hostal Sol iguazu		7,3	Precio $ 80.300	+ $ 16.863 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Falls Iguazú Hotel & Spa		9,0	Precio $ 856.783	+ $ 179.924 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La Familia Hotel		7,6	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Colibrí Hostel		8,0	Precio $ 210.753	+ $ 44.258 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Sweet Guest House		6,7	Precio $ 118.337	+ $ 24.851 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	HOSTEL FARFALLA		9,5	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hosteria Las Piedras		8,6	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tupa Lodge	Suite privada	8,8	Precio original $ 591.686. Precio actual $ 526.601.	+ $ 110.586 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La Paz Igr	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,4	Precio $ 262.032	+ $ 55.027 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Pirayu Hotel & Resort		8,3	Precio original $ 646.628. Precio actual $ 517.303.	+ $ 108.634 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Flia brover (Lalo)	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño	7,9	Precio $ 140.878	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	DOÑA ROSA	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina	9,1	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mediterráneo Suites		8,5	Precio original $ 334.725. Precio actual $ 267.780.	+ $ 56.234 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Yvy Hotel de Selva		8,2	Precio original $ 706.088. Precio actual $ 564.870.	+ $ 118.623 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Posada Los Tajibos		7,5	Precio original $ 248.543. Precio actual $ 161.553.	+ $ 33.926 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hostel Damaris		8,2	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Rainforest Hotel Selva		6,4	Precio original $ 395.838. Precio actual $ 277.087.	+ $ 58.188 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Lo de Carmen Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	7,9	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos en Cataratas Depto.4	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,0	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Raices Esturion		7,9	Precio $ 439.820	+ $ 92.362 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mi Hogar Alojamientos Temporarios	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,6	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Wonderful	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 10m²	7,8	Precio $ 160.939	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Selvaje Lodge Iguazu	Suite privada	9,2	Precio $ 879.605	+ $ 184.717 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Koe pora		NA	Precio $ 110.448	+ $ 24.075 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Las Moras - Cabañas Boutique	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 45m²	9,2	Precio $ 269.358	+ $ 72.861 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	BUGANVILIAS LODGE		7,7	Precio original $ 253.580. Precio actual $ 202.864.	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casa Barranca del Mbocay	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 28m²	NA	Precio $ 86.217	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabañas El Despertar	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 20m²	8,8	Precio $ 214.134	+ $ 44.968 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Toucan Lodge		9,5	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Loi Suites Iguazu Hotel	Estudio privado, 1 baño, 37m²	8,8	Precio original $ 1.468.227. Precio actual $ 1.027.759.	+ $ 215.829 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Deptos Taroba	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,0	Precio $ 169.279	+ $ 35.549 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamiento San Nicolas	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 162.855	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabaña El Ceibo	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	NA	Precio $ 152.683	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart del Huesped		6,3	Precio $ 112.702	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabañas Riberas del Paraná	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 160m²	8,9	Precio original $ 664.943. Precio actual $ 565.201.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Selva de Laurel		8,4	Precio $ 455.035	+ $ 95.557 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	jazmin apart iguazu	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,5	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casona Iguazú	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 142m²	9,7	Precio $ 298.844	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Hotel Tré Iguazú		9,0	Precio $ 492.790	+ $ 103.486 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	magia del iguazu	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,2	Precio original $ 197.229. Precio actual $ 167.644.	+ $ 35.205 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Loft/Apart Michel Iguazu	Estudio entero, 1 baño, 36m²	9,1	Precio $ 202.864	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Selva Iryapú, Puerto Iguazú	Hotel Tré Iguazú		9,0	Precio $ 492.790	+ $ 103.486 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	magia del iguazu	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,2	Precio original $ 197.229. Precio actual $ 167.644.	+ $ 35.205 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Loft/Apart Michel Iguazu	Estudio entero, 1 baño, 36m²	9,1	Precio $ 202.864	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Shalom Hospedaje		8,1	Precio $ 256.397	+ $ 53.843 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa de Cheli	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 350m²	NA	Precio $ 98.614	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Los rios	Apartamento entero, 1 dormitorio, 1 baño, 20m²	6,0	Precio $ 112.082	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Los Abuelos	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 40m²	NA	Precio $ 182.014	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Itavera		7,9	Precio $ 173.449	+ $ 36.424 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabaña Alegre	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina	NA	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Colibrí Apart	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 244.282	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos en Cataratas Depto.1	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 64m²	9,5	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos en Cataratas Depto.3	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 cocina, 42m²	8,5	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Miguel Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,8	Precio $ 140.878	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Raices Amambai Lodges	Bungalow entero, 1 dormitorio, 1 baño, 56m²	8,2	Precio $ 439.989	+ $ 92.398 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Terra Iguazú Cabañas	Apartamento privado, 2 dormitorios, 1 baño, 1 cocina, 10m²	8,8	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Fariña hospedajes	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina	7,5	Precio $ 231.039	+ $ 48.518 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	EL TATA APART		7,3	Precio $ 164.827	+ $ 34.614 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hospedaje Barbara		9,0	Precio $ 135.243	+ $ 29.281 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Pirayu Lodge Resort	Bungalow entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	8,0	Precio original $ 697.344. Precio actual $ 557.876.	+ $ 117.154 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casa Giovanini lll	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	8,4	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Departamento familiar por día	Apartamento entero, 2 dormitorios, 1 baño, 45m²	NA	Precio $ 223.150	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Malibu Apart	Apartamento entero, 2 dormitorios, 1 baño, 45m²	NA	Precio $ 181.450	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos Kekitos	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 165.249	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	El Pindo Iguazu		8,3	Precio $ 280.206	+ $ 58.843 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Carmen		10	Precio $ 121.155	+ $ 25.443 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Parana Inn		6,5	Precio $ 143.695	+ $ 30.176 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tupã Jireh	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 20m²	8,5	Precio $ 142.005	+ $ 29.821 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Peteribi	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	7,0	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hotel Caminito Iguazú Tango		5,6	Precio $ 213.740	+ $ 44.885 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa del Lago - The lake house !	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 250m²	9,2	Precio $ 405.728	+ $ 85.203 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Departamentos El Chileno	Apartamento entero, 1 dormitorio, 1 baño, 24m²	8,8	Precio $ 159.755	+ $ 33.549 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La Posada de Moncho		8,8	Precio original $ 140.878. Precio actual $ 112.702.	+ $ 23.367 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Portal De La Selva II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 366.282	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart portal de la selva	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	8,8	Precio $ 380.370	+ $ 528 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamiento Los Nietos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	NA	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa del Río	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños	9,1	Precio $ 535.335	+ $ 112.420 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Viví Iguazú Casa Familiar	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 100m²	NA	Precio original $ 197.567. Precio actual $ 167.931.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casa Iguazu	Apartamento entero, 2 dormitorios, 1 baño, 70m²	NA	Precio $ 355.632	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Departamento WISCZOREK	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 18m²	9,2	Precio $ 228.222	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Sol del Monte	Casa o chalet entero, 2 dormitorios, 1 baño	7,0	Precio $ 394.457	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	marangatu apart hotel	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,2	Precio $ 359.238	+ $ 75.139 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casona Iguazú	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 142m²	9,7	Precio $ 298.844	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Raices Amambai Lodges	Bungalow entero, 1 dormitorio, 1 baño, 56m²	8,2	Precio $ 439.989	+ $ 92.398 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Kuri Hospedaje Turístico	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 28m²	10	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Guatambu Apart	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 16m²	8,8	Precio $ 185.959	+ $ 40.812 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos TheBen	Apartamento entero, 1 dormitorio, 1 baño, 18m²	8,1	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabaña flor de la selva	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños	NA	Precio $ 436.721	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mi Buen Refugio	Apartamento privado, 2 dormitorios, 1 baño, 60m²	8,6	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tajy Iguazu Hotel		7,2	Precio $ 367.691	+ $ 77.215 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Nuova Villa Cabañas	Bungalow entero, 2 dormitorios, 1 baño, 1 cocina, 54m²	9,7	Precio $ 507.160	+ $ 106.504 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Nuova Villa Cabañas	Bungalow entero, 2 dormitorios, 1 baño, 1 cocina, 54m²	9,7	Precio $ 507.160	+ $ 106.504 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Hostel Iguazu Falls	2 camas en habitación compartida	8,3	Precio $ 90.162	+ $ 19.462 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos el Amanecer	2 camas en habitación compartida	8,9	Precio $ 74.271	+ $ 15.597 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Steve's House	2 camas en habitación compartida	9,0	Precio $ 119.996	+ $ 25.199 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa del Lago - The lake house !	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 250m²	9,2	Precio $ 405.728	+ $ 85.203 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Departamentos El Chileno	Apartamento entero, 1 dormitorio, 1 baño, 24m²	8,8	Precio $ 159.755	+ $ 33.549 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La Posada de Moncho		8,8	Precio original $ 140.878. Precio actual $ 112.702.	+ $ 23.367 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart Portal De La Selva II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 366.282	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Apart portal de la selva	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	8,8	Precio $ 380.370	+ $ 528 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamiento Los Nietos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	NA	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa del Río	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños	9,1	Precio $ 535.335	+ $ 112.420 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Viví Iguazú Casa Familiar	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 100m²	NA	Precio original $ 197.567. Precio actual $ 167.931.	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casa Iguazu	Apartamento entero, 2 dormitorios, 1 baño, 70m²	NA	Precio $ 355.632	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Departamento WISCZOREK	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 18m²	9,2	Precio $ 228.222	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Sol del Monte	Casa o chalet entero, 2 dormitorios, 1 baño	7,0	Precio $ 394.457	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	marangatu apart hotel	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,2	Precio $ 359.238	+ $ 75.139 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Casona Iguazú	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 142m²	9,7	Precio $ 298.844	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Raices Amambai Lodges	Bungalow entero, 1 dormitorio, 1 baño, 56m²	8,2	Precio $ 439.989	+ $ 92.398 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Kuri Hospedaje Turístico	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 28m²	10	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Guatambu Apart	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 16m²	8,8	Precio $ 185.959	+ $ 40.812 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Alojamientos TheBen	Apartamento entero, 1 dormitorio, 1 baño, 18m²	8,1	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabaña flor de la selva	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños	NA	Precio $ 436.721	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Mi Buen Refugio	Apartamento privado, 2 dormitorios, 1 baño, 60m²	8,6	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Tajy Iguazu Hotel		7,2	Precio $ 367.691	+ $ 77.215 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Nuova Villa Cabañas	Bungalow entero, 2 dormitorios, 1 baño, 1 cocina, 54m²	9,7	Precio $ 507.160	+ $ 106.504 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel Batista		9,2	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel Posadas		7,4	Precio original $ 194.411. Precio actual $ 174.970.	+ $ 36.744 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique1	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,6	Precio $ 327.541	+ $ 13.102 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	LOS CHOW CHOW	Apartamento entero, 1 dormitorio, 1 baño, 25m²	NA	Precio $ 71.143	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel Vanderloo		7,5	Precio $ 150.880	+ $ 31.685 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Bagu Grand Crucero Posadas		8,1	Precio $ 190.382	+ $ 39.980 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel Continental		7,8	Precio $ 213.007	+ $ 44.731 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Habitaciones Villa Blosset		7,1	Precio $ 78.891	+ $ 16.567 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Augusta II	Apartamento entero, 1 dormitorio, 1 baño, 50m²	10	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Marfil	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	9,4	Precio $ 147.217	+ $ 30.916 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Wawa Estudio	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,6	Precio $ 112.526	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	La Mision Posadas		7,5	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Alma costa	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	10	Precio $ 155.670	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	DEPARTAMENtO LOFT	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 12m²	8,6	Precio $ 149.330	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Room Center monoambiente estudio en pleno centro, tu lugar en Posadas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,4	Precio $ 141.864	+ $ 29.606 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Bagu Urbano		8,0	Precio $ 246.987	+ $ 51.867 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	AVEMAR Apart Hotel		8,8	Precio $ 228.222	+ $ 47.636 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hosteria Maryland		7,3	Precio $ 135.862	+ $ 28.531 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	LOS CHOW CHOW		6,7	Precio $ 98.614	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	8,9	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	EDIFICIO IBAÑEZ	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 101.770	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento céntrico en Posadas, garage opcional	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	8,6	Precio $ 140.878	+ $ 43.672 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento confortable con parrilla en el balcón	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	9,0	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Irová Apart Hotel	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 50m²	9,2	Precio $ 478.984	+ $ 100.587 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamentos alquiler temporario VillaBlosset Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,7	Precio $ 155.670	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento amoblado temporario- Posadas MDZ 6D	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,7	Precio $ 119.746	+ $ 25.147 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Costa Norte, iluminado y espacioso	Apartamento entero, 1 dormitorio, 1 baño, 50m²	8,7	Precio $ 91.965	+ $ 19.313 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique1	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,6	Precio $ 327.541	+ $ 13.102 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Room Center monoambiente estudio en pleno centro, tu lugar en Posadas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,4	Precio $ 141.864	+ $ 29.606 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hostel los Chow Chow	Apartamento entero, 2 dormitorios, 1 baño, 35m²	7,1	Precio $ 86.217	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	M&M House	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 80m²	9,5	Precio $ 135.243	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Loft temporario Yerbal	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 46m²	9,0	Precio $ 126.931	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Río y Sol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	8,1	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento Costanera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	8,0	Precio $ 162.855	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento Debussy	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,2	Precio $ 150.880	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Alma viajera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	10	Precio $ 147.076	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Alquiler por día zona ideal Posadas, Misiones	Apartamento entero, 1 dormitorio, 1 baño, 24m²	9,7	Precio $ 107.771	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Lavalle hostel		6,0	Precio $ 67.621	+ $ 14.200 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hermoso departamento, amplio, excelente ubicación.	Apartamento entero, 2 dormitorios, 1 baño, 70m²	8,0	Precio $ 258.651	+ $ 54.317 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	CASA ALBERDI	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,0	Precio $ 124.413	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Posadas Centro	Apartamento entero, 2 dormitorios, 1 baño, 36m²	NA	Precio $ 153.275	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Belgrano	Suite privada	7,7	Precio $ 259.215	+ $ 54.435 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel POSTA NORTE		6,4	Precio $ 216.952	+ $ 45.560 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Edificio Boutique de la Costa I Apart de lujo frente al Río Paraná con vista panorámica	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 48m²	10	Precio $ 278.938	+ $ 58.577 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique de la costa, costanera con vista al río	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	5,0	Precio $ 281.755	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Labat	Apartamento entero, 1 dormitorio, 1 baño, 43m²	8,7	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Costa Azul Hotel		5,1	Precio $ 200.751	+ $ 42.158 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Fausto Alojamiento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	NA	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique de la Costa MONOAMBIENTE AMPLIO AMOBLADO	Apartamento entero, 1 dormitorio, 1 baño	5,5	Precio $ 264.991	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento con Entrada Independiente	Apartamento entero, 1 dormitorio, 1 baño, 32m²	NA	Precio $ 359.238	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Posadas la hermosa		8,3	Precio $ 208.499	+ $ 43.785 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Duplex a pasitos del centro contactar número primer foto	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina	NA	Precio $ 380.370	+ $ 81.110 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Quinta San Bernardo	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 1.000m²	NA	Precio $ 619.862	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Room Center monoambiente estudio en pleno centro, tu lugar en Posadas	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,4	Precio $ 141.864	+ $ 29.606 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hostel los Chow Chow	Apartamento entero, 2 dormitorios, 1 baño, 35m²	7,1	Precio $ 86.217	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	M&M House	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 80m²	9,5	Precio $ 135.243	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Loft temporario Yerbal	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 46m²	9,0	Precio $ 126.931	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Río y Sol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	8,1	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento Costanera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	8,0	Precio $ 162.855	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento Debussy	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,2	Precio $ 150.880	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Alma viajera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	10	Precio $ 147.076	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Alquiler por día zona ideal Posadas, Misiones	Apartamento entero, 1 dormitorio, 1 baño, 24m²	9,7	Precio $ 107.771	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Lavalle hostel		6,0	Precio $ 67.621	+ $ 14.200 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hermoso departamento, amplio, excelente ubicación.	Apartamento entero, 2 dormitorios, 1 baño, 70m²	8,0	Precio $ 258.651	+ $ 54.317 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	CASA ALBERDI	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,0	Precio $ 124.413	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Posadas Centro	Apartamento entero, 2 dormitorios, 1 baño, 36m²	NA	Precio $ 153.275	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Belgrano	Suite privada	7,7	Precio $ 259.215	+ $ 54.435 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Hotel POSTA NORTE		6,4	Precio $ 216.952	+ $ 45.560 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Edificio Boutique de la Costa I Apart de lujo frente al Río Paraná con vista panorámica	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 48m²	10	Precio $ 278.938	+ $ 58.577 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique de la costa, costanera con vista al río	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	5,0	Precio $ 281.755	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Labat	Apartamento entero, 1 dormitorio, 1 baño, 43m²	8,7	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Costa Azul Hotel		5,1	Precio $ 200.751	+ $ 42.158 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Fausto Alojamiento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 48m²	NA	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Apart Boutique de la Costa MONOAMBIENTE AMPLIO AMOBLADO	Apartamento entero, 1 dormitorio, 1 baño	5,5	Precio $ 264.991	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Posadas	Departamento con Entrada Independiente	Apartamento entero, 1 dormitorio, 1 baño, 32m²	NA	Precio $ 359.238	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Bagu Azul Obera		7,6	Precio original $ 254.904. Precio actual $ 203.934.	+ $ 42.826 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Hotel Anahi		7,7	Precio $ 121.155	+ $ 25.443 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Pauly 2		8,5	Precio $ 92.219	+ $ 19.366 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Hotel Cuatro Pinos		8,2	Precio $ 134.153	+ $ 28.172 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Departamento Céntrico	Estudio entero, 1 baño	9,0	Precio $ 63.395	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Pauli	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 15m²	7,5	Precio $ 92.219	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Casa Céntrica Completa para 4 o 5 personas	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 167.363	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Casa céntrica con estacionamiento para 4 personas	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 202.864	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Departamentos céntricos completos	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 136.933	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Ñaú Tatá Casa de Huéspedes	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 42m²	7,9	Precio $ 190.889	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Casita de madera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,5	Precio $ 160.601	+ $ 33.726 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	DEPARTAMENTO CENTRICO OBERÁ	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 129.326	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Oberá	Casa de campo en la Granja La Lechuza	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 125m²	8,2	Precio $ 425.451	+ $ 89.345 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Colonia Finlandesa	Casa31.Obera	Casa o chalet entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina	9,5	Precio $ 329.654	+ $ 32.965 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Colonia Finlandesa	Kambá House	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 18m²	10	Precio $ 549.423	+ $ 170.321 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Leandro N. Alem	Monoambiente Alem	Apartamento entero, 1 dormitorio, 1 baño, 10m²	9,1	Precio $ 131.721	+ $ 27.661 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+San Ignacio	Sihostel		7,2	Precio $ 127.547	+ $ 26.785 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+San Ignacio	LA MARTINA APART HOTEL	Apartamento entero, 2 dormitorios, 1 baño, 98m²	4,3	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+San Ignacio	Quinta La Encantada	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	10	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Wanda	Hotel Amatista		8,4	Precio $ 225.404	+ $ 43.032 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Wanda	Casa cabaña R&M	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	5,5	Precio $ 95.797	+ $ 9.580 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Wanda	Wanda Hotel Las Palmas	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,4	Precio $ 188.776	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Esperanza	Cabañas Aranderay	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio original $ 118.112. Precio actual $ 94.490.	+ $ 9.449 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Esperanza	Cabañas Aranderay	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio original $ 118.112. Precio actual $ 94.490.	+ $ 9.449 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Libertad	HOTEL PUERTO LIBERTAD		8,4	Precio $ 83.681	+ $ 25.941 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Esperanza	Palo Borracho SA	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	NA	Precio $ 202.864	+ $ 20.286 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Esperanza	Palo Borracho SA	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	10	Precio $ 191.594	+ $ 19.159 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Libertad	Puerto Bemberg		8,9	Precio $ 577.598	+ $ 121.296 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	La casa del Lago - The lake house !	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 250m²	9,2	Precio $ 405.728	+ $ 85.203 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Iguazú	Cabaña flor de la selva	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños	NA	Precio $ 436.721	Incluye impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31
+Puerto Bossetti	Flordelaselva	Villa entera, 2 dormitorios, 1 sala de estar, 3 baños	NA	Precio $ 359.238	+ $ 111.364 de impuestos y cargos	16 noches, 2 adultos	Misiones	2023-1-15	2023-1-31

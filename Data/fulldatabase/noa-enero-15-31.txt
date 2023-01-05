@@ -1,0 +1,696 @@
+localizacion	titulo	descripcion	calif	precio	impuesto	noches	provincia	checkin	checkout
+Calilegua	El Jardin Colonial		8,6	Precio $ 121.155	+ $ 25.073 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Libertador General San Martín	Hosteria-Spa Posada del Sol		8,9	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Finca La Candelaria	Casa o chalet entero, 3 dormitorios, 3 baños, 200m²	NA	Precio $ 732.564	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabaña Alta Vista	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 37m²	8,9	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Hoyada	Apartamento entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 300m²	8,9	Precio $ 873.441	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Posada Don Juan		8,9	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 101.939	+ $ 21.407 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	flor del tilcara		NA	Precio $ 100.587	+ $ 21.123 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Huacalera	Finca La Victoria	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Huacalera	Posada Huacalera (Tropico de Capricornio)	Casa o chalet entero, 4 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 130m²	9,0	Precio $ 344.869	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Huacalera	Hotel Huacalera		8,5	Precio original $ 605.422. Precio actual $ 484.337.	+ $ 101.711 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Huacalera	El Cardon Hospedaje		8,2	Precio $ 309.931	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Villa del Cielo		8,9	Precio $ 486.394	+ $ 102.143 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostal Antigua Tilcara		9,2	Precio $ 510.667	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	flor del tilcara		NA	Precio $ 100.587	+ $ 21.123 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Alas del Alma		8,1	Precio $ 456.444	+ $ 95.853 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Shaddai		8,8	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hotel Belgrano		7,3	Precio $ 228.560	+ $ 47.998 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Hostel		8,8	Precio $ 123.972	+ $ 26.034 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa de Barro Tilcara	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 120m²	NA	Precio $ 464.896	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 259.215	+ $ 54.435 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Patio Chikan		7,3	Precio original $ 315.566. Precio actual $ 284.009.	+ $ 59.642 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Carnavalito Hostel Tilcara		8,0	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hotel Norte Rupestre		7,6	Precio $ 314.157	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 33m²	9,5	Precio original $ 427.222. Precio actual $ 384.499.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabañas La Esther Tilcara	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,1	Precio $ 278.938	+ $ 58.577 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tierra Andina Hostal y Cabañas	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 20m²	7,8	Precio $ 348.672	+ $ 72.851 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Posada de Bartola		8,2	Precio original $ 119.746. Precio actual $ 101.770.	+ $ 21.372 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Aguacanto Cabañas		8,8	Precio $ 346.080	+ $ 72.677 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Farolito Hostel		7,9	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Patio Alto		8,9	Precio $ 441.792	+ $ 92.776 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 531.644	+ $ 111.645 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tierra Andina Hostel		8,1	Precio original $ 309.931. Precio actual $ 247.945.	+ $ 52.068 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 319.511. Precio actual $ 255.608.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabañas Santa Catalina	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,9	Precio $ 351.631	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Posada Don Juan		8,9	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Los Arcabuceros		9,5	Precio $ 535.335	+ $ 112.420 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Hostal Niña Coya		8,9	Precio $ 262.032	+ $ 55.027 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Las Tinajas		8,2	Precio $ 352.194	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostería el Sol Naciente		7,5	Precio $ 205.681	+ $ 43.193 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Casa de Fede		6,8	Precio $ 177.224	+ $ 37.217 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cielo de Tierra 2 - Un balcón a los cerros		10	Precio $ 338.106	+ $ 71.002 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Hoyada	Apartamento entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 300m²	8,9	Precio $ 873.441	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cielo de Tierra 1: Balcón a los molles	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	9,0	Precio $ 366.282	+ $ 76.919 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Aguaribay Tilcara	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 127m²	9,7	Precio $ 619.862	+ $ 130.171 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Rancho	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,0	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabaña Alta Vista	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 37m²	8,9	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Colorada Hostal		9,7	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casas de Juella	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,7	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa en el centro de Tilcara	Casa o chalet entero, 4 dormitorios, 3 baños	9,8	Precio $ 981.917	+ $ 206.203 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	EL HOGAR DE TITA	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 600m²	NA	Precio $ 838.222	+ $ 176.027 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Gustavito Servicio de Alojamiento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	8,0	Precio $ 478.984	+ $ 100.587 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostel Waira	2 camas en habitación compartida	7,9	Precio $ 101.432	+ $ 21.301 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 101.939	+ $ 21.407 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa Colores	2 camas en habitación compartida	9,2	Precio $ 102.559	+ $ 21.537 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tierra Andina Hostel		8,1	Precio original $ 309.931. Precio actual $ 247.945.	+ $ 52.068 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 319.511. Precio actual $ 255.608.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabañas Santa Catalina	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,9	Precio $ 351.631	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Posada Don Juan		8,9	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Cabañas Sol y Luna	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 72m²	7,4	Precio $ 376.566	+ $ 79.079 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Tierra Virgen Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,2	Precio $ 676.213	+ $ 142.005 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Estancia El Mulato		NA	Precio $ 203.568	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Hosteria La Pushka		8,8	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	samaywasi		7,7	Precio $ 405.728	+ $ 85.203 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Pumahuasi Hotel Boutique	Suite privada	9,1	Precio $ 511.780	+ $ 107.474 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Los Agustinos	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 45m²	8,3	Precio original $ 608.591. Precio actual $ 492.959.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Giramundo Hostel Purmamarca		8,1	Precio $ 201.089	+ $ 42.229 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Posta de Purmamarca		9,2	Precio $ 462.079	+ $ 97.037 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Hostería Aguas Coloradas		8,1	Precio $ 732.564	+ $ 153.838 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	Casita de Purmamarca	Villa entera, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,3	Precio $ 617.889	+ $ 129.757 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Purmamarca	La Morada		9,5	Precio $ 352.194	+ $ 73.961 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Cabañas Otro Mundo - Finca Otro Mundo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,1	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Finca La Candelaria	Casa o chalet entero, 3 dormitorios, 3 baños, 200m²	NA	Precio $ 732.564	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Cabañas Paqa Paqa	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	7,9	Precio original $ 205.118. Precio actual $ 184.606.	+ $ 40.528 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Hosteria Maimará		9,2	Precio original $ 478.984. Precio actual $ 383.187.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Hosteria Gorriti	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 26m²	9,7	Precio $ 352.194	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Misky Kucho (dulce rincon)	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 60m²	9,7	Precio $ 301.760	+ $ 63.370 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Posta del Sol		8,2	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Casa Munay		NA	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	Inti Raymi		7,8	Precio $ 192.721	+ $ 40.471 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	La Casa del Tata		8,7	Precio $ 324.019	+ $ 68.044 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	JN ALQUILERES	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 251.467	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	El Balcón de Sumaj		8,9	Precio $ 247.945	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Maimará	La casa del pintor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 390m²	5,5	Precio original $ 633.949. Precio actual $ 484.971.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Rancho	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,0	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tinku	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 33m²	9,5	Precio original $ 427.222. Precio actual $ 384.499.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostel Waira	2 camas en habitación compartida	7,9	Precio $ 101.432	+ $ 21.301 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Villa del Cielo		8,9	Precio $ 486.394	+ $ 102.143 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Convento de Tilcara	2 camas en habitación compartida	8,4	Precio $ 101.939	+ $ 21.407 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostal Antigua Tilcara		9,2	Precio $ 510.667	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Alas del Alma		8,1	Precio $ 456.444	+ $ 95.853 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Shaddai		8,8	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hotel Belgrano		7,3	Precio $ 228.560	+ $ 47.998 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Hostel		8,8	Precio $ 123.972	+ $ 26.034 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa de Barro Tilcara	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 120m²	NA	Precio $ 464.896	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Rustica Hostel		7,7	Precio $ 259.215	+ $ 54.435 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Patio Chikan		7,3	Precio original $ 315.566. Precio actual $ 284.009.	+ $ 59.642 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hotel Norte Rupestre		7,6	Precio $ 314.157	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabañas La Esther Tilcara	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,1	Precio $ 278.938	+ $ 58.577 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Carnavalito Hostel Tilcara		8,0	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa Colores	2 camas en habitación compartida	9,2	Precio $ 102.559	+ $ 21.537 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tierra Andina Hostal y Cabañas	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 20m²	7,8	Precio $ 348.672	+ $ 72.851 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Posada de Bartola		8,2	Precio original $ 119.746. Precio actual $ 101.770.	+ $ 21.372 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Aguacanto Cabañas		8,8	Precio $ 346.080	+ $ 72.677 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Farolito Hostel		7,9	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Patio Alto		8,9	Precio $ 441.792	+ $ 92.776 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 531.644	+ $ 111.645 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 319.511. Precio actual $ 255.608.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabañas Santa Catalina	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,9	Precio $ 351.631	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Posada Don Juan		8,9	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	CASA ATELIER		8,7	Precio $ 335.289	+ $ 70.411 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cielo de Tierra 2 - Un balcón a los cerros		10	Precio $ 338.106	+ $ 71.002 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 531.644	+ $ 111.645 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Los Arcabuceros		9,5	Precio $ 535.335	+ $ 112.420 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hostería el Sol Naciente		7,5	Precio $ 205.681	+ $ 43.193 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Alojamiento El Cardon Tilcara		7,9	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Casa de Fede		6,8	Precio $ 177.224	+ $ 37.217 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cielo de Tierra 1: Balcón a los molles	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	9,0	Precio $ 366.282	+ $ 76.919 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Aguaribay Tilcara	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 127m²	9,7	Precio $ 619.862	+ $ 130.171 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cabaña Alta Vista	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 37m²	8,9	Precio $ 450.809	+ $ 94.670 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Colorada Hostal		9,7	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Casa en el centro de Tilcara	Casa o chalet entero, 4 dormitorios, 3 baños	9,8	Precio $ 981.917	+ $ 206.203 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	EL HOGAR DE TITA	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 600m²	NA	Precio $ 838.222	+ $ 176.027 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Gustavito Servicio de Alojamiento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	8,0	Precio $ 478.984	+ $ 100.587 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Tilcara Hostal Niña Coya		8,9	Precio $ 262.032	+ $ 55.027 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Las Tinajas		8,2	Precio $ 352.194	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	La Hoyada	Apartamento entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 300m²	8,9	Precio $ 873.441	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Aguacanto Cabañas		8,8	Precio $ 346.080	+ $ 72.677 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hospedaje Fortaleza Indigena		6,7	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	El Farolito Hostel		7,9	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Patio Alto		8,9	Precio $ 441.792	+ $ 92.776 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Cerro Negro Hostal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	7,8	Precio $ 531.644	+ $ 111.645 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Tilcara	Hosteria Tia Maria		NA	Precio original $ 319.511. Precio actual $ 255.608.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Marqués de Tojo Urbano	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 37m²	9,4	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Maia	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	10	Precio $ 155.670	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Hostal Trinidad		NA	Precio $ 65.772	+ $ 13.812 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Los Altos de Nieva	Apartamento entero, 1 dormitorio, 1 baño, 28m²	8,9	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	San Cayetano	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 112.702	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Arribo Hotel		9,2	Precio original $ 487.530. Precio actual $ 316.894.	+ $ 66.548 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Murguía Apart	Apartamento entero, 3 dormitorios, 3 baños, 95m²	NA	Precio original $ 124.536. Precio actual $ 99.629.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Hotel ICONICO JUJUY Centro		8,0	Precio $ 168.877	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CERROS del NORTE Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,4	Precio $ 215.543	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Nieva 4M	Apartamento entero, 2 dormitorios, 2 baños, 80m²	10	Precio $ 162.855	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	HOSPEDAJE TEMPORAL JUJUY	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	10	Precio $ 113.010	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Howard Johnson Plaza Jujuy		8,8	Precio $ 363.943	+ $ 76.428 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Naranjo 9D	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 39m²	9,0	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Amplio depto en el centro, vista al Parque Lineal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,7	Precio $ 197.229	+ $ 1.602 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Mirador del Alto Jujuy	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	4,0	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Norte Jujeño	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 115.520	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Rincon del Valle		9,0	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Cerquero, Casa de Huéspedes		9,0	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	San Salvador Downtown	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 85m²	10	Precio $ 197.229	+ $ 2.641 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Monoambiente San Martin	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	NA	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Paseo Los Perales	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 10m²	9,0	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apartamentos Centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 10m²	6,9	Precio $ 132.425	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Plaza	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 75m²	9,3	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La reina mora	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	9,0	Precio $ 156.409	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Parque Hotel		8,2	Precio $ 199.765	+ $ 41.951 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Rosa Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,5	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Casa del Colibrí	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina	9,6	Precio $ 263.441	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Patricias 381		6,7	Precio $ 177.506	+ $ 55.027 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Ceibo 108	Suite privada	8,8	Precio $ 146.513	+ $ 30.768 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Posada Rivera		8,9	Precio $ 126.931	+ $ 26.655 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Boho 270 Yellow	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	9,0	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Hosteria San Martin		9,2	Precio $ 223.150	+ $ 46.862 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El silencio - Lozano- Jujuy	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 42m²	9,7	Precio original $ 314.439. Precio actual $ 267.273.	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Miscela 2 - Casa planta baja - Ciudad de Nieva - 8 personas	Casa o chalet entero, 3 dormitorios, 2 baños, 14m²	8,6	Precio $ 359.238	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	LA MATILDA, una casa al aire libre y paisajes	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 110m²	8,5	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CERRO AZUL I	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	9,6	Precio $ 114.111	+ $ 23.963 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Barrancas de Nieva B01	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	8,9	Precio original $ 281.755. Precio actual $ 239.492.	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Boho 270	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	8,9	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Los nardos apartamento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 68m²	4,0	Precio $ 109.208	+ $ 22.934 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Anqa Wasi Alquiler temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	9,9	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CASA MARGARITA P2 Monoambiente verde	Apartamento entero, 1 dormitorio, 1 baño, 19m²	9,6	Precio $ 146.513	+ $ 30.768 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Pacha apartment pleno centro	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 50m²	8,6	Precio $ 281.755	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Magnolia departamento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,6	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Edificio Giu, 2B-San Salvador de Jujuy, Argentina	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 164.827	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	LIVING HOUSE 2 - Departamento Moderno en Ciudad de Nieva.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	NA	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Munaska A	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 41m²	10	Precio $ 137.497	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apartamento Boutique Los Perales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	NA	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CASA MARGARITA P2 Monoambiente	Estudio entero, 1 baño, 19m²	9,6	Precio $ 146.513	+ $ 30.768 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	EL CHALTIN	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,4	Precio original $ 258.651. Precio actual $ 256.073.	+ $ 53.775 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Mirador del Alto Jujuy	Estudio entero, 1 baño, 35m²	6,9	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	ANDINO 2	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 12m²	NA	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Lo de Viviana		9,7	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Barrancas de Nieva B02	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	9,0	Precio original $ 223.150. Precio actual $ 210.753.	+ $ 44.258 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Edificio Otero	Apartamento entero, 1 dormitorio, 1 baño, 50m²	7,8	Precio $ 227.165	+ $ 47.705 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apartamentos El Fortín	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,7	Precio $ 132.425	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	ANDINO 1	Apartamento entero, 2 dormitorios, 2 baños	9,7	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Shaddai	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 85m²	8,8	Precio $ 191.594	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Barrancas de Nieva B03	Apartamento entero, 2 dormitorios, 2 salas de estar, 1 baño, 100m²	9,5	Precio $ 258.651	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apart Catedral	Estudio entero, 1 baño, 1 cocina, 40m²	9,5	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Munaska B	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 41m²	NA	Precio $ 124.170	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Los Perales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,1	Precio $ 422.633	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Acogedor departamento a minutos del casco centrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,2	Precio $ 171.307	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	NUNA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,0	Precio original $ 197.229. Precio actual $ 167.644.	+ $ 35.205 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CIELO DE JUJUY	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	8,3	Precio $ 182.577	+ $ 18.258 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CASA MARGARITA P2 Apartamento Triple	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 24m²	9,8	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	19 de Abril Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 45m²	NA	Precio $ 219.487	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apartamentos La Posta	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	7,6	Precio $ 132.425	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CasaBlanca alq. Deptos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa Bustamante	Apartamento entero, 3 dormitorios, 1 cocina, 173m²	9,8	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Depto El Ceibo 108	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 62m²	9,4	Precio $ 163.418	+ $ 34.318 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CERROS del NORTE II Departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,3	Precio original $ 263.441. Precio actual $ 223.911.	+ $ 47.021 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Tina	Apartamento entero, 2 dormitorios, 1 baño, 55m²	10	Precio $ 274.711	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Balcarse Apart Centro JUJUY	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	6,7	Precio $ 143.695	+ $ 2.818 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apart Plaza	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 227.517	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa en La Viña	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	8,8	Precio $ 179.027	+ $ 37.596 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apart Plaza	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 227.517	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa en La Viña	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	8,8	Precio $ 179.027	+ $ 37.596 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Selin Issa 296	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 62m²	9,2	Precio $ 179.619	+ $ 37.720 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Casa de Lulu		1,0	Precio $ 94.501	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento céntrico frente al Parque	Apartamento entero, 1 dormitorio, 1 baño, 30m²	9,0	Precio $ 187.367	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Torre Murguia	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 50m²	9,6	Precio $ 292.659	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa Jusuy	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	8,4	Precio $ 214.134	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Casa Verde	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 250m²	9,0	Precio $ 197.229	+ $ 4.755 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Belgrano Apart	Apartamento entero, 1 dormitorio, 1 baño	7,4	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Casa de Leny	Apartamento entero, 2 dormitorios, 1 baño, 70m²	10	Precio $ 172.434	+ $ 36.211 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	LIVING HOUSE- Departamento Moderno en Ciudad de Nieva.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 cocina, 40m²	9,2	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Cabañas El Paraiso	Bungalow entero, 1 dormitorio, 1 baño, 1 cocina, 26m²	9,8	Precio $ 202.864	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Dpto Pasaje Valladolid	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	8,7	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Los Jazmines	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 175m²	9,7	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Apart Hotel Urku Wasi	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	8,5	Precio $ 267.668	+ $ 56.210 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Viña Departamento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,6	Precio $ 193.397	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Home Sweet Home	Apartamento entero, 1 dormitorio, 1 baño, 122m²	NA	Precio $ 131.721	+ $ 27.661 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa estilo mediterraneo en pleno centro de Jujuy	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 215.543	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamentos Parque Lineal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	8,4	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Merkaba	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,0	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Boho 291	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	NA	Precio $ 182.577	+ $ 38.341 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Parque San Martin	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 80m²	NA	Precio $ 215.543	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Cardon		7,1	Precio $ 152.148	+ $ 31.951 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	DEPARTAMENTO AVENIDA MOSCONI	Apartamento entero, 4 dormitorios, 2 baños, 90m²	8,7	Precio $ 324.582	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	JUJUY Depart SALVADOR por escaleras a 10 minutos del centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,1	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	DEPARTAMENTO AVENIDA MOSCONI	Apartamento entero, 4 dormitorios, 2 baños, 90m²	8,7	Precio $ 324.582	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Botón de Oro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	8,8	Precio original $ 233.857. Precio actual $ 210.471.	+ $ 44.199 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	La Morada	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños	10	Precio $ 419.815	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Edificio Giu	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 164.827	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Campero a metros del centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,7	Precio $ 195.256	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	CASA BLANCA Jujuy	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	8,3	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa El Ceibal	Casa o chalet entero, 2 dormitorios, 1 baño	10	Precio $ 365.155	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	7 Colores Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	8,7	Precio $ 214.134	+ $ 44.968 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Zona de montañas	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 30m²	7,3	Precio $ 15.214.787	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Cuna Jujeña! Alojamiento Temporario en Jujuy-Argentina	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,6	Precio $ 278.938	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Paseo Lamadrid	Apartamento entero, 2 dormitorios, 1 baño, 16m²	NA	Precio $ 288.799	+ $ 60.648 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa Belisario	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 160m²	NA	Precio $ 331.485	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Flor de Paisaje	Apartamento entero, 2 dormitorios, 2 baños, 65m²	NA	Precio $ 302.042	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Nuevo Garden Suite jujuy	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 55m²	NA	Precio $ 281.755	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	AMPLIO DEPARTAMENTO EN EXCELENTE UBICACION	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 90m²	8,0	Precio original $ 15.496.542. Precio actual $ 13.946.888.	+ $ 2.928.846 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	HOSTEL JUJUY	Cama en habitación compartida, 15m², Cama en habitación compartida, 18m²	8,7	Precio $ 73.256	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Malala Jujuy Hostel	2 camas en habitación compartida	8,4	Precio $ 81.146	+ $ 17.041 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Casa estilo mediterraneo en pleno centro de Jujuy	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 215.543	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamentos Parque Lineal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	8,4	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Merkaba	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	9,0	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Boho 291	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	NA	Precio $ 182.577	+ $ 38.341 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	Departamento Parque San Martin	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 80m²	NA	Precio $ 215.543	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	El Cardon		7,1	Precio $ 152.148	+ $ 31.951 de impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	DEPARTAMENTO AVENIDA MOSCONI	Apartamento entero, 4 dormitorios, 2 baños, 90m²	8,7	Precio $ 324.582	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+San Salvador de Jujuy	JUJUY Depart SALVADOR por escaleras a 10 minutos del centro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,1	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Jujuy	2023-1-15	2023-1-31
+Cafayate	La Mungana	Casa o chalet entero, 2 dormitorios, 1 baño, 25m²	NA	Precio $ 140.117	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Grace Cafayate		9,0	Precio $ 766.374	+ $ 160.939 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Luna de Cafayate Hotel Boutique		9,0	Precio $ 397.839	+ $ 83.546 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hostal Mirador del Valle		7,5	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Eco - Dúplex	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 290.032	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hostal Rustyk		8,7	Precio $ 152.148	+ $ 31.951 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Casa 8	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 211.316	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Divina Presencia		8,8	Precio $ 196.524	+ $ 41.270 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Cafayate los toneles		8,1	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	El Balcón, Hostel Internacional		NA	Precio $ 298.153	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hostal La Montaña		9,1	Precio $ 315.566	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Piattelli Wine Resort		9,8	Precio $ 1.003.049	+ $ 210.640 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Kamay Apart Cafayate	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,2	Precio original $ 324.019. Precio actual $ 275.416.	+ $ 57.837 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hostal Benjamin		8,1	Precio $ 193.002	+ $ 40.531 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Villa Vicuña Wine & Boutique Hotel		8,9	Precio $ 493.354	+ $ 103.604 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Piedra del Inca	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	8,7	Precio $ 565.201	+ $ 118.692 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Cabañas y Hostal Las Marias	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 32m²	8,2	Precio $ 386.653	+ $ 81.197 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Casa El Mortero	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	8,6	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Los Aromos	Casa o chalet entero, 2 dormitorios, 1 baño, 50m²	NA	Precio $ 282.900	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Departamentos valles calchaquies		8,3	Precio $ 152.148	+ $ 31.951 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Departamentos en los Valles Calchaquíes	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,0	Precio $ 538.857	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Alto Del Valle Cafayate		8,5	Precio $ 338.106	+ $ 71.002 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Casa De La Bodega - Wine Boutique Hotel		8,4	Precio $ 431.086	+ $ 90.528 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Apart Hotel Don Benito		8,4	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Arenosa2	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 80m²	8,8	Precio $ 256.397	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Apart Hotel Don Benito		8,4	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Arenosa2	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 80m²	8,8	Precio $ 256.397	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Altos de la Pacha		8,1	Precio $ 273.584	+ $ 57.453 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	cabañas Yamasu Huasi	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 27m²	8,9	Precio $ 352.194	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hostal Portal del Valle		8,6	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	HOTEL REAL CAFAYATE		6,8	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Departamentos PASEO DE LAS VIÑAS, CAFAYATE	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 80m²	10	Precio $ 293.476	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Casa de Campo Vertientes	Casa o chalet entero, 2 dormitorios, 1 baño, 20m²	8,2	Precio $ 358.393	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hotel Emperador		6,9	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Lo de Vichenzo	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	NA	Precio $ 281.755	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Casa del Portal Cafayate	Casa o chalet entero, 1 dormitorio, 2 baños, 80m²	9,0	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	MORTERO II	Apartamento entero, 2 dormitorios, 1 baño, 80m²	8,5	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Departamento Cafayate I	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	NA	Precio $ 202.864	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Apart Hotel Ñusta		8,2	Precio $ 312.326	+ $ 65.588 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Cabañas Pulaki Cafayate	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	5,0	Precio $ 422.464	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Altos Valles del Sol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,0	Precio $ 295.843	+ $ 64.769 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Hermosa Casa en los Valles Calchaquies	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 811.455	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Departamento en Cafayate	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 588.869	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Casa Valdez	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños	NA	Precio $ 718.476	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Verbena	Casa o chalet entero, 3 dormitorios, 3 baños, 1 cocina, 250m²	NA	Precio $ 1.120.647	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Cielito Lindo	2 camas en habitación compartida	8,7	Precio $ 95.797	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Alto Del Valle Cafayate		8,5	Precio $ 338.106	+ $ 71.002 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Casa De La Bodega - Wine Boutique Hotel		8,4	Precio $ 431.086	+ $ 90.528 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	Apart Hotel Don Benito		8,4	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cafayate	La Arenosa2	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 80m²	8,8	Precio $ 256.397	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	Brisa Vani	Apartamento entero, 1 dormitorio, 1 baño	7,5	Precio $ 155.642	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	Hosteria Automovil Club Argentino Cachi		8,6	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	Cabañas El Fuerte	Chalet de montaña entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	8,3	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	Cabaña Cachi	Casa o chalet entero, 1 dormitorio, 1 baño, 30m²	6,8	Precio $ 170.631	Incluye impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	Casa de Haydee	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 34m²	7,9	Precio $ 219.769	+ $ 46.152 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+Cachi	ARK - Una casa con sabor a hogar	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 130m²	9,0	Precio original $ 845.266. Precio actual $ 718.476.	+ $ 150.880 de impuestos y cargos	16 noches, 2 adultos	Salta	2023-1-15	2023-1-31
+San Miguel de Tucumán	LG Golden Suites		8,3	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Garden		6,8	Precio original $ 126.790. Precio actual $ 101.432.	+ $ 21.301 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Un dormi Simply con Lavarropas - Barrio Centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	NA	Precio $ 88.612	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Edificio Celedonio Gutiérrez 651	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,5	Precio $ 154.965	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto centro, Excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	10	Precio $ 114.111	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Le Park		7,9	Precio $ 160.601	+ $ 33.726 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Acacias Apart	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,9	Precio $ 143.583	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Shallor Cryss	Apartamento entero, 1 dormitorio, 1 baño	8,7	Precio $ 123.972	+ $ 26.034 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	The Point Casa Edificio Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 218.079	+ $ 45.797 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento 2 ambientes céntrico en Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 122.141	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Sheraton Tucumán Hotel		8,4	Precio $ 296.410	+ $ 62.246 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Laprida	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 52m²	9,4	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Garden Park Hotel		7,9	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Portal del Norte		8,3	Precio $ 88.640	+ $ 18.614 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	La Rojarilla		9,5	Precio $ 95.797	+ $ 20.117 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Garden Plaza		8,1	Precio $ 166.264	+ $ 34.915 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto temporario Deborah	Apartamento entero, 1 dormitorio, 1 baño	9,0	Precio $ 119.746	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Amérian Tucuman Apart & Suites		8,0	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 149.612	+ $ 31.049 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 225.404. Precio actual $ 202.864.	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Carlos V by DOT Urban		7,6	Precio $ 155.251	+ $ 32.603 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Shallor Cryss Polonia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 174.688	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Centro Sur	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,0	Precio $ 59.873	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Francia		8,3	Precio $ 120.225	+ $ 25.247 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Tú Hostel		6,5	Precio $ 126.790	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	FyD Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,8	Precio $ 79.032	+ $ 7.903 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Plano Vertical	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,8	Precio original $ 185.360. Precio actual $ 165.848.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Lorenzo Suites		6,8	Precio $ 185.959	+ $ 39.051 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LowCost Zona Sur Mono	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 24m²	6,2	Precio $ 52.125	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hermoso y céntrico monoambiente	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	9,2	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart Office	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	9,1	Precio original $ 84.527. Precio actual $ 71.848.	+ $ 15.088 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	DUPLEX A PASOS DE PLAZA URQUIZA	Apartamento entero, 2 dormitorios, 1 baño, 90m²	8,0	Precio $ 222.728	+ $ 39.446 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Le Park		7,9	Precio $ 160.601	+ $ 33.726 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	TORRES DEL TUCUMAN I	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 114.956	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto Lamadrid	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 52m²	9,6	Precio $ 118.337	+ $ 24.851 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Altos de Argentina	Estudio entero, 1 baño, 1 cocina, 56m²	9,3	Precio $ 174.688	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Excelente departamento Barrio Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Céntrico Tucuman	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	8,3	Precio $ 86.217	+ $ 18.106 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Piedras Desing III	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 72m²	8,8	Precio $ 167.644	+ $ 36.966 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Suipacha		5,6	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento céntrico en Planta baja	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 44m²	9,1	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Altos	Apartamento entero, 1 dormitorio, 1 baño	9,3	Precio $ 119.746	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento en San Miguel de Tucumán	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,8	Precio $ 118.337	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	El segundo c	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 95.797	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Virgen del Valle Apart Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,2	Precio $ 153.303	+ $ 18.210 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Portal del Norte		8,3	Precio $ 88.640	+ $ 18.614 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart Avellaneda Park	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	9,6	Precio original $ 205.681. Precio actual $ 185.113.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto 1Dorm Av Mate de Luna	Apartamento entero, 1 dormitorio, 1 baño, 61m²	NA	Precio $ 105.376	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto. Barrio Norte	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 86.217	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Grand Comfy Loft - parrilla propia /4 pax/	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	B and B Marcos Paz Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 75m²	9,9	Precio $ 132.777	+ $ 27.883 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto Barrio Sur- Plaza Belgrano	Apartamento entero, 1 dormitorio, 1 baño	10	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto céntrico con estacionamiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	10	Precio $ 150.880	+ $ 3.522 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Moderno Y Confortable	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 43m²	9,6	Precio $ 114.111	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Alquileres Temporarios Tucumán	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,5	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Mercer Hostal		6,3	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto zona sur	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	9,6	Precio $ 180.323	+ $ 37.868 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Monoambiente Barrio norte, excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,3	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Wanderlust	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,5	Precio $ 188.776	+ $ 39.643 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	OM Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,5	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Tucuman Lavalle 1	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	9,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Laprida Tucuman	Apartamento entero, 2 dormitorios, 2 baños, 70m²	9,6	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LAS PIEDRAS DESIGN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	7,4	Precio $ 126.790	+ $ 28.035 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	BEST - Barrio Norte	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 101.432	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart marcos paz 100 ,temporario tucuman	Apartamento entero, 3 dormitorios, 3 baños, 150m²	8,5	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Barrio Sur SMT	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	7,0	Precio $ 133.890	+ $ 28.117 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	relajado monoambiente	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 29m²	9,5	Precio $ 97.628	+ $ 20.502 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	PR Apart - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,3	Precio $ 338.106	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Urquiza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 56m²	9,0	Precio $ 172.434	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Alojamiento con historia y calidez	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 600m²	10	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	El Remanso	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,7	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Albaluz Barrio Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,3	Precio original $ 253.580. Precio actual $ 215.543.	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto La Negrita	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 58m²	9,8	Precio $ 219.769	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Lo de Ale Sur	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,5	Precio $ 147.076	+ $ 30.886 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto planta baja La Mendoza	Apartamento entero, 1 dormitorio, 1 baño	9,6	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Vintage House - Quincho y asador	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 194.073	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto barrio norte	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 155.670	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Bolivar Estrella -2 dormitorios y dos baños	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LA SAN JUAN	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	NA	Precio $ 204.752	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Piedras Design	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,0	Precio $ 211.316	+ $ 3.522 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	A la Gurda	2 camas en habitación compartida	8,6	Precio $ 73.256	+ $ 15.384 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto zona sur	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	9,6	Precio $ 180.323	+ $ 37.868 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Monoambiente Barrio norte, excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,3	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Wanderlust	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,5	Precio $ 188.776	+ $ 39.643 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	OM Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,5	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Tucuman Lavalle 1	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	9,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Laprida Tucuman	Apartamento entero, 2 dormitorios, 2 baños, 70m²	9,6	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LAS PIEDRAS DESIGN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	7,4	Precio $ 126.790	+ $ 28.035 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	BEST - Barrio Norte	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 101.432	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart marcos paz 100 ,temporario tucuman	Apartamento entero, 3 dormitorios, 3 baños, 150m²	8,5	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Barrio Sur SMT	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	7,0	Precio $ 133.890	+ $ 28.117 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	relajado monoambiente	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 29m²	9,5	Precio $ 97.628	+ $ 20.502 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	PR Apart - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,3	Precio $ 338.106	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Urquiza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 56m²	9,0	Precio $ 172.434	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Alojamiento con historia y calidez	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 600m²	10	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	El Remanso	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,7	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Albaluz Barrio Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,3	Precio original $ 253.580. Precio actual $ 215.543.	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto La Negrita	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 58m²	9,8	Precio $ 219.769	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Posada La Sofia	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 14m²	8,0	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Hotel Tafí		8,3	Precio original $ 350.532. Precio actual $ 262.899.	+ $ 55.209 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabaña don Julio, chalet de montaña	Chalet de montaña entero, 4 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 211.316	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Apart del Valle	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 42m²	9,2	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	HOSTERIA BUENAVISTA		6,0	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabañas Loma de El Pelao	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 58m²	9,7	Precio $ 295.843	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Descanso de las Piedras		8,6	Precio $ 526.882	+ $ 110.645 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Descanso Reparador	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 250m²	10	Precio original $ 456.444. Precio actual $ 387.977.	+ $ 81.475 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Estancia Las Tacanas		7,9	Precio $ 309.931	+ $ 65.085 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Alojamiento Alondra		6,0	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Posada La Soñada	Suite privada	9,5	Precio $ 439.538	+ $ 92.303 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabañas Jacy	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 90m²	9,1	Precio $ 321.905	+ $ 99.791 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Los Carolinos by DOT Cabana		8,7	Precio $ 320.638	+ $ 67.334 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Aires de Tafi		9,2	Precio $ 329.654	+ $ 69.227 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Casa de Verano en Tafi del Valle	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 150m²	7,0	Precio $ 390.935	+ $ 82.096 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabañas La Suyana	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 272.739	+ $ 57.275 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Al Paraíso	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	NA	Precio $ 304.296	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Casa Tafi del Valle	Casa o chalet entero, 6 dormitorios, 3 salas de estar, 2 baños, 1 cocina, 320m²	9,6	Precio $ 555.058	+ $ 5.987 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	El Vigía del Valle	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 42m²	9,1	Precio original $ 353.955. Precio actual $ 281.755.	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabaña Doña Inés - Tafí del Valle	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 25m²	9,7	Precio $ 422.633	+ $ 88.753 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabañas Tafi del Valle	Casa o chalet entero, 3 dormitorios, 2 baños, 120m²	8,8	Precio $ 560.693	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí del Valle	Cabañas Arroyo Morales	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina, 120m²	9,7	Precio $ 676.213	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+El Mollar	Hostería El Remanso		8,6	Precio $ 199.680	+ $ 41.933 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	MONOAMBIENTE YERBA BUENA	Apartamento entero, 1 dormitorio, 1 baño, 30m²	7,5	Precio $ 62.268	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Casa Lola Hotel Boutique		8,7	Precio $ 295.709	+ $ 62.099 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Casa AMAIA	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio original $ 215.543. Precio actual $ 172.434.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Howard Johnson Hotel Yerba Buena		8,6	Precio $ 311.340	+ $ 65.381 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Departamentos La Rinconada	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 37m²	8,4	Precio $ 159.755	+ $ 33.549 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Cana Cacum	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 18m²	7,5	Precio $ 135.243	+ $ 30.162 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	CasaLolaMora	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	9,5	Precio $ 214.134	+ $ 66.382 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	La casita	Casa o chalet entero, 2 dormitorios, 1 baño, 95m²	8,5	Precio $ 159.674	+ $ 33.532 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Arrullo de Luna	Habitación compartida	8,8	Precio $ 273.303	+ $ 57.394 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Rincón Colombiano	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,1	Precio $ 138.624	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Temporario yerba buena country MP	Casa o chalet entero, 4 dormitorios, 3 baños, 230m²	NA	Precio $ 301.760	+ $ 63.370 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	LyD	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 4 baños	NA	Precio $ 633.949	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	PuntoPeru	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 46m²	NA	Precio $ 170.152	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Moderno departamento 2D Terrazas Park	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	9,7	Precio $ 287.390	+ $ 69.157 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	La casona	Villa entera, 1 dormitorio, 1 baño, 35m²	1,0	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Departamento pie del cerro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,4	Precio $ 172.434	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	La Borges	Casa o chalet entero, 3 dormitorios, 2 baños, 150m²	7,0	Precio original $ 276.120. Precio actual $ 234.702.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Casa Los Ceibos estilo Campo	Casa o chalet entero, 3 dormitorios, 2 baños	NA	Precio $ 338.106	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	casa de lujo barrio privado, yerba buena	Casa o chalet entero, 3 dormitorios, 3 baños, 230m²	NA	Precio $ 401.670	+ $ 84.351 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Casa en Country	Casa o chalet entero, 2 dormitorios, 2 baños	NA	Precio $ 337.261	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Casa Salas y Valdez	Casa o chalet entero, 6 dormitorios, 1 sala de estar, 3 baños, 240m²	NA	Precio $ 742.425	+ $ 74.243 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto planta baja La Mendoza	Apartamento entero, 1 dormitorio, 1 baño	9,6	Precio $ 183.141	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Pablo	Casa Azul en Barrio Privado	Villa entera, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 140m²	NA	Precio $ 266.435	+ $ 82.595 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Acacias Apart	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,9	Precio $ 143.583	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Villa Luján	Dpto Mate de Luna	Apartamento entero, 2 dormitorios, 2 baños, 69m²	10	Precio $ 122.141	+ $ 12.214 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Pablo	Casa Albaluz2	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	10	Precio $ 191.594	+ $ 62.035 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Wanderlust	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,5	Precio $ 188.776	+ $ 39.643 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Javier	La Prometida	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 24m²	10	Precio original $ 287.390. Precio actual $ 244.282.	+ $ 24.428 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Plano Vertical	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	9,8	Precio original $ 185.360. Precio actual $ 165.848.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart Avellaneda Park	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	9,6	Precio original $ 205.681. Precio actual $ 185.113.	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto 1Dorm Av Mate de Luna	Apartamento entero, 1 dormitorio, 1 baño, 61m²	NA	Precio $ 105.376	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LG Golden Suites		8,3	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto centro, Excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	10	Precio $ 114.111	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Shallor Cryss	Apartamento entero, 1 dormitorio, 1 baño	8,7	Precio $ 123.972	+ $ 26.034 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Shallor Cryss Polonia	Apartamento entero, 1 dormitorio, 1 baño, 30m²	NA	Precio $ 174.688	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Centro Sur	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,0	Precio $ 59.873	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hermoso y céntrico monoambiente	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	9,2	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart Office	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 20m²	9,1	Precio original $ 84.527. Precio actual $ 71.848.	+ $ 15.088 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto Lamadrid	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 52m²	9,6	Precio $ 118.337	+ $ 24.851 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Excelente departamento Barrio Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,5	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Suipacha		5,6	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Altos	Apartamento entero, 1 dormitorio, 1 baño	9,3	Precio $ 119.746	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Virgen del Valle Apart Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,2	Precio $ 153.303	+ $ 18.210 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto Barrio Sur- Plaza Belgrano	Apartamento entero, 1 dormitorio, 1 baño	10	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Mercer Hostal		6,3	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	El Remanso	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,7	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto La Negrita	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 58m²	9,8	Precio $ 219.769	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Garden		6,8	Precio original $ 126.790. Precio actual $ 101.432.	+ $ 21.301 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Un dormi Simply con Lavarropas - Barrio Centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	NA	Precio $ 88.612	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Le Park		7,9	Precio $ 160.601	+ $ 33.726 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	The Point Casa Edificio Boutique	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 218.079	+ $ 45.797 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento 2 ambientes céntrico en Tucumán	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 122.141	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Laprida	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 52m²	9,4	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Portal del Norte		8,3	Precio $ 88.640	+ $ 18.614 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	MONOAMBIENTE YERBA BUENA	Apartamento entero, 1 dormitorio, 1 baño, 30m²	7,5	Precio $ 62.268	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	La Rojarilla		9,5	Precio $ 95.797	+ $ 20.117 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Garden Plaza		8,1	Precio $ 166.264	+ $ 34.915 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Embajador		7,9	Precio $ 149.612	+ $ 31.049 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Premier		7,9	Precio original $ 225.404. Precio actual $ 202.864.	+ $ 42.601 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Carlos V by DOT Urban		7,6	Precio $ 155.251	+ $ 32.603 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Departamentos La Rinconada	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 37m²	8,4	Precio $ 159.755	+ $ 33.549 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Hotel Francia		8,3	Precio $ 120.225	+ $ 25.247 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	A la Gurda	2 camas en habitación compartida	8,6	Precio $ 73.256	+ $ 15.384 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Tú Hostel		6,5	Precio $ 126.790	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Torre Laprida	Apartamento entero, 1 dormitorio, 1 baño, 65m²	8,4	Precio $ 225.404	+ $ 47.335 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Tucuman Center Suites&Business		8,8	Precio $ 281.755	+ $ 59.169 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	FyD Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,8	Precio $ 79.032	+ $ 7.903 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Tafí Viejo	Hostería Atahualpa Yupanqui	Suite privada	9,1	Precio $ 324.019	+ $ 68.044 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LowCost Zona Sur Mono	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 24m²	6,2	Precio $ 52.125	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	DUPLEX A PASOS DE PLAZA URQUIZA	Apartamento entero, 2 dormitorios, 1 baño, 90m²	8,0	Precio $ 222.728	+ $ 39.446 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	TORRES DEL TUCUMAN I	Apartamento entero, 1 dormitorio, 1 baño	9,5	Precio $ 114.956	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Céntrico Tucuman	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	8,3	Precio $ 86.217	+ $ 18.106 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Piedras Desing III	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 72m²	8,8	Precio $ 167.644	+ $ 36.966 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento en San Miguel de Tucumán	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,8	Precio $ 118.337	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	DEPTO Barrio Sur 2	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 167.644	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	El segundo c	Apartamento entero, 1 dormitorio, 1 baño, 50m²	NA	Precio $ 95.797	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto. Barrio Norte	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	10	Precio $ 86.217	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Grand Comfy Loft - parrilla propia /4 pax/	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Dpto céntrico con estacionamiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	10	Precio $ 150.880	+ $ 3.522 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Moderno Y Confortable	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 43m²	9,6	Precio $ 114.111	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto zona sur	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 60m²	9,6	Precio $ 180.323	+ $ 37.868 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Monoambiente Barrio norte, excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,3	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	OM Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,5	Precio $ 140.878	+ $ 29.584 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Tucuman Lavalle 1	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	9,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Laprida Tucuman	Apartamento entero, 2 dormitorios, 2 baños, 70m²	9,6	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LAS PIEDRAS DESIGN II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 32m²	7,4	Precio $ 126.790	+ $ 28.035 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	BEST - Barrio Norte	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 101.432	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Barrio Sur SMT	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 52m²	7,0	Precio $ 133.890	+ $ 28.117 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	relajado monoambiente	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 29m²	9,5	Precio $ 97.628	+ $ 20.502 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	PR Apart - Alquileres Temporarios	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,3	Precio $ 338.106	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Urquiza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 56m²	9,0	Precio $ 172.434	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Alojamiento con historia y calidez	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina, 600m²	10	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Lo de Ale Sur	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	9,5	Precio $ 147.076	+ $ 30.886 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Vintage House - Quincho y asador	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 194.073	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Bolivar Estrella -2 dormitorios y dos baños	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Piedras Design	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,0	Precio $ 211.316	+ $ 3.522 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Edificio Celedonio Gutiérrez 651	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,5	Precio $ 154.965	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Sheraton Tucumán Hotel		8,4	Precio $ 296.410	+ $ 62.246 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Garden Park Hotel		7,9	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto temporario Deborah	Apartamento entero, 1 dormitorio, 1 baño	9,0	Precio $ 119.746	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Altos de Argentina	Estudio entero, 1 baño, 1 cocina, 56m²	9,3	Precio $ 174.688	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento céntrico en Planta baja	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 44m²	9,1	Precio $ 112.702	+ $ 23.667 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	B and B Marcos Paz Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 75m²	9,9	Precio $ 132.777	+ $ 27.883 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	MONOAMBIENTE YERBA BUENA	Apartamento entero, 1 dormitorio, 1 baño, 30m²	7,5	Precio $ 62.268	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Alquileres Temporarios Tucumán	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,5	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Apart marcos paz 100 ,temporario tucuman	Apartamento entero, 3 dormitorios, 3 baños, 150m²	8,5	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Departamento Albaluz Barrio Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,3	Precio original $ 253.580. Precio actual $ 215.543.	+ $ 1.761 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Depto barrio norte	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 155.670	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	LA SAN JUAN	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	NA	Precio $ 204.752	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Yerba Buena	Departamentos La Rinconada	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 37m²	8,4	Precio $ 159.755	+ $ 33.549 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Lules	Posada Del Cerro		9,1	Precio $ 154.965	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+El Cadillal	Casa de fin de semana Praderas del Nogal	Casa o chalet entero, 3 dormitorios, 2 baños, 1 cocina	10	Precio $ 308.522	+ $ 30.852 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Racó	Tres Vientos - Lofts de Montaña Raco	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 72m²	9,8	Precio original $ 219.769. Precio actual $ 164.827.	+ $ 16.483 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Racó	Casas de Raco	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,4	Precio $ 204.385	+ $ 42.551 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Racó	Casa de Campo en Raco	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 80m²	8,0	Precio $ 169.053	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Racó	Casa Raco	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 72m²	9,5	Precio original $ 225.404. Precio actual $ 202.864.	+ $ 62.888 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Racó	LA AGÜITA PERDIDA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 130m²	9,8	Precio $ 478.984	+ $ 47.898 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+El Cadillal	Casa Gelsi	Casa o chalet entero, 4 dormitorios, 1 sala de estar, 2 baños	NA	Precio $ 422.633	+ $ 42.263 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Vintage House - Quincho y asador	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio $ 194.073	Incluye impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Bolivar Estrella -2 dormitorios y dos baños	Apartamento entero, 2 dormitorios, 2 baños	NA	Precio $ 190.185	+ $ 39.939 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Las Piedras Design	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,0	Precio $ 211.316	+ $ 3.522 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Edificio Celedonio Gutiérrez 651	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	9,5	Precio $ 154.965	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Sheraton Tucumán Hotel		8,4	Precio $ 296.410	+ $ 62.246 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+San Miguel de Tucumán	Garden Park Hotel		7,9	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Tucuman	2023-1-15	2023-1-31
+Frías	Hotel Llota Queens en Frias		5,7	Precio $ 126.790	+ $ 26.626 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Hotel Libertador		8,1	Precio $ 152.148	+ $ 31.951 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Hotel Centro		8,0	Precio $ 166.320	+ $ 34.927 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Temporarios Caseros SDE	Apartamento entero, 2 dormitorios, 1 baño	7,3	Precio $ 111.970	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Absalon Rojas 175 3ºC	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,0	Precio $ 92.979	+ $ 19.526 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Hotel Confort		7,1	Precio $ 97.487	+ $ 20.472 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Comodo y sencillo departamento	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 162.855	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Dpto santiago del Estero	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	10	Precio $ 193.989	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	La Ofina	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 40m²	7,9	Precio original $ 132.594. Precio actual $ 116.020.	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	NH Santiago del Estero		8,1	Precio $ 209.362	+ $ 43.966 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	La Comodoro	Casa o chalet entero, 2 dormitorios, 2 baños, 1 cocina, 16m²	9,2	Precio original $ 158.769. Precio actual $ 138.923.	+ $ 29.174 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Altos del Sur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	9,7	Precio $ 119.570	+ $ 25.110 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	San Antonio	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 12m²	8,4	Precio $ 162.404	+ $ 1.786 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Hermoso y calido departamento	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina	8,5	Precio $ 143.695	+ $ 30.176 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Amoq	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina	9,5	Precio $ 193.848	+ $ 19.385 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	PERFECTO ESPACIO	Apartamento entero, 1 dormitorio, 1 baño, 120m²	9,6	Precio $ 177.506	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	El Carmelo	Casa o chalet entero, 1 dormitorio, 1 baño, 40m²	10	Precio $ 311.340	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento Romano’s	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 113.773	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento Belgrano	Apartamento entero, 3 dormitorios, 2 baños, 1 cocina, 10m²	9,0	Precio $ 304.296	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	TU REFUGIO - Alquiler Temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,7	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Finca tu oasis	Chalet de montaña entero, 3 dormitorios, 1 sala de estar, 2 baños, 80m²	10	Precio $ 368.818	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Finca El Ceibo		5,5	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Escapada a la madre de ciudades	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	9,6	Precio $ 129.326	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento de 2 dormitorios con Terraza y Asador	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 101m²	8,8	Precio $ 203.568	+ $ 42.749 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento nuevo, con patio	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	NA	Precio $ 132.312	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento 1 dormitorio, Saenz Peña.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,8	Precio $ 172.434	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	EL GALPON, Finca en Alquiler	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina, 130m²	10	Precio original $ 474.194. Precio actual $ 450.470.	+ $ 94.599 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Duplex en complejo residencial con estacionamiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina	9,3	Precio $ 186.663	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento Amelia	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 57m²	8,6	Precio original $ 239.492. Precio actual $ 191.594.	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	CONFORTABLE DUPLEX CON GARAGE	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	NA	Precio $ 150.880	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento 1 domitorio	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 43m²	9,0	Precio $ 193.989	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Guest House Santiago	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 53m²	NA	Precio $ 247.945	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Casa de campo miana	Casa o chalet entero, 1 dormitorio, 1 baño, 77m²	NA	Precio $ 278.938	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Diferente, moderno, a metros de plaza principal	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 74m²	9,2	Precio $ 165.249	+ $ 34.702 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Excelente Depto para 4 pers en zona estratégica	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 100m²	NA	Precio $ 335.289	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Casa Connor	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 400m²	NA	Precio $ 689.737	+ $ 144.845 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Reserva Natural RG		6,0	Precio $ 442.356	+ $ 92.895 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Finca con pileta vip , santiago del Estero	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 200m²	9,5	Precio $ 1.014.319	+ $ 213.007 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Casa de amigos	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño	NA	Precio $ 562.806	+ $ 118.189 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Amoq	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina	9,5	Precio $ 193.848	+ $ 19.385 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	PERFECTO ESPACIO	Apartamento entero, 1 dormitorio, 1 baño, 120m²	9,6	Precio $ 177.506	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	El Carmelo	Casa o chalet entero, 1 dormitorio, 1 baño, 40m²	10	Precio $ 311.340	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento Romano’s	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 113.773	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento Belgrano	Apartamento entero, 3 dormitorios, 2 baños, 1 cocina, 10m²	9,0	Precio $ 304.296	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	TU REFUGIO - Alquiler Temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,7	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Finca tu oasis	Chalet de montaña entero, 3 dormitorios, 1 sala de estar, 2 baños, 80m²	10	Precio $ 368.818	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Finca El Ceibo		5,5	Precio $ 191.594	+ $ 40.235 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Escapada a la madre de ciudades	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	9,6	Precio $ 129.326	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento de 2 dormitorios con Terraza y Asador	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 101m²	8,8	Precio $ 203.568	+ $ 42.749 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento nuevo, con patio	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 60m²	NA	Precio $ 132.312	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Santiago del Estero	Departamento 1 dormitorio, Saenz Peña.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,8	Precio $ 172.434	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Termal Rio Hondo		8,5	Precio $ 161.358	+ $ 33.885 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel La Fontana		7,9	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Emperatriz		9,1	Precio $ 206.639	+ $ 43.394 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	City Hotel Termal		8,1	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Ciudad del Sol		7,9	Precio $ 113.759	+ $ 23.889 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Las Vegas Hotel Termal		8,1	Precio $ 147.217	+ $ 30.916 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Cálido Termal		8,3	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Termal Los Cardones & Spa		8,7	Precio $ 425.789	+ $ 89.416 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Ma & Cris II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	9,1	Precio $ 163.418	+ $ 34.318 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Alto Rio Hondo		7,0	Precio $ 128.903	+ $ 27.070 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Platino Termas All Inclusive		9,0	Precio $ 566.136	+ $ 118.889 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apartamento Lo de Ana	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,4	Precio $ 179.619	+ $ 37.350 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel TOTEM Boutique		1,0	Precio $ 225.369	+ $ 47.327 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Hotel Ayres De Termas	Apartamento privado, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,0	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Cabañas Kumelen Resort	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño	9,2	Precio $ 290.208	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Siglo Sexto		6,4	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Ma & Cris	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	8,9	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Mar Del Plata		7,4	Precio $ 163.418	+ $ 34.318 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Valentino	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	8,4	Precio $ 97.008	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	La vida es bella		8,5	Precio $ 109.039	+ $ 27.125 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Kusi Warma	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	NA	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	El Descanso Hotel		8,8	Precio $ 215.937	+ $ 45.347 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Cabañas del Dique	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,0	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Anexo Apart Ma y Cris II. Nuevo sector. 1°piso	Apartamento entero, 1 dormitorio, 1 baño, 35m²	NA	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	La Moreno	Casa o chalet entero, 5 dormitorios, 1 sala de estar, 5 baños, 1 cocina, 900m²	10	Precio original $ 512.795. Precio actual $ 435.875.	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Cabañas Ensueño del Lago	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,2	Precio $ 256.397	+ $ 53.843 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel La Fontana		7,9	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Emperatriz		9,1	Precio $ 206.639	+ $ 43.394 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	City Hotel Termal		8,1	Precio $ 169.053	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Ciudad del Sol		7,9	Precio $ 113.759	+ $ 23.889 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Las Vegas Hotel Termal		8,1	Precio $ 147.217	+ $ 30.916 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Cálido Termal		8,3	Precio $ 154.965	+ $ 32.543 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Termal Los Cardones & Spa		8,7	Precio $ 425.789	+ $ 89.416 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Ma & Cris II	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	9,1	Precio $ 163.418	+ $ 34.318 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Alto Rio Hondo		7,0	Precio $ 128.903	+ $ 27.070 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Platino Termas All Inclusive		9,0	Precio $ 566.136	+ $ 118.889 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apartamento Lo de Ana	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,4	Precio $ 179.619	+ $ 37.350 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel TOTEM Boutique		1,0	Precio $ 225.369	+ $ 47.327 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Hotel Ayres De Termas	Apartamento privado, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,0	Precio $ 225.404	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Cabañas Kumelen Resort	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño	9,2	Precio $ 290.208	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Siglo Sexto		6,4	Precio $ 211.316	+ $ 44.376 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Apart Ma & Cris	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 12m²	8,9	Precio $ 152.148	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Hotel Mar Del Plata		7,4	Precio $ 163.418	+ $ 34.318 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Valentino	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	8,4	Precio $ 97.008	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	La vida es bella		8,5	Precio $ 109.039	+ $ 27.125 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Kusi Warma	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 38m²	NA	Precio $ 197.229	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	El Descanso Hotel		8,8	Precio $ 215.937	+ $ 45.347 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Cabañas del Dique	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,0	Precio $ 253.580	+ $ 53.252 de impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	Anexo Apart Ma y Cris II. Nuevo sector. 1°piso	Apartamento entero, 1 dormitorio, 1 baño, 35m²	NA	Precio $ 239.492	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+Termas de Río Hondo	La Moreno	Casa o chalet entero, 5 dormitorios, 1 sala de estar, 5 baños, 1 cocina, 900m²	10	Precio original $ 512.795. Precio actual $ 435.875.	Incluye impuestos y cargos	16 noches, 2 adultos	Santiago Del Estero	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Nuevo Hotel Ancasti		7,4	Precio original $ 408.897. Precio actual $ 245.338.	+ $ 51.521 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	H1 Apartments Express		8,9	Precio $ 243.239	+ $ 51.080 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Junin dptos 3	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 131.721	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Amérian Catamarca Park Hotel		8,5	Precio original $ 362.056. Precio actual $ 289.644.	+ $ 60.825 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Duplex casa zona alta , a 7 minutos de Plaza Principal	Casa o chalet entero, 2 dormitorios, 2 baños	8,5	Precio $ 197.792	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	DUPLEX 2	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 95m²	9,0	Precio original $ 186.128. Precio actual $ 167.514.	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	FLIA Martínez Alojamiento		8,3	Precio $ 101.432	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Junín Dptos 2	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 37m²	10	Precio $ 131.721	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Casa de campo La Brea	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 86m²	8,8	Precio $ 298.661	+ $ 62.719 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	DEPARTAMENTO CENTRICO	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	7,7	Precio $ 183.141	+ $ 38.460 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	Casa Don Octavio	Casa o chalet entero, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 240m²	9,6	Precio $ 276.120	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San Fernando del Valle de Catamarca	La Ceiba		9,1	Precio original $ 450.809. Precio actual $ 405.728.	+ $ 85.203 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+La Quebrada	Alquiler temporario “Bruno”	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 56m²	8,1	Precio $ 244.071	+ $ 24.407 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Villa Dolores	Casa con piscina y patio a 20 minutos de la ciudad	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	1,0	Precio original $ 394.457. Precio actual $ 355.012.	+ $ 35.501 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+San José	Hostel Odorico		8,1	Precio $ 90.162	+ $ 27.950 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Coneta	La Aguada Hotel Boutique de Montana		9,0	Precio $ 394.457	+ $ 122.282 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Tinogasta	Munay EcoHostal - Posada de Adobe	Bungalow entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 370m²	8,6	Precio original $ 273.021. Precio actual $ 232.082.	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Tinogasta	Hotel Sante		8,4	Precio $ 309.931	Incluye impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Tinogasta	La Sala Hotel Boutique		9,2	Precio $ 524.065	+ $ 110.054 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Tinogasta	Antigal hostería rural		10	Precio $ 220.614	+ $ 46.329 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	Cabaña Taski Wasi	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,0	Precio $ 107.292	+ $ 33.261 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	HOTEL CAASAMA		8,5	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	Apart El Árbol	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 36m²	8,5	Precio $ 146.513	+ $ 30.768 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	Departamento Yokavil	Apartamento entero, 2 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 16m²	7,5	Precio original $ 157.783. Precio actual $ 108.194.	+ $ 880 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	Cabañas Achalay	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,6	Precio original $ 202.864. Precio actual $ 183.197.	+ $ 56.791 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Santa María	Posada los arboles		NA	Precio $ 161.671	+ $ 50.118 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Amaicha del Valle	La Enramada		NA	Precio $ 159.727	+ $ 33.543 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31
+Amaicha del Valle	Camping agreste El Algarrobo de Quilmes	Tienda	10	Precio $ 36.628	+ $ 7.692 de impuestos y cargos	16 noches, 2 adultos	Catamarca	2023-1-15	2023-1-31

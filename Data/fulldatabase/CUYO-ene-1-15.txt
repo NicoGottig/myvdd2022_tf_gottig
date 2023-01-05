@@ -1,0 +1,667 @@
+localizacion	titulo	descripcion	calif	precio	impuesto	noches	provincia	checkin	checkout
+La Rioja	Lourdes 1	Apartamento entero, 1 dormitorio, 1 baño	6,0	Precio $ 83.822	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Habitación con oficina a la calle		8,2	Precio $ 82.836	+ $ 17.396 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Depto alaniz salinas	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,5	Precio $ 94.300	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DEPARTAMENTO CON COCHERA ( COMPLEJO FRENCH )	Apartamento entero, 1 dormitorio, 1 baño, 50m²	9,9	Precio $ 122.602	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DEPARTAMENTO CON COCHERA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 138.060	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Victoria Apart Hotel		8,7	Precio $ 140.525	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	MANTRA	Apartamento entero, 1 dormitorio, 1 baño, 25m²	9,3	Precio $ 199.078	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Vientos del Sur	Estudio entero, 1 baño, 60m²	8,5	Precio $ 181.450	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Cabañas Puertas del Sol	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,7	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Decom Suites	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,5	Precio original $ 197.229. Precio actual $ 167.644.	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Edificio Huayra	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,2	Precio $ 125.733	+ $ 26.404 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Departamentos Temporales Alberdi	Estudio entero, 1 baño, 1 cocina, 38m²	8,8	Precio $ 136.211	+ $ 28.604 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DELFINA suites 1A	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	10	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Complejo Aguila Blanca		5,7	Precio original $ 209.901. Precio actual $ 164.922.	+ $ 34.634 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Casa Norte	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	6,8	Precio $ 12.379.504	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Sweet Apartments II	Apartamento entero, 2 dormitorios, 1 baño, 65m²	NA	Precio original $ 221.882. Precio actual $ 188.600.	+ $ 39.606 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	CALMA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	NA	Precio $ 204.625	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	COQUENA Departamentos	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 56m²	8,5	Precio $ 2.465.359	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Casa Norte	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	6,8	Precio $ 12.379.504	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	CALMA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	NA	Precio $ 204.625	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	MANTRA	Apartamento entero, 1 dormitorio, 1 baño, 25m²	9,3	Precio $ 199.078	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Edificio Huayra	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,2	Precio $ 125.733	+ $ 26.404 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Habitación con oficina a la calle		8,2	Precio $ 82.836	+ $ 17.396 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Departamentos Temporales Alberdi	Estudio entero, 1 baño, 1 cocina, 38m²	8,8	Precio $ 136.211	+ $ 28.604 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Decom Suites	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,5	Precio original $ 197.229. Precio actual $ 167.644.	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DELFINA suites 1A	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	10	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DEPARTAMENTO CON COCHERA ( COMPLEJO FRENCH )	Apartamento entero, 1 dormitorio, 1 baño, 50m²	9,9	Precio $ 122.602	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	DEPARTAMENTO CON COCHERA	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 138.060	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Lourdes 1	Apartamento entero, 1 dormitorio, 1 baño	6,0	Precio $ 83.822	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Sweet Apartments II	Apartamento entero, 2 dormitorios, 1 baño, 65m²	NA	Precio original $ 221.882. Precio actual $ 188.600.	+ $ 39.606 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Cabañas Puertas del Sol	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,7	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Victoria Apart Hotel		8,7	Precio $ 140.525	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	COQUENA Departamentos	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 56m²	8,5	Precio $ 2.465.359	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Depto alaniz salinas	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,5	Precio $ 94.300	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Complejo Aguila Blanca		5,7	Precio original $ 209.901. Precio actual $ 164.922.	+ $ 34.634 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+La Rioja	Vientos del Sur	Estudio entero, 1 baño, 60m²	8,5	Precio $ 181.450	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Nonogasta	Temporario Nonogasta	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 44m²	8,8	Precio $ 163.946	+ $ 34.429 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Cabañas Don Roque		8,0	Precio $ 192.298	+ $ 40.383 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Cabañas Valle San Miguel	Bungalow entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	7,9	Precio $ 271.189	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Casa Alpina	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños	NA	Precio original $ 212.687. Precio actual $ 170.149.	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	CasaGrande Hotel		8,0	Precio $ 265.273	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	El Viejo Molino		8,5	Precio $ 152.976	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Huellas del Trapiche Apart	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 42m²	9,2	Precio original $ 244.071. Precio actual $ 230.511.	+ $ 48.407 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	La Casa de Li - En		7,9	Precio $ 105.394	+ $ 22.133 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Apart hotel chilecito	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 75m²	8,1	Precio $ 241.654	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Hostel Yanay		6,7	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Complejo San José	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	5,7	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Cabañas Valle San Miguel	Bungalow entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 120m²	7,9	Precio $ 271.189	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Sweet Dream		NA	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Cabaña La Martina	Suite privada	9,0	Precio $ 171.589	+ $ 36.034 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Cabañas Don Roque		8,0	Precio $ 192.298	+ $ 40.383 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Chilecito	Departamento Interno	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio original $ 146.689. Precio actual $ 117.351.	Incluye impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Nonogasta	Temporario Nonogasta	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 44m²	8,8	Precio $ 163.946	+ $ 34.429 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Villa Unión	Hotel Boutique Cañon de Talampaya		7,9	Precio $ 202.387	+ $ 42.501 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Villa Unión	Hotel en el bermejo		4,0	Precio $ 91.218	+ $ 28.278 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Villa Unión	Hotel Valle Colorado		8,8	Precio $ 97.910	+ $ 20.561 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Villa Unión	del TALAMPAYA - Departamento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,3	Precio $ 123.268	+ $ 38.213 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+Villa Unión	Hospedaje del paseo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	1,0	Precio $ 124.673	+ $ 12.467 de impuestos y cargos	14 noches, 2 adultos	La Rioja	2023-1-1	2023-1-15
+San Juan	Gran Hotel Provincial		8,2	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel Plaza San Juan		7,3	Precio $ 143.038	+ $ 30.038 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Pirkas Apartment	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,7	Precio $ 241.605	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	El Refugio Hotel		8,0	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel Anmara		9,5	Precio $ 81.357	+ $ 17.085 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel Selby		7,3	Precio $ 138.430	+ $ 29.070 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hermoso departamento a estrenar	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Paz Apartments	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 90m²	10	Precio $ 117.351	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Alquileres Temporarios en San Juan	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,4	Precio $ 123.268	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Complejo Nazareno	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,6	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Abril Dpto Temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,1	Precio $ 136.313	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	DON LUCIO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,6	Precio original $ 188.072. Precio actual $ 169.265.	+ $ 35.546 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel Cerro Blanco		7,8	Precio $ 162.009	+ $ 34.022 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel America		8,1	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Terraza del Sol Apart	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,2	Precio $ 175.287	+ $ 36.810 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Excelente Duplex en Consorcio Privado c/ cochera	Apartamento entero, 2 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 90m²	8,7	Precio original $ 221.882. Precio actual $ 189.709.	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Urban	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 37m²	NA	Precio $ 103.545	+ $ 21.744 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Exclusivo Céntrico SJ Diseño y Confort	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 90m²	NA	Precio $ 272.422	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Alto del Bono	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,3	Precio $ 86.288	+ $ 18.120 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Moto Hostel San Juan		10	Precio original $ 98.614. Precio actual $ 88.753.	+ $ 18.638 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Médanos Negros Departamentos	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	8,8	Precio $ 120.803	+ $ 27.130 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hotel Del Bono Park		8,8	Precio $ 453.823	+ $ 95.303 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Apart La Martina	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	10	Precio $ 206.622	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	San Juan Hostel		6,7	Precio $ 84.527	+ $ 17.751 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	pedro de valdivia 219	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	9,9	Precio original $ 152.236. Precio actual $ 147.675.	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Portal del Aguaribay	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 52m²	9,9	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Complejo La Carlota	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,2	Precio original $ 155.318. Precio actual $ 139.786.	+ $ 13.979 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento cómodo en edificio Natania 2	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina	9,0	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamentos amoblados de Jardines de Libertador	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	9,0	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Hermoso departamento a estrenar	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 172.575	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento Nuevo	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina, 80m²	9,7	Precio $ 188.600	+ $ 39.606 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Dominguito departamentos	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	7,4	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Apart Hotel y Cabañas Olivos del Sol	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	8,3	Precio $ 374.735	+ $ 78.694 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento calle Rivadavia	Apartamento entero, 1 dormitorio, 1 baño, 86m²	10	Precio $ 108.969	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento confortable y moderno	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 55m²	9,3	Precio $ 139.786	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Alquileres Temporarios en San Juan	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,4	Precio $ 123.268	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento Céntrico Con Cochera	Apartamento entero, 2 dormitorios, 1 baño	NA	Precio $ 257.753	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	TRINIDAD	Apartamento entero, 1 dormitorio, 1 baño, 40m²	8,8	Precio $ 110.941	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Puerta del Sol I	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	8,6	Precio $ 105.838	+ $ 22.226 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Las Breas Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	10	Precio $ 183.472	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Los Felices San Juan	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,0	Precio $ 135.595	+ $ 2.113 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	LA NEBULOSA	Apartamento entero, 1 dormitorio, 1 baño, 40m²	4,0	Precio $ 86.288	+ $ 18.120 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	valdivia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	10	Precio $ 128.248	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Puerta del Sol II	Apartamento entero, 1 dormitorio, 1 baño, 25m²	9,6	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	HOTEL CUESTA DEL VIENTO		7,2	Precio $ 122.035	+ $ 25.627 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	AP CENTRO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	10	Precio $ 188.600	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Loft Diseño Boutique SJ Centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,5	Precio $ 248.508	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Monoambiente PB Segundino Navarro	Apartamento entero, 1 dormitorio, 1 baño, 48m²	NA	Precio $ 113.160	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Tres Marias	Apartamento entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 110m²	8,8	Precio $ 170.849	+ $ 35.878 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento Centro de San Juan	Apartamento entero, 3 dormitorios, 1 baño	6,5	Precio $ 308.170	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Catamarán VI Residencial San Juan	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 10m²	9,5	Precio $ 493.072	+ $ 86.288 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento Cordoba y Urquiza	Apartamento entero, 3 dormitorios, 1 baño, 1 cocina	8,6	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Capital Hostel		9,2	Precio $ 110.941	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Apart Hotel Pueblo Viejo	Apartamento entero, 1 dormitorio, 1 baño, 20m²	6,4	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Alquileres Temporarios en San Juan	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,4	Precio $ 123.268	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Confortable departamento con cochera.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 31m²	NA	Precio $ 124.254	+ $ 26.093 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Farga	Apartamento entero, 1 dormitorio, 1 baño, 25m²	NA	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento para 4 personas	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	NA	Precio $ 419.111	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Alto Chacrita	Apartamento entero, 1 dormitorio, 1 baño, 16m²	NA	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento amplio, muy bien ubicado, dos ambientes, separado cocina y baño, el barrio no es lindo pero las instalaciones perfectas y li	Apartamento entero, 2 dormitorios, 1 baño, 60m²	NA	Precio $ 498.742	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Complejo Nazareno	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,6	Precio $ 140.525	+ $ 29.510 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Dpto a 2 cuadras de parque de mayo/ estadio Aldo Cantoni	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	NA	Precio $ 288.447	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Destino San Juan Hostel	2 camas en habitación compartida	7,6	Precio $ 78.891	+ $ 15.828 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Puerta del Sol I	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	8,6	Precio $ 105.838	+ $ 22.226 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Las Breas Apart	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	10	Precio $ 183.472	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Los Felices San Juan	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,0	Precio $ 135.595	+ $ 2.113 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	LA NEBULOSA	Apartamento entero, 1 dormitorio, 1 baño, 40m²	4,0	Precio $ 86.288	+ $ 18.120 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	valdivia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	10	Precio $ 128.248	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Puerta del Sol II	Apartamento entero, 1 dormitorio, 1 baño, 25m²	9,6	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	HOTEL CUESTA DEL VIENTO		7,2	Precio $ 122.035	+ $ 25.627 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	AP CENTRO	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	10	Precio $ 188.600	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Loft Diseño Boutique SJ Centro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	9,5	Precio $ 248.508	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Monoambiente PB Segundino Navarro	Apartamento entero, 1 dormitorio, 1 baño, 48m²	NA	Precio $ 113.160	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Tres Marias	Apartamento entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 110m²	8,8	Precio $ 170.849	+ $ 35.878 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Juan	Departamento Centro de San Juan	Apartamento entero, 3 dormitorios, 1 baño	6,5	Precio $ 308.170	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Barreal	Posada Villa Pituil		9,1	Precio $ 299.788	+ $ 62.955 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Barreal	Ecoposada El Mercedario		9,0	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Calingasta	COMPLEJO LOS ENAMORADOS	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,8	Precio $ 201.173	+ $ 62.364 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Agustín de Valle Fértil	Altos del Valle	Estudio entero, 1 baño, 27m²	7,8	Precio $ 95.973	+ $ 20.154 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Agustín de Valle Fértil	posada cerro los nogales		8,3	Precio $ 128.692	+ $ 26.655 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Agustín de Valle Fértil	Hotel Rustico Cerro Del Valle		9,6	Precio $ 239.140	+ $ 50.219 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+San Agustín de Valle Fértil	Eco Hostel Valle Fertil	2 camas en habitación compartida	7,9	Precio $ 88.753	+ $ 18.638 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Calingasta	Chalet en Alto Calingasta	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina	5,0	Precio $ 122.602	+ $ 12.260 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Calingasta	COMPLEJO LOS ENAMORADOS	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,8	Precio $ 201.173	+ $ 62.364 de impuestos y cargos	14 noches, 2 adultos	San Juan	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Cordon Del Plata		7,2	Precio original $ 193.592. Precio actual $ 154.874.	+ $ 32.524 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	ibis Mendoza		7,5	Precio $ 188.917	+ $ 39.673 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	DiplomaticHotel		9,0	Precio original $ 659.484. Precio actual $ 593.535.	+ $ 124.642 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	CasaFélix	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,7	Precio $ 124.501	+ $ 38.595 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Le Montreal Apart Hotel	Apartamento entero, 1 dormitorio, 2 baños, 1 cocina, 35m²	9,3	Precio original $ 291.221. Precio actual $ 232.976.	+ $ 48.925 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Montañas Azules Apart Hotel		8,4	Precio $ 399.388	+ $ 83.872 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Millennium Inn Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	7,9	Precio $ 279.714	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Fuente Mayor Hotel Ciudad de Mendoza		7,8	Precio $ 345.150	+ $ 72.482 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Park Hyatt Mendoza Hotel, Casino & Spa		8,5	Precio $ 848.083	+ $ 178.098 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento confortable	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 90m²	NA	Precio $ 216.289	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento en Edificio Presidente Plaza España	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	9,1	Precio $ 199.078	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Soltigua Apart Hotel Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,6	Precio $ 359.088	+ $ 75.409 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	España y Peatonal. Studio microcentro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	NA	Precio $ 157.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mod Hotels Mendoza		8,3	Precio $ 466.745	+ $ 98.017 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Nutibara		8,6	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Apart San Lorenzo	Apartamento entero, 1 dormitorio, 1 baño, 25m²	7,1	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	AZULCASACALMA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 80m²	NA	Precio $ 160.298	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	NH Mendoza Cordillera		7,3	Precio $ 430.829	+ $ 90.474 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Gran Hotel Dakar		7,9	Precio $ 405.256	+ $ 85.104 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Cervantes		8,1	Precio $ 272.422	+ $ 57.209 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	departamento San Lorenzo	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	9,1	Precio $ 193.513	+ $ 40.638 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Casa Olascoaga		7,8	Precio $ 85.407	+ $ 17.935 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Altos Mendoza Avenida España	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,3	Precio $ 187.934	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Urbana Suites		7,9	Precio $ 267.787	+ $ 56.235 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	DAKAR HOTEL		7,4	Precio $ 270.154	+ $ 56.732 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Posada de Rosas	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 30m²	9,7	Precio $ 436.369	+ $ 91.637 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Monoambientes Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	7,0	Precio $ 159.755	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	DAKAR HOSTEL		7,7	Precio $ 202.628	+ $ 42.552 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mendoza metros Peatonal, precioso departamento, en km0	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 147.922	+ $ 33.141 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Montañas Azules Apart Hotel		8,4	Precio $ 399.388	+ $ 83.872 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Departamento Hungría	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 240.901	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Uvas Apart Hotel	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	7,7	Precio original $ 266.259. Precio actual $ 213.007.	+ $ 44.731 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Windsor		7,0	Precio $ 126.557	+ $ 26.577 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Casa Malbec	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	8,0	Precio $ 203.269	+ $ 2.641 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Cóndor Suites Apart Hotel		8,6	Precio $ 406.045	+ $ 85.269 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Millennium Inn Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	7,9	Precio $ 279.714	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	"Departamento BOUTIQUE DE DISEÑADOR "" TERRAZA 26""- Cochera- Equipamiento Premium- Vista a la Montaña"	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 72m²	9,7	Precio original $ 515.964. Precio actual $ 464.368.	+ $ 97.517 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Edificio Innova	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,3	Precio $ 135.595	+ $ 28.475 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Tunkelén Apart Hotel	Apartamento entero, 1 dormitorio, 1 baño, 35m²	8,4	Precio $ 244.071	+ $ 51.255 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Elegante departamento en la Ciudad de Mendoza	Apartamento entero, 2 dormitorios, 3 baños, 100m²	9,7	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Departamento en Barrio Privado a estrenar	Apartamento entero, 2 dormitorios, 1 baño	10	Precio $ 169.222	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	HOTEL KAPAC		7,1	Precio $ 135.595	+ $ 28.475 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Panda Hostel Mendoza		8,1	Precio $ 110.069	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Sheraton Mendoza Hotel		8,6	Precio $ 660.540	+ $ 138.713 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Hotel Dalai		8,6	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Private Idaho	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,0	Precio $ 350.574	+ $ 73.621 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	La posada de Doña Teresa		9,0	Precio $ 104.778	+ $ 22.003 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Piso frontal en la mejor calle de Mendoza!	Apartamento entero, 1 dormitorio, 3 baños, 1 cocina	NA	Precio $ 526.108	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Portillo Apartments		8,2	Precio $ 162.714	+ $ 34.170 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento pleno centro hermoso	Apartamento entero, 2 dormitorios, 1 baño	10	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Raices Aconcagua		7,8	Precio $ 418.297	+ $ 87.842 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Coronel Plaza 172	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 12m²	9,9	Precio $ 234.209	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamentos Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	9,3	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Brisas apartment	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,4	Precio $ 345.150	+ $ 4.402 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento confortable	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 90m²	NA	Precio $ 216.289	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	complejo salta		9,7	Precio $ 184.902	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Rufino`s Guesthouse		7,7	Precio original $ 155.318. Precio actual $ 139.786.	+ $ 29.355 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Beautiful Rooms in Old Inmigrants House	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	9,3	Precio $ 141.019	+ $ 29.614 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Ariosto		6,8	Precio $ 228.354	+ $ 47.954 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Hostel Otro Mundo		8,6	Precio $ 83.231	+ $ 17.478 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento en Edificio Presidente Plaza España	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	9,1	Precio $ 199.078	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento con cochera en la mejor ubicación de Mendoza	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	8,4	Precio $ 239.492	+ $ 50.293 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	La Sofia Apart & Wines	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 58m²	9,4	Precio $ 425.451	+ $ 89.345 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	OLASCOAGA DOS monoambiente	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 26m²	9,4	Precio $ 163.946	+ $ 34.429 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Paradise Departamentos	Apartamento entero, 1 dormitorio, 30m²	7,6	Precio $ 496.999	+ $ 104.370 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Alto Unimev	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 22m²	9,5	Precio $ 142.991	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hostel Boutique PASO		8,9	Precio original $ 150.880. Precio actual $ 128.248.	+ $ 26.932 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Apart Gala	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	7,9	Precio $ 176.097	+ $ 54.590 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Amplio departamento en el centro de Mendoza	Apartamento entero, 2 dormitorios, 2 baños	10	Precio $ 499.235	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Apartamento Deluxe Senderos del Vino II	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	9,5	Precio original $ 295.843. Precio actual $ 266.259.	+ $ 20.779 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Complejo Barraquero	Apartamento entero, 1 dormitorio, 1 baño, 25m²	8,8	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	HOTEL SM Mendoza		7,2	Precio $ 118.337	+ $ 24.851 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Wine Aparts		7,4	Precio $ 142.639	+ $ 29.954 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamentos Las Marías	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	10	Precio $ 160.310	+ $ 1.761 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Apartamento Fantastico Domaine Laborde II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,3	Precio original $ 219.417. Precio actual $ 197.475.	+ $ 4.138 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Las Tintas Bed & Breakfast		NA	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	FSM - Casa Residencial -Ubicación Privilegiada.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 80m²	7,2	Precio $ 122.590	+ $ 25.744 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hostel El Encuentro		8,2	Precio $ 120.283	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Andes 1	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,2	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Lofts Las Margaritas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 28m²	8,9	Precio $ 189.833	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Norma Te hospeda	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	10	Precio $ 175.040	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Soltigua Apart Hotel Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,6	Precio $ 359.088	+ $ 75.409 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamentos El Ceibo II	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,5	Precio $ 277.353	+ $ 58.244 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Torres del Parque Central	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 42m²	9,3	Precio $ 162.714	+ $ 34.170 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Juan B Justo		6,8	Precio $ 148.538	+ $ 31.193 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Complejo Abaurrea	Apartamento entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 70m²	9,5	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento Serendipia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 70m²	10	Precio $ 240.373	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	España y Peatonal. Studio microcentro	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	NA	Precio $ 157.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Lancatay	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	10	Precio $ 154.652	+ $ 15.465 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Malbec Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	NA	Precio $ 303.855	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Alta Mendoza		7,3	Precio $ 201.312	+ $ 42.276 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Les Petters Pedro Molina	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,6	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	HOSTEL KUYUK		NA	Precio $ 133.129	+ $ 27.957 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	A&A	Apartamento entero, 1 dormitorio, 1 baño, 38m²	8,3	Precio $ 186.663	+ $ 24.654 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Moratta	Casa o chalet entero, 5 dormitorios, 2 salas de estar, 3 baños, 1 cocina, 40m²	9,0	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Mendoza moderno departamento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 80m²	NA	Precio $ 188.600	+ $ 8.805 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Aparthouse Mendoza		9,2	Precio $ 185.050	+ $ 38.860 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	CORAGGIOSA		10	Precio $ 98.614	+ $ 20.709 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Casa Pueblo Hostel		8,3	Precio $ 97.877	+ $ 20.554 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento Súper Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 26m²	7,1	Precio $ 153.204	+ $ 32.173 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	VISTA PARQUE HOUSE	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 92m²	NA	Precio $ 301.760	+ $ 30.176 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Experiencia V&P	Apartamento entero, 1 dormitorio, 1 baño	10	Precio $ 352.194	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Las Tintas Bed & Breakfast		NA	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	FSM - Casa Residencial -Ubicación Privilegiada.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 80m²	7,2	Precio $ 122.590	+ $ 25.744 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Montecaseros 1212	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,2	Precio $ 158.646	+ $ 33.316 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Mendoza		7,4	Precio original $ 444.349. Precio actual $ 355.480.	+ $ 74.651 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel Raices Aconcagua		7,8	Precio $ 418.297	+ $ 87.842 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento céntrico Mendoza-Reina Victoria		9,1	Precio $ 320.497	+ $ 67.304 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Monoambientes Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 70m²	7,0	Precio $ 159.755	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento en Mendoza Capital, la mejor ubicación!!	Apartamento entero, 2 dormitorios, 2 salas de estar, 1 baño, 1 cocina, 65m²	9,8	Precio $ 271.189	+ $ 56.950 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Chardonnay Apartment	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio original $ 389.527. Precio actual $ 350.574.	+ $ 73.621 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	8,5	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento en Mendoza	Apartamento entero, 1 dormitorio, 1 baño, 65m²	NA	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Ed. Rodriguez Vega	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 15m²	8,7	Precio $ 244.775	+ $ 51.403 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mendoza metros Peatonal, precioso departamento, en km0	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	9,4	Precio $ 147.922	+ $ 33.141 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Complejo las Palmeras II	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 130m²	7,4	Precio $ 167.644	+ $ 35.205 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Del Parque Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	9,0	Precio $ 239.140	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento centrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,5	Precio $ 169.581	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Angelus	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 45m²	9,6	Precio $ 234.209	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Andinas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	6,8	Precio $ 155.318	+ $ 32.617 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mendoza Premium Suites - Dpto de Lujo Piso 14 - Vista A La Montaña!	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 60m²	7,9	Precio $ 342.685	+ $ 71.964 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento centro de Mendoza	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 45m²	9,2	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento temporario	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	7,8	Precio $ 199.694	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Edificio quinta sur 3	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 70m²	8,0	Precio original $ 281.051. Precio actual $ 252.946.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	LA QUINTA DEPARTAMENTO	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,0	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamentos Natalicio	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,5	Precio $ 285.982	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Paradise Departamentos	Apartamento entero, 1 dormitorio, 30m²	7,6	Precio $ 496.999	+ $ 104.370 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Edificio quinta sur 3	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	10	Precio $ 251.467	+ $ 52.808 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Apartamento Vendimia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 cocina, 10m²	8,7	Precio $ 160.248	+ $ 37.174 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Las Tintas Bed & Breakfast		NA	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	FSM - Casa Residencial -Ubicación Privilegiada.	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 80m²	7,2	Precio $ 122.590	+ $ 25.744 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Edificio quinta sur 3	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 70m²	8,0	Precio original $ 281.051. Precio actual $ 252.946.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	LA QUINTA DEPARTAMENTO	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	9,0	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamentos Natalicio	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,5	Precio $ 285.982	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Edificio quinta sur 3	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 65m²	10	Precio $ 251.467	+ $ 52.808 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Altos Mendoza Avenida España	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 40m²	9,3	Precio $ 187.934	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Apartamento Vendimia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 cocina, 10m²	8,7	Precio $ 160.248	+ $ 37.174 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Alquiler Temporal - Departamento en Mendoza	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 35m²	8,0	Precio $ 195.700	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mendoza Premium Suites - Dpto de Lujo EP - Excelente Ubicación!	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 60m²	8,8	Precio $ 342.685	+ $ 71.964 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Andinas Mendoza	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	8,0	Precio $ 177.506	+ $ 37.276 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Mendoza Departamento 4 o 5 personas	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 65m²	9,7	Precio $ 149.683	+ $ 46.402 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Urbana Suites		7,9	Precio $ 267.787	+ $ 56.235 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Azul Departamentos	Estudio entero, 1 baño, 1 cocina, 35m²	7,8	Precio original $ 190.725. Precio actual $ 175.477.	+ $ 36.850 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Moderno departamento en PLENO CENTRO de Mendoza	Apartamento entero, 1 dormitorio, 2 salas de estar, 1 baño, 1 cocina, 50m²	9,4	Precio original $ 320.497. Precio actual $ 288.447.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento Colón	Apartamento entero, 3 dormitorios, 2 baños	8,5	Precio $ 301.760	+ $ 63.370 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	El Diván Apartamento, excelente ubicación	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 60m²	NA	Precio original $ 216.952. Precio actual $ 151.866.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mendoza Premium Suites - Dpto de Lujo Piso 10 - Vista A La Montaña!	Apartamento entero, 1 dormitorio, 1 baño, 60m²	9,2	Precio $ 342.685	+ $ 71.964 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Bello departamento céntrico con cochera incluida!!!	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	9,6	Precio original $ 332.823. Precio actual $ 274.025.	+ $ 7.924 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Pinot Noir Apartment	Apartamento entero, 1 dormitorio, 1 baño, 50m²	9,0	Precio $ 375.104	+ $ 78.772 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Aires de Naturaleza - Mendoza Capital	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 90m²	7,5	Precio $ 257.630	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	MAITO 11 Departamentos Vacacionales	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 32m²	10	Precio $ 221.882	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hotel&Hotel Palace MENDOZA		5,7	Precio $ 178.376	+ $ 37.459 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	CH Lar Alojamiento	Estudio entero, 1 baño	9,6	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	HOTEL ROYAL PRINCESS		7,3	Precio $ 584.290	+ $ 122.701 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Espectacular Depto a estrenar frente al parque	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	10	Precio $ 493.072	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Torrontes Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 398.155	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	MENDOZA muy acogedor y super cerca de todo	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina	NA	Precio $ 184.902	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Alem 25	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,3	Precio $ 327.893	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Peatonal 4	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 80m²	9,3	Precio $ 443.765	+ $ 93.191 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Apartamento Deluxe Senderos del Vino IV	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 85m²	NA	Precio $ 241.630	+ $ 20.779 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Departamento Mendoza central Colon Aristides	Apartamento entero, 1 dormitorio, 1 baño, 90m²	NA	Precio original $ 266.136. Precio actual $ 212.908.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Estrella del Valle - Mendoza	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina	8,0	Precio original $ 493.072. Precio actual $ 394.457.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Urbana Suites		7,9	Precio $ 267.787	+ $ 56.235 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Juanita	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 567.033	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Apartamento Edificio Milenium	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 98m²	9,4	Precio original $ 562.102. Precio actual $ 505.892.	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Splendid Isolation by Finca los Amigos	Villa entera, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina	10	Precio $ 739.608	+ $ 155.318 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Hotel Casino Condor de los Andes		NA	Precio $ 461.436	+ $ 143.045 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	1670 House	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 12m²	NA	Precio $ 355.012	+ $ 74.183 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Posada de Rosas	Apartamento entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 30m²	9,7	Precio $ 436.369	+ $ 91.637 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	FINCA BANDINI - GUEST HOUSE - LAS COMPUERTAS	Villa entera, 5 dormitorios, 3 baños, 1 cocina, 1.000m²	NA	Precio $ 2.465.359	+ $ 517.725 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Millennium Apartment - Céntrico con piscina, Gym By Bookhap	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 90m²	NA	Precio original $ 32.061.994. Precio actual $ 21.481.536.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hostel Estacion Mendoza	2 camas en habitación compartida	8,6	Precio original $ 108.969. Precio actual $ 92.624.	+ $ 19.451 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Mora Hostel	2 camas en habitación compartida	8,6	Precio $ 93.898	+ $ 19.719 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Windmill Hostel	Cama en habitación compartida, 12m², Habitación compartida, 16m²	9,0	Precio $ 113.407	+ $ 23.815 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Chill Inn Hostel	2 habitaciones compartidas	8,2	Precio original $ 102.087. Precio actual $ 96.980.	+ $ 20.366 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Fuxia Hostel	2 camas en habitación compartida	9,1	Precio original $ 151.704. Precio actual $ 128.949.	+ $ 27.079 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hostel Lagares	2 camas en habitación compartida	8,8	Precio $ 127.494	+ $ 26.774 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Hostel de Los Artistas	2 camas en habitación compartida	8,9	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Katana Capsule Hostel	2 camas en habitación compartida	8,4	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Sin Fin Hostel	2 camas en habitación compartida	8,3	Precio $ 123.268	+ $ 25.886 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Hostal Shanti Vistalba		NA	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Espectacular Depto a estrenar frente al parque	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 60m²	10	Precio $ 493.072	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Torrontes Apartment	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 398.155	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	MENDOZA muy acogedor y super cerca de todo	Apartamento entero, 2 dormitorios, 2 baños, 1 cocina	NA	Precio $ 184.902	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Centro de la ciudad de Mendoza, Mendoza	Alem 25	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,3	Precio $ 327.893	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Cacheuta	Cabaña Suiza	Bungalow entero, 1 dormitorio, 1 baño, 40m²	9,8	Precio $ 616.340	+ $ 129.431 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Las Compuertas	KONDUR ELEMENTOS ECO HOSTEL	Habitación compartida	10	Precio $ 135.595	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	CABAÑAS KONDUR Elementos	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 58m²	10	Precio $ 379.665	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Las Compuertas	Alojamiento Quincho Pascual	Apartamento entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 90m²	8,9	Precio $ 295.843	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Las Compuertas	CABAÑAS MZA RANCH		NA	Precio $ 340.748	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Las Compuertas	cabaña alegre	Chalet de montaña entero, 2 dormitorios, 2 baños	1,0	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	DEL PLATA CABAÑA DE MONTAÑA	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 60m²	8,3	Precio $ 204.273	+ $ 42.897 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Las Espuelas Casas de Montaña	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 431.438	+ $ 90.602 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Casa Gloria y Vicente	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 110m²	7,8	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Cabañas Los Arreboles	Chalet de montaña entero, 1 dormitorio, 1 baño, 1 cocina, 70m²	8,4	Precio $ 293.378	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Cabaña en Potrerillos. Valle del Sol	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 90m²	NA	Precio $ 184.902	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Cabañas La Ofelia	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 cocina, 40m²	9,0	Precio $ 226.320	+ $ 47.527 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	FINCA BANDINI - GUEST HOUSE - LAS COMPUERTAS	Villa entera, 5 dormitorios, 3 baños, 1 cocina, 1.000m²	NA	Precio $ 2.465.359	+ $ 517.725 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Casa Kloeh	Casa o chalet entero, 2 dormitorios, 1 baño, 600m²	NA	Precio $ 386.568	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Los Coirones	Bungalow entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,0	Precio $ 258.863	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	El Mirador Casas de Montaña	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 cocina, 64m²	8,5	Precio $ 368.043	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Aires de sol - Casa de montaña	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 140m²	9,7	Precio $ 383.892	+ $ 83.259 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Alas de Mirlos	Chalet de montaña entero, 2 dormitorios, 1 baño, 70m²	9,1	Precio $ 203.146	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Chalet Vista Montana	Bungalow entero, 2 dormitorios, 1 cocina, 50m²	9,9	Precio $ 394.457	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Estrella del Valle - Mendoza	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina	8,0	Precio original $ 493.072. Precio actual $ 394.457.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Vistalba	Lemon Tree Hostel		9,4	Precio $ 263.793	+ $ 55.397 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Azul Montaña	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 25m²	10	Precio $ 67.368	+ $ 14.147 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	Hostal Shanti Vistalba		NA	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	WAIKIRI	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 62m²	9,5	Precio $ 357.477	+ $ 75.070 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Cabaña NUESTRO NIDO POTRERILLOS	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina	NA	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Cabañas de Alta Montaña	Apartamento entero, 1 dormitorio, 1 baño, 50m²	5,5	Precio $ 179.971	+ $ 37.794 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Vistalba	Vistalba Lodge		8,6	Precio $ 195.256	+ $ 41.004 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Potrerillos	Complejo Odella Casas de Montaña	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 2 baños, 1 cocina, 75m²	9,0	Precio $ 457.571	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	La casa de Atamisque	Casa o chalet entero, 2 dormitorios, 2 baños, 200m²	7,5	Precio $ 176.273	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mayor Drumond	Casa Chacras de Coria	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	NA	Precio $ 447.727	+ $ 44.773 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Vistalba	La Guillermina	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 2 baños, 10m²	10	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Vine Land	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 48m²	9,2	Precio $ 205.364	+ $ 43.127 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	La casita de lavandas		9,8	Precio original $ 246.536. Precio actual $ 234.209.	+ $ 49.184 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Nuevo Lujan de Cuyo	Apartamento entero, 2 dormitorios, 1 baño, 70m²	NA	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Posada Mirror	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 44m²	10	Precio $ 301.760	+ $ 6.163 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	La Guarida Wine	Villa entera, 3 dormitorios, 2 salas de estar, 2 baños, 1 cocina, 40m²	10	Precio $ 561.040	+ $ 115.230 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Chacras de Coria	Plaza Paradiso Petit Hotel		7,9	Precio $ 465.139	+ $ 97.679 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Susana Balbo Winemaker´s House		8,9	Precio original $ 3.106.352. Precio actual $ 2.485.082.	+ $ 521.867 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Agrelo	Chozos Resort by AKEN Spirit	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 90m²	9,7	Precio original $ 1.073.664. Precio actual $ 858.931.	+ $ 180.376 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Departamento Vistas de Lujan	Apartamento entero, 1 dormitorio, 1 baño, 55m²	6,0	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Moreno Park Complejo Residencial	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,7	Precio original $ 283.516. Precio actual $ 269.340.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Tupungato	Casa Pradera de los Andes	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 200m²	NA	Precio $ 862.876	+ $ 5.283 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Departamento para 2 personas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	NA	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Terrazas de los Andes Guest House		9,2	Precio $ 563.581	+ $ 118.352 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Drummond Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 173.456	+ $ 36.426 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Chacras Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	9,7	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Apart Hotel Quijote by DOT Suites		8,9	Precio $ 201.916	+ $ 42.402 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	CH Lar Alojamiento	Estudio entero, 1 baño	9,6	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Chacras de Coria	Andrea Houses	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 25m²	NA	Precio $ 291.899	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Montañas, Vinos y Chacras de Coria	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 65m²	NA	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Cómodo Departamento céntrico	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 48m²	10	Precio $ 157.783	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Pistacho Club	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 45m²	9,7	Precio $ 344.270	+ $ 72.297 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Chacras de Coria	Andrea Houses	Apartamento entero, 2 dormitorios, 1 baño, 60m²	9,0	Precio $ 292.342	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Casa Eva	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 10m²	9,0	Precio $ 369.804	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	1670 House	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 12m²	NA	Precio $ 355.012	+ $ 74.183 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Departamento Luján de Cuyo	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 320.497	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	De Los Andes Hotel Boutique		8,5	Precio $ 332.823	+ $ 69.893 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Loft 'El Atelier'	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 30m²	NA	Precio $ 493.072	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Complejo Arenales de Drummond	Apartamento entero, 2 dormitorios, 1 baño, 1 cocina, 10m²	10	Precio $ 213.007	+ $ 44.177 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	HOSTEL ATG		8,0	Precio $ 123.268	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Bodega de Coria F - Urbesur	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 10m²	NA	Precio original $ 244.071. Precio actual $ 219.663.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Chacras de Coria	Plaza Paradiso Petit Hotel		7,9	Precio $ 465.139	+ $ 97.679 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Susana Balbo Winemaker´s House		8,9	Precio original $ 3.106.352. Precio actual $ 2.485.082.	+ $ 521.867 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Agrelo	Chozos Resort by AKEN Spirit	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 90m²	9,7	Precio original $ 1.073.664. Precio actual $ 858.931.	+ $ 180.376 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Departamento Vistas de Lujan	Apartamento entero, 1 dormitorio, 1 baño, 55m²	6,0	Precio $ 146.689	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Moreno Park Complejo Residencial	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,7	Precio original $ 283.516. Precio actual $ 269.340.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Tupungato	Casa Pradera de los Andes	Casa o chalet entero, 3 dormitorios, 1 sala de estar, 3 baños, 1 cocina, 200m²	NA	Precio $ 862.876	+ $ 5.283 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Departamento para 2 personas	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	NA	Precio $ 209.556	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Terrazas de los Andes Guest House		9,2	Precio $ 563.581	+ $ 118.352 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Drummond Apartments	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 50m²	9,4	Precio $ 173.456	+ $ 36.426 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Chacras Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	9,7	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Apart Hotel Quijote by DOT Suites		8,9	Precio $ 201.916	+ $ 42.402 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Mendoza	CH Lar Alojamiento	Estudio entero, 1 baño	9,6	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Chacras de Coria	Andrea Houses	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 25m²	NA	Precio $ 291.899	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Luján de Cuyo	Montañas, Vinos y Chacras de Coria	Casa o chalet entero, 1 dormitorio, 1 baño, 1 cocina, 65m²	NA	Precio $ 167.644	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	HOSPEDAJE MALARGÜE	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño	8,0	Precio $ 194.887	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Hakuna Matata	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,8	Precio $ 178.122	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Alojamiento para 2/4/6 personas	Casa o chalet entero, 2 dormitorios, 1 baño	NA	Precio original $ 117.351. Precio actual $ 93.881.	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Hotel Terra Patagonia		8,9	Precio $ 332.823	+ $ 69.893 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	"Hotel "" Rio Grande """		8,2	Precio $ 219.417	+ $ 46.078 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	"Departamentos ""Valle Hermoso"""	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1.000m²	8,3	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Los Abedules Bungalow	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 35m²	7,7	Precio $ 342.685	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	La Tranquera Apartamentos	Apartamento entero, 2 dormitorios, 1 baño	7,0	Precio $ 398.155	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Departamentos San Expedito	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 55m²	9,0	Precio $ 157.783	+ $ 33.134 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Departamento Las Leñas Edificio Atenas 608	Apartamento entero, 2 dormitorios, 1 baño	8,9	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	3H VIP Duplex’s	Apartamento entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 90m²	9,4	Precio $ 369.459	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Cabañas Los Renuevos	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 52m²	9,2	Precio $ 394.457	+ $ 82.836 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Departamento Martínez	Apartamento entero, 1 dormitorio, 1 baño, 70m²	NA	Precio $ 132.020	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Cabañas Amanecer de Montaña	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 1 baño, 57m²	10	Precio $ 299.365	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Alojamientos Monte-Cara	Apartamento entero, 1 dormitorio, 1 baño	NA	Precio $ 150.880	Incluye impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Huellas del Pehuenche D2	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 36m²	7,3	Precio $ 237.414	+ $ 49.857 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Cabañas Terruños de Pilar	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,7	Precio $ 295.843	+ $ 62.127 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Cabañas Suangel	Bungalow entero, 2 dormitorios, 1 baño, 1 cocina, 70m²	9,6	Precio $ 406.784	+ $ 85.425 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+Malargüe	Refugio Inka Habitación Suite		7,0	Precio $ 628.667	+ $ 132.020 de impuestos y cargos	14 noches, 2 adultos	Mendoza	2023-1-1	2023-1-15
+San Luis	Quintana Hotel		7,3	Precio $ 277.353	+ $ 58.244 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Posada el Paraiso		7,5	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Aiello		7,6	Precio original $ 185.691. Precio actual $ 148.552.	+ $ 31.196 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Adriatica	Estudio entero, 1 baño, 18m²	9,0	Precio $ 178.871	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Punta Lavalle		7,2	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Regidor		7,0	Precio $ 152.852	+ $ 32.099 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Residencia La Isabel		9,0	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	ALQT Departamentos SL	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Via Foria	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Be Haus Temporary Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio $ 248.508	+ $ 52.187 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Gran Hotel San Luis		6,5	Precio $ 333.884	+ $ 70.116 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamentos Sarmiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,7	Precio $ 215.719	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Duplex Centrico con Cochera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico en San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,0	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Beautifull Village Estancia Grande	Villa entera, 7 dormitorios, 9 baños, 1 cocina, 600m²	NA	Precio original $ 754.400. Precio actual $ 603.520.	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	Epic Hotel San Luis		8,2	Precio $ 322.863	+ $ 67.801 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas El Doral	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	NA	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Hotel Potrero De Los Funes	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 1.143.927	+ $ 240.225 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Balcones del Lago	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	7,0	Precio $ 443.765	+ $ 93.191 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas Espejo del Cielo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	8,4	Precio $ 279.547	+ $ 58.705 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Posada de Salim		8,9	Precio $ 214.486	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Posada El Antiguo Refugio potrero de los funes		7,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Recova Hotel & Spa		9,2	Precio $ 396.976	+ $ 83.365 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	ALQT Departamentos SL	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Via Foria	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Be Haus Temporary Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio $ 248.508	+ $ 52.187 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Gran Hotel San Luis		6,5	Precio $ 333.884	+ $ 70.116 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamentos Sarmiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,7	Precio $ 215.719	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Duplex Centrico con Cochera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico en San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,0	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Beautifull Village Estancia Grande	Villa entera, 7 dormitorios, 9 baños, 1 cocina, 600m²	NA	Precio original $ 754.400. Precio actual $ 603.520.	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	Epic Hotel San Luis		8,2	Precio $ 322.863	+ $ 67.801 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Álamo	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	8,8	Precio original $ 320.497. Precio actual $ 192.298.	+ $ 40.383 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Clima Serrano	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 40m²	8,5	Precio $ 192.826	+ $ 40.494 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Cortijo Apart - Hotel		8,5	Precio original $ 319.097. Precio actual $ 223.367.	+ $ 46.907 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Ayres del Bosque		7,3	Precio $ 143.519	+ $ 30.139 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Tatainti Chalet & Suite	Suite privada	8,8	Precio $ 230.863	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Aparts Altos del Centro	Apartamento entero, 1 dormitorio, 1 baño, 30m²	8,2	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cana Blaya Apart Hotel		6,8	Precio $ 162.714	+ $ 34.170 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas La Comarca	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,4	Precio $ 293.378	+ $ 61.240 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Posada Los Antiguos-Adults Only		9,6	Precio $ 374.735	+ $ 78.694 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Aparts Piscu Yaco Almendros	Apartamento entero, 3 baños, 22m²	7,1	Precio $ 231.744	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Apart Entrepiedras	Apartamento entero, 1 dormitorio, 1 baño, 38m²	9,4	Precio original $ 380.370. Precio actual $ 304.296.	+ $ 63.902 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Reina de las Cortaderas	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 65m²	9,4	Precio $ 468.418	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	COSTA COM Apart Suites	Apartamento entero, 1 dormitorio, 1 baño, 34m²	9,8	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Corazon de Montaña	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 44m²	9,6	Precio $ 369.804	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Rincon del Valle		NA	Precio $ 234.209	+ $ 72.605 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hostería Lida		9,1	Precio original $ 409.250. Precio actual $ 286.475.	+ $ 60.160 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Aires de Sierra	Apartamento entero, 1 dormitorio, 1 baño, 32m²	9,7	Precio original $ 295.843. Precio actual $ 266.259.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Apart Hotel Nonquen		8,1	Precio original $ 325.929. Precio actual $ 260.743.	+ $ 54.756 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Villa de Merlo All Inclusive & Spa by MH		7,7	Precio original $ 636.774. Precio actual $ 601.386.	+ $ 126.291 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Complejo Pasos Malos		8,7	Precio $ 278.586	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	COSTA COM Departamentos de Montaña	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 34m²	9,6	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Epic Hotel Villa de Merlo		9,2	Precio $ 615.230	+ $ 129.198 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	CABAÑAS JACARANDA	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,4	Precio $ 355.012	+ $ 74.552 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Rumbo 020 Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 50m²	8,9	Precio original $ 345.150. Precio actual $ 293.378.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hotel Colores		9,3	Precio $ 354.272	+ $ 74.397 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Reina Mora	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 25m²	NA	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Viejo Algarrobo - Hosteria Serrana		9,7	Precio $ 271.189	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Oasis Club de Montaña		6,9	Precio $ 144.224	+ $ 30.287 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	La Loma Resort	Apartamento entero, 1 dormitorio, 1 baño, 35m²	7,6	Precio $ 270.485	+ $ 56.802 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Álamo	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	8,8	Precio original $ 320.497. Precio actual $ 192.298.	+ $ 40.383 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	LUNA DE MERLO		9,7	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hosteria Sueños Dorados		9,2	Precio $ 357.477	+ $ 75.070 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Complejo Entre Marte y La Luna	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	9,2	Precio $ 433.903	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hosteria de los Cesares		8,4	Precio original $ 359.942. Precio actual $ 251.960.	+ $ 52.912 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas del bosque merlo	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina	9,7	Precio $ 260.271	+ $ 54.657 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas La Comarca	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,4	Precio $ 293.378	+ $ 61.240 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Las Nubes Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	8,8	Precio $ 431.438	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Destino Merlo	Casa o chalet entero, 2 dormitorios, 1 baño, 60m²	10	Precio $ 272.070	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Altos De Merlo Suites		9,1	Precio $ 544.869	+ $ 114.422 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Altos del Sol - Spa & Resort		7,7	Precio original $ 459.395. Precio actual $ 344.546.	+ $ 72.355 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Apart Hotel La Candida		7,8	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Nogales del Rincon	Apartamento entero, 1 dormitorio, 1 baño, 25m²	NA	Precio $ 261.944	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Caty	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 282.900	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Complejo Las Violetas	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	8,9	Precio original $ 577.598. Precio actual $ 490.959.	+ $ 106.623 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabaña Anita	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,6	Precio $ 218.184	+ $ 45.819 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Roble		8,7	Precio $ 187.367	+ $ 39.347 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Los Almendros	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	8,7	Precio $ 241.605	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	POSADA PIEDRA LUNA nueva administración		7,5	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hostería Boutique El Puente Adults Only		9,8	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Lauquen Pilmaiquen y spa		8,1	Precio $ 559.636	+ $ 117.524 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Casitas Despertar del Valle	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,2	Precio $ 307.289	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas en Espejo Fondo	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 70m²	8,8	Precio $ 272.950	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Toay Merlo San Luis	Chalet de montaña entero, 3 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 70m²	9,5	Precio $ 514.767	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Zolara Di Merlo	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,9	Precio $ 420.872	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Posada Del Poeta		8,4	Precio $ 394.457	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Oma Lissi	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	8,8	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas La Comarca	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,4	Precio $ 293.378	+ $ 61.240 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	MORADA DEL ZORRO	Apartamento privado, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 11m²	9,0	Precio $ 269.429	+ $ 56.580 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Complejo Turístico Cerro de Oro	Bungalow entero, 4 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 160m²	7,1	Precio original $ 838.000. Precio actual $ 754.201.	+ $ 158.382 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	La Candida departamentos	Apartamento entero, 1 dormitorio, 1 baño	8,7	Precio $ 604.013	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hosteria de los Cesares		8,4	Precio original $ 359.942. Precio actual $ 251.960.	+ $ 52.912 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas del bosque merlo	Casa o chalet entero, 2 dormitorios, 1 baño, 1 cocina	9,7	Precio $ 260.271	+ $ 54.657 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas La Comarca	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 35m²	8,4	Precio $ 293.378	+ $ 61.240 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Las Nubes Apart	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 25m²	8,8	Precio $ 431.438	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Destino Merlo	Casa o chalet entero, 2 dormitorios, 1 baño, 60m²	10	Precio $ 272.070	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Altos De Merlo Suites		9,1	Precio $ 544.869	+ $ 114.422 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Altos del Sol - Spa & Resort		7,7	Precio original $ 459.395. Precio actual $ 344.546.	+ $ 72.355 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Apart Hotel La Candida		7,8	Precio $ 221.882	+ $ 46.595 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Nogales del Rincon	Apartamento entero, 1 dormitorio, 1 baño, 25m²	NA	Precio $ 261.944	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Caty	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño	NA	Precio $ 282.900	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Complejo Las Violetas	Chalet de montaña entero, 2 dormitorios, 1 baño, 1 cocina, 50m²	8,9	Precio original $ 577.598. Precio actual $ 490.959.	+ $ 106.623 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabaña Anita	Casa o chalet entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	9,6	Precio $ 218.184	+ $ 45.819 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	El Roble		8,7	Precio $ 187.367	+ $ 39.347 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas Los Almendros	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	8,7	Precio $ 241.605	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	POSADA PIEDRA LUNA nueva administración		7,5	Precio $ 147.922	+ $ 31.064 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Hostería Boutique El Puente Adults Only		9,8	Precio $ 246.536	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Lauquen Pilmaiquen y spa		8,1	Precio $ 559.636	+ $ 117.524 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Casitas Despertar del Valle	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,2	Precio $ 307.289	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Merlo	Cabañas en Espejo Fondo	Chalet de montaña entero, 2 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 70m²	8,8	Precio $ 272.950	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Villa Mercedes	Epic Hotel Villa Mercedes		8,8	Precio $ 400.054	+ $ 84.011 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas Espejo del Cielo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	8,4	Precio $ 279.547	+ $ 58.705 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas El Doral	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	NA	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Hotel Potrero De Los Funes	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 1.143.927	+ $ 240.225 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Posada El Antiguo Refugio potrero de los funes		7,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Balcones del Lago	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	7,0	Precio $ 443.765	+ $ 93.191 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Posada de Salim		8,9	Precio $ 214.486	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Beautifull Village Estancia Grande	Villa entera, 7 dormitorios, 9 baños, 1 cocina, 600m²	NA	Precio original $ 754.400. Precio actual $ 603.520.	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Posada el Paraiso		7,5	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	Epic Hotel San Luis		8,2	Precio $ 322.863	+ $ 67.801 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Recova Hotel & Spa		9,2	Precio $ 396.976	+ $ 83.365 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Via Foria	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Punta Lavalle		7,2	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Regidor		7,0	Precio $ 152.852	+ $ 32.099 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Adriatica	Estudio entero, 1 baño, 18m²	9,0	Precio $ 178.871	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamentos Sarmiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,7	Precio $ 215.719	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Duplex Centrico con Cochera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Aiello		7,6	Precio original $ 185.691. Precio actual $ 148.552.	+ $ 31.196 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Quintana Hotel		7,3	Precio $ 277.353	+ $ 58.244 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Residencia La Isabel		9,0	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	ALQT Departamentos SL	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Be Haus Temporary Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio $ 248.508	+ $ 52.187 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Gran Hotel San Luis		6,5	Precio $ 333.884	+ $ 70.116 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico en San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,0	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Cabañas Argentinas	Apartamento entero, 1 dormitorio, 1 baño	8,0	Precio original $ 298.210. Precio actual $ 238.568.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Casa	Casa o chalet entero, 1 dormitorio, 1 baño	NA	Precio $ 586.755	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Complejo Mi Tesoro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,7	Precio original $ 197.405. Precio actual $ 167.794.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Familia barbero	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 176.027	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	Epic Hotel San Luis		8,2	Precio $ 322.863	+ $ 67.801 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Recova Hotel & Spa		9,2	Precio $ 396.976	+ $ 83.365 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Via Foria	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Punta Lavalle		7,2	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Regidor		7,0	Precio $ 152.852	+ $ 32.099 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Adriatica	Estudio entero, 1 baño, 18m²	9,0	Precio $ 178.871	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamentos Sarmiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,7	Precio $ 215.719	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Duplex Centrico con Cochera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Complejo Mi Tesoro	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 30m²	8,7	Precio original $ 197.405. Precio actual $ 167.794.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Familia barbero	Casa o chalet entero, 2 dormitorios, 1 sala de estar, 1 baño, 60m²	NA	Precio $ 176.027	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Cabañas Argentinas	Apartamento entero, 1 dormitorio, 1 baño	8,0	Precio original $ 298.210. Precio actual $ 238.568.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Casa	Casa o chalet entero, 1 dormitorio, 1 baño	NA	Precio $ 586.755	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Beautifull Village Estancia Grande	Villa entera, 7 dormitorios, 9 baños, 1 cocina, 600m²	NA	Precio original $ 754.400. Precio actual $ 603.520.	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Posada El Antiguo Refugio potrero de los funes		7,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas Espejo del Cielo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	8,4	Precio $ 279.547	+ $ 58.705 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas El Doral	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	NA	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Hotel Potrero De Los Funes	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 1.143.927	+ $ 240.225 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Balcones del Lago	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	7,0	Precio $ 443.765	+ $ 93.191 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Recova Hotel & Spa		9,2	Precio $ 396.976	+ $ 83.365 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Posada de Salim		8,9	Precio $ 214.486	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	Epic Hotel San Luis		8,2	Precio $ 322.863	+ $ 67.801 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Recova Hotel & Spa		9,2	Precio $ 396.976	+ $ 83.365 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	La Posada de Salim		8,9	Precio $ 214.486	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas El Doral	Apartamento privado, 2 dormitorios, 1 sala de estar, 1 baño, 65m²	NA	Precio $ 369.804	+ $ 77.659 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Balcones del Lago	Chalet de montaña entero, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	7,0	Precio $ 443.765	+ $ 93.191 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cabañas Espejo del Cielo	Bungalow entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 38m²	8,4	Precio $ 279.547	+ $ 58.705 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Posada El Antiguo Refugio potrero de los funes		7,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Via Foria	Apartamento entero, 3 dormitorios, 1 sala de estar, 2 baños, 1 cocina, 120m²	NA	Precio $ 236.674	+ $ 49.702 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Hotel Potrero De Los Funes	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 1.143.927	+ $ 240.225 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Posada el Paraiso		7,5	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Punta Lavalle		7,2	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Be Haus Temporary Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio $ 248.508	+ $ 52.187 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Quintana Hotel		7,3	Precio $ 277.353	+ $ 58.244 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Aiello		7,6	Precio original $ 185.691. Precio actual $ 148.552.	+ $ 31.196 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Adriatica	Estudio entero, 1 baño, 18m²	9,0	Precio $ 178.871	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Regidor		7,0	Precio $ 152.852	+ $ 32.099 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	ALQT Departamentos SL	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 60m²	9,1	Precio $ 209.556	+ $ 44.007 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Gran Hotel San Luis		6,5	Precio $ 333.884	+ $ 70.116 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamentos Sarmiento	Apartamento entero, 2 dormitorios, 1 sala de estar, 1 baño, 1 cocina, 150m²	9,7	Precio $ 215.719	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Duplex Centrico con Cochera	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 40m²	9,2	Precio $ 246.536	+ $ 51.773 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+La Punta	"Casa Vacacional ""Aguaditas"""	Chalet de montaña entero, 3 dormitorios, 3 baños, 320m²	NA	Precio $ 719.885	+ $ 71.988 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Residencia La Isabel		9,0	Precio $ 197.229	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico en San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina	8,0	Precio $ 251.467	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Beautifull Village Estancia Grande	Villa entera, 7 dormitorios, 9 baños, 1 cocina, 600m²	NA	Precio original $ 754.400. Precio actual $ 603.520.	+ $ 126.739 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+El Trapiche	Cabañas Argentinas	Apartamento entero, 1 dormitorio, 1 baño	8,0	Precio original $ 298.210. Precio actual $ 238.568.	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Hotel Potrero De Los Funes	Suite privada, 1 dormitorio, 1 sala de estar, 1 baño, 50m²	9,0	Precio $ 1.143.927	+ $ 240.225 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+Potrero de los Funes	Cantera Boutique Hotel		9,1	Precio $ 419.111	+ $ 88.013 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Casa los paraisos	Casa o chalet entero, 1 dormitorio, 1 baño, 50m²	8,5	Precio $ 131.689	+ $ 27.655 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Tu descanso	Apartamento entero, 1 dormitorio, 1 baño, 70m²	9,2	Precio $ 314.333	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	CASA de CAMPO EN JUANA KOSLAY San Luis con pileta	Casa o chalet entero, 2 dormitorios, 3 salas de estar, 1 baño, 1 cocina, 60m²	NA	Precio $ 332.454	+ $ 69.815 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Posada el Paraiso		7,5	Precio $ 197.229	+ $ 41.418 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Punta Lavalle		7,2	Precio $ 165.179	+ $ 34.688 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Dpto cercano al centro con WIFI	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 36m²	9,1	Precio $ 181.771	+ $ 38.172 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Be Haus Temporary Apartments	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 35m²	9,0	Precio $ 248.508	+ $ 52.187 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Departamento Céntrico	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 45m²	8,3	Precio $ 172.575	+ $ 36.241 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Alquiler Temporario San Luis	Apartamento entero, 1 dormitorio, 1 sala de estar, 1 baño, 1 cocina, 36m²	9,4	Precio $ 176.840	+ $ 37.136 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Complejo Don Delco	Apartamento entero, 1 dormitorio, 1 baño, 1 cocina, 30m²	7,8	Precio $ 214.856	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Quintana Hotel		7,3	Precio $ 277.353	+ $ 58.244 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Aiello		7,6	Precio original $ 185.691. Precio actual $ 148.552.	+ $ 31.196 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Adriatica	Estudio entero, 1 baño, 18m²	9,0	Precio $ 178.871	Incluye impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
+San Luis	Hotel Regidor		7,0	Precio $ 152.852	+ $ 32.099 de impuestos y cargos	14 noches, 2 adultos	San Luis	2023-1-1	2023-1-15
