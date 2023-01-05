@@ -54,5 +54,5 @@ Para constituir la base de datos final, se calcula el precio por noche sumando l
 Por otro lado, se eliminan los valores nulos existentes en el precio de hospedaje debido a las particularidades de éstos y se rellenan los valores de la calificación en función de su distribución. [Más información en el script](https://github.com/NicoGottig/myvdd2022_tf_gottig/blob/main/Scripts/02_tfi_manipulacion-validacion.R)<br>
 
 #### 4 - Presentación de la información:
-Para la presentación de la información se desarrolló una aplicación interactiva *Shiny*. El usuario puede ingresar opciones de estilo y filtros de cálculo para visualizar la información resumida en un mapa. Además, puede consultar tablas resumidas y completas, permitiendo acceder la descripción de cada hospedaje. Para acceder a la aplicación haga [click aquí. ](www.shiny.com)<br>
+Para la presentación de la información se desarrolló una aplicación interactiva *Shiny*. El usuario puede ingresar opciones de estilo y filtros de cálculo para visualizar la información resumida en un mapa. Además, puede consultar tablas resumidas y completas, permitiendo acceder la descripción de cada hospedaje. Para acceder a la aplicación haga [click aquí. ](https://mj8qpg-nicolas-gottig.shinyapps.io/Mapa_Interactivo_Hospedajes_Argentina/?_ga=2.91187288.370091405.1672937106-2073232725.1672937106)<br>
 
