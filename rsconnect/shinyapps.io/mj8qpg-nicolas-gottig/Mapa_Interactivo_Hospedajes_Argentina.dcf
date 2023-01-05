@@ -1,0 +1,14 @@
+name: Mapa_Interactivo_Hospedajes_Argentina
+title: Mapa_Interactivo_Hospedajes_Argentina
+username:
+account: mj8qpg-nicolas-gottig
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7981215
+bundleId: 6701692
+url: https://mj8qpg-nicolas-gottig.shinyapps.io/Mapa_Interactivo_Hospedajes_Argentina/
+when: 1672950873.64233
+lastSyncTime: 1672950873.64235
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|Scripts/01_tfi_extraccion.R|Scripts/02_tfi_manipulacion-validacion.R|Scripts/tfi_Scraping-fun.R|Data
