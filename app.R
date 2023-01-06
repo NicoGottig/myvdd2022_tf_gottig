@@ -1,5 +1,3 @@
-rsconnect::setAccountInfo(name='mj8qpg-nicolas-gottig', token='0B17DDEA920AAB34F2FE5BE4F3683214', secret='mr15B3v7U55TFlM4QShzXHo2FFqMIpO4pLkcWJ3l')
-library(rsconnect)
 library(shiny)
 
 # Definimos paquetes
