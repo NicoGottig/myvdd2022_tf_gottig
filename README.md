@@ -32,9 +32,9 @@ La base de datos construida a través de las técnicas de web scraping estará c
 <br>
 
 Además, se construyen las siguientes variables:  <br>
-+ **Precio_noche**: Precio neto por noche del hospedaje ($Precio_Noche=Precio/Noches$)  <br>
-+ **Impuesto_noche**: Impuesto por noche del hospedaje ($Impuesto_noche=Impuesto/Noches$)<br>  
-+ **Bruto_noche**: Precio total (incluyendo impuestos) ($Bruto_Noche=Precio_noche+Impuesto_Noche$)<br>
++ **Precio_noche**: Precio neto por noche del hospedaje (Precio_Noche=Precio/Noches)  <br>
++ **Impuesto_noche**: Impuesto por noche del hospedaje (Impuesto_noche=Impuesto/Noches)<br>  
++ **Bruto_noche**: Precio total (incluyendo impuestos) (Bruto_Noche=Precio_noche+Impuesto_Noche)<br>
 
 Con respecto a las fuentes de información, se utilizará Booking por su facilidad de acceso a la información.<br>
 
