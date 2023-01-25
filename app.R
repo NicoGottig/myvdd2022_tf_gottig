@@ -12,6 +12,8 @@ load("data.Rda")
 shapeData <- rgdal::readOGR(dsn = "pxpciadatosok.shp", verbose = FALSE)
 shapeData <- sp::spTransform(shapeData, CRS("+proj=longlat +datum=WGS84 +no_defs"))
 shapeData <- sf::st_as_sf(shapeData, wkt = 'polygons', crs = st_crs(4326)) # make sf
+shapeData <- rmapshaper::ms_simplify(shapeData, keep = 0.01, keep_shapes = TRUE)
+
 shapeData$provincia <- chartr("áéíóúÁÉÍÓÚàèìòùÀÈÌÒÙü", "aeiouAEIOUaeiouAEIOUu", x = shapeData$provincia)
 
 # Servidor ---------------------------------------------------------------------
@@ -328,7 +330,9 @@ ui <- navbarPage("Mapa Interactivo de Precios de Hospedaje",
                                 choices = round(seq(0, 1, 0.05),2),
                                 grid = TRUE,
                                 selected = 0.85),
-                              p(em(" * El mapa puede tardar en cargar."), style = "font-size:12px")
+                              p(em(" * Para ver detalles del alquiler, ver la pestaña 'tabla completa'. "), style = "font-size:12px"),
+                              p(em(" * Los precios pueden variar por la fecha de consulta de los datos. "), style = "font-size:12px"),
+                              p(em(" Fecha de Consulta: Dic-2022, ene-2023. "), style = "font-size:12px")
                               
                               
                             ),
@@ -371,7 +375,7 @@ ui <- navbarPage("Mapa Interactivo de Precios de Hospedaje",
                                          p(strong("PAQUETES UTILIZADOS | "), 
                                            "Tidyverse, Leaflet, Shiny, Rvest, readODS,
                                            Lubridate, Naniar, Zoo, Janitor, Haven, UnivariateML,
-                                           rgdal, sf, sp.")
+                                           Rgdal, Sf, Sp.")
                                          
                             ),
                             mainPanel(
@@ -402,6 +406,7 @@ ui <- navbarPage("Mapa Interactivo de Precios de Hospedaje",
                               p("- Trabajar en el diseño muestral para obtener un valor representativo de las provincias.", align = "justify"),
                               p(align = "justify", "- Optimizar la función de recolección de datos."),
                               p(align = "justify", "- Mejorar la reactividad del mapa respecto a las opciones del usuario. "),
+                              p(align = "justify", "- Mejorar el procedimiento de reemplazo de valores perdidos. "),
                               hr(),
                               p(em("Mapa Interactivo de Hospedajes de Argentina. 2023. "))
                             )
